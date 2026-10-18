@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="建築師專技考試考古題彙整與測驗平台" />
+  <title>築考 Lab｜建築師專技考試</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="#home" data-view="home" aria-label="回到首頁">
+        <span class="brand-mark">築</span>
+        <span><b>築考</b><small>ARCHI EXAM LAB</small></span>
+      </a>
+      <nav class="main-nav" aria-label="主要導覽">
+        <button class="nav-item active" data-view="home">總覽</button>
+        <button class="nav-item" data-view="bank">題庫瀏覽</button>
+        <button class="nav-item" data-view="quiz">開始測驗</button>
+      </nav>
+      <div class="topbar-actions"><span class="sync-dot"></span><span>題庫持續整理中</span></div>
+    </header>
+
+    <main>
+      <section id="welcome" class="view active-view page-wrap welcome-view">
+        <div class="welcome-head"><p class="eyebrow">ARCHITECT LICENSE EXAM · MOCK TEST GENERATOR</p><h1>用歷屆試題生成模擬測驗</h1><p>先選擇科目與年度範圍，系統再從對應的考古題母體組成模擬試卷。</p></div>
+        <div id="welcomeSubjects" class="welcome-grid"></div>
+        <div class="mock-settings"><label>年度範圍<select id="welcomeYearMode"><option value="all">全部已匯入年度</option><option value="recent8">近8年</option><option value="mid8">第9～16年</option><option value="older">其餘年度</option><option value="2025">2025 年</option><option value="2024">2024 年</option><option value="2023">2023 年</option><option value="2022">2022 年</option><option value="2021">2021 年</option></select></label><label>測驗題數<select id="welcomeQuestionCount" disabled><option value="official">請先選擇科目</option></select></label><span id="welcomeChoice">尚未選擇類科</span><button id="enterQuiz" class="btn primary" disabled>生成模擬測驗 →</button></div><p id="welcomeBankStatus" class="bank-status"></p>
+      </section>
+
+      <section id="home" class="view">
+        <div class="hero page-wrap">
+          <div class="hero-copy">
+            <p class="eyebrow">ARCHITECT LICENSE EXAM · TAIWAN</p>
+            <h1>把考古題，<br><em>變成你的建築訓練場。</em></h1>
+            <p class="hero-text">以考選部官方題庫為源頭，依科目、年份與命題脈絡整理，讓每一次練習都更接近真正的考場。</p>
+            <div class="hero-actions"><button class="btn primary" data-view="quiz">選科目開始測驗 <span>→</span></button><button class="text-btn" data-view="bank">瀏覽六大科目 <span>↗</span></button></div>
+          </div>
+          <div class="hero-art" aria-label="建築線稿裝飾">
+            <div class="grid-lines"></div><div class="arch arch-a"></div><div class="arch arch-b"></div><div class="arch arch-c"></div>
+            <div class="hero-note note-one">114<br><small>最新年度</small></div><div class="hero-note note-two">06<br><small>核心科目</small></div>
+          </div>
+        </div>
+        <div class="page-wrap stats-row">
+          <div><strong>6</strong><span>核心科目</span></div><div><strong>28</strong><span>115–88 年度範圍</span></div><div><strong>50%</strong><span>近五年配題</span></div><div><strong>115</strong><span>抓取起始年度</span></div>
+        </div>
+        <div class="page-wrap section-block">
+          <div class="section-heading"><div><p class="eyebrow">YOUR NEXT MOVE</p><h2>今天想怎麼練？</h2></div><span class="muted">選一個入口，開始累積你的解題軌跡</span></div>
+          <div class="entry-grid">
+            <button class="entry-card warm" data-view="quiz"><span class="entry-icon">✦</span><span><b>快速測驗</b><small>混合六科，依年份比例抽題</small></span><i>→</i></button>
+            <button class="entry-card dark" data-view="bank"><span class="entry-icon">⌘</span><span><b>專攻科目</b><small>依科目與年度精準挑題</small></span><i>→</i></button>
+            <a class="entry-card line" href="https://wwwq.moex.gov.tw/exam/wFrmExamQandASearch.aspx?y=2025&e=114180" target="_blank" rel="noreferrer"><span class="entry-icon">↗</span><span><b>官方來源</b><small>前往考選部考畢試題查詢</small></span><i>→</i></a>
+          </div>
+        </div>
+        <div class="page-wrap section-block subject-section"><div class="section-heading"><div><p class="eyebrow">SUBJECT MAP</p><h2>六大核心科目</h2></div><button class="text-btn" data-view="bank">查看全部 <span>→</span></button></div><div id="subjectCards" class="subject-grid"></div></div>
+      </section>
+
+      <section id="bank" class="view page-wrap inner-view">
+        <div class="view-header"><div><p class="eyebrow">QUESTION BANK</p><h1>題庫瀏覽</h1><p>從科目與年度切入，建立你的個人複習路線。</p></div><a class="source-pill" href="https://wwwq.moex.gov.tw/exam/wFrmExamQandASearch.aspx?y=2025&e=114180" target="_blank" rel="noreferrer">考選部官方來源 ↗</a></div>
+        <div class="filter-bar"><label>科目<select id="bankSubject"><option value="all">全部科目</option></select></label><label>年度<select id="bankYear"><option value="all">全部年度</option><option>2025</option><option>2024</option><option>2023</option><option>2022</option><option>2021</option><option>2020</option></select></label><label class="search-field">搜尋<input id="bankSearch" placeholder="輸入關鍵字…" /></label><span id="bankCount" class="result-count"></span></div>
+        <div id="structureNotice" class="structure-notice"></div>
+        <div id="bankList" class="bank-list"></div>
+      </section>
+
+      <section id="quiz" class="view page-wrap inner-view quiz-view">
+        <div class="view-header quiz-header"><div><p class="eyebrow">PRACTICE MODE</p><h1>開始測驗</h1><p id="quizDescription">依歷年卷別架構練習；六科混合時按科目比例抽題。</p></div><div class="quiz-controls"><label>測驗科目<select id="quizSubject"><option value="all">六科混合</option></select></label><button id="startQuiz" class="btn primary">重新抽題 ↻</button></div></div>
+        <div class="quiz-layout"><div class="quiz-main"><div class="exam-blueprint" id="examBlueprint"></div><div class="timer-bar"><span>剩餘時間</span><strong id="timer">--:--:--</strong></div><div class="progress-head"><span id="questionNo">第 1 / 10 題</span><span id="questionYear" class="tag">近8年</span></div><div class="progress-track"><span id="progressBar"></span></div><article id="questionCard" class="question-card"></article><div class="quiz-footer"><button id="prevQuestion" class="btn ghost">← 上一題</button><button id="nextQuestion" class="btn primary">下一題 →</button><button id="downloadAttempt" class="btn ghost" hidden>下載本次紀錄</button><button id="printReport" class="btn ghost" hidden>列印／另存 PDF</button></div></div><aside class="quiz-aside"><div class="aside-card"><p class="eyebrow">SCORING</p><strong id="scoreText">尚未完成</strong><div class="score-ring"><span id="scoreNumber">—</span><small>分</small></div><p id="scoreHint">完成全部題目後才會顯示評分。</p></div><div class="aside-card tiny"><b>配題規則</b><div class="rule"><span class="legend recent"></span>近8年 <strong>50%</strong></div><div class="rule"><span class="legend mid"></span>第9～16年 <strong>35%</strong></div><div class="rule"><span class="legend old"></span>其餘年度 <strong>15%</strong></div></div></aside></div>
+      </section>
+    </main>
+    <footer class="footer page-wrap"><span>築考 Lab · 建築師專技考試練習平台</span><span>資料來源：考選部考畢試題查詢平台</span></footer>
+  </div>
+  <style>.answer-source{display:inline-block;margin-left:10px;padding:3px 7px;border-radius:4px;font-size:10px;letter-spacing:0}.answer-source.official{background:#e2efd3;color:#52804e}.answer-source.unofficial{background:#fae5df;color:#a24c3f}</style>
+  <script src="moex_questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
