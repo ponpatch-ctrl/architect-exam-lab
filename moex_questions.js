@@ -79,7 +79,7 @@ window.MOEX_QUESTIONS = [
       "低降伏比",
       "低厚度方向斷面縮率"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -96,7 +96,7 @@ window.MOEX_QUESTIONS = [
       "「壁體內傾度管」是用來觀測連續壁受土壓變形的情況，以具有感應器的「探測桿」吊放入管內進\n行測量",
       "「傾度盤」通常安裝在鄰房的牆上，而非基地內，再以「傾斜儀」進行測量\n\n代號：3801\n頁次：12－3"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -113,7 +113,7 @@ window.MOEX_QUESTIONS = [
       "石膏板",
       "透水性混凝土地磚"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -147,7 +147,7 @@ window.MOEX_QUESTIONS = [
       "防滑性能",
       "抗彎強度"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -181,7 +181,7 @@ window.MOEX_QUESTIONS = [
       "連續壁單元內配有鋼筋，因此不能穿鑿、不能搭配地錨使用",
       "連續壁的鋼筋籠為了提升剛度，會在鋼筋籠內銲接斜向的鋼筋"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -215,7 +215,7 @@ window.MOEX_QUESTIONS = [
       "②③④⑥⑤①",
       "①②④③⑤⑥"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -232,7 +232,7 @@ window.MOEX_QUESTIONS = [
       "進行剪力釘彎曲試驗時，可以使用鐵鎚對非銲接端錘擊作30 度左右之彎曲",
       "鋼板之機械冷彎加工其內側半徑應大於2 倍板厚，且內外側應適當加熱以消除內應力"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -249,7 +249,7 @@ window.MOEX_QUESTIONS = [
       "作為上部鋼構造與下部RC 構造之間的轉換層，以避免樓層間的韌性變化過於劇烈",
       "與逆打工法的地下鋼支柱結合，成為永久性的SRC 柱"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -266,7 +266,7 @@ window.MOEX_QUESTIONS = [
       "縮小結構跨距、增加柱的數量",
       "增加柱內的加勁板\n\n代號：3801\n頁次：12－4"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -283,7 +283,7 @@ window.MOEX_QUESTIONS = [
       "彎矩接合（moment connection）",
       "半剛性接合（semi-rigid connection）"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -402,7 +402,7 @@ window.MOEX_QUESTIONS = [
       "氟碳烤漆",
       "電鍍"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -419,7 +419,7 @@ window.MOEX_QUESTIONS = [
       "輕型鋼骨架或木構骨架為底，兩面各覆以石膏板、水泥板、纖維水泥板、纖維強化水泥板、木質系\n水泥板、氧化鎂板或硬質纖維板，其板材總面密度在55 公斤／平方公尺以上，板材間以密度在60\n公斤／立方公尺以上，厚度在7.5 公分以上之玻璃棉、岩棉或陶瓷棉填充，且牆總厚度在12 公分\n以上",
       "其他經中央主管建築機關認可具有空氣音隔音指標Rw在40 分貝以上之隔音性能，或取得內政部綠\n建材標章之高性能綠建材（隔音性）"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -436,7 +436,7 @@ window.MOEX_QUESTIONS = [
       "乾式隔間牆只要兩側封板均為耐燃一級的板材，牆體就可以達到一小時防火時效",
       "輕鋼架明架天花板的輕鋼骨架接頭如果抗拉力不足，在地震時就比較容易脫落而掉落\n\n代號：3801\n頁次：12－5"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -453,7 +453,7 @@ window.MOEX_QUESTIONS = [
       "對鋼筋結構進行額外的加固後，確保其安全性，即可作為臨時工作架",
       "禁止使用鋼筋作為任何形式的支撐架或拉索支持物"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -470,7 +470,7 @@ window.MOEX_QUESTIONS = [
       "以軌道或滾木移動者，為防止其突然移動，應以軌夾等固定之",
       "以重力均衡方式固定者，為防止其平衡錘之移動，應確實固定於腳架"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -504,7 +504,7 @@ window.MOEX_QUESTIONS = [
       "因搗實困難，灌漿用的混凝土得以採用粒徑較小的粗粒料，惟搗實過程中的敲擊或應力波仍應避免\n接觸模板或鋼板",
       "箱型鋼柱內可植銲剪力釘以增加混凝土和鋼板的握裹"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -538,7 +538,7 @@ window.MOEX_QUESTIONS = [
       "中空部分可增加隔音之效果",
       "中空部分可增加保溫隔熱之效果"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -555,7 +555,7 @@ window.MOEX_QUESTIONS = [
       "中層漆噴塗時，因噴塗面積大，可中途停止一次，若銜接處有不均勻現象，須再連續噴塗以免造成\n色彩不均勻",
       "面漆施工前，中層漆塗裝面若曾受淋雨，則須待其完全乾燥方得施工"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -589,7 +589,7 @@ window.MOEX_QUESTIONS = [
       "玻璃外牆可設計成玻璃直櫺為由玻璃點支撐系統（DPG, dot point glazing）所構成，包括圖C 之雙\n肋工法及單肋工法",
       "玻璃外牆可設計成玻璃直櫺為由玻璃點支撐系統（DPG, dot point glazing）所構成，包括圖D 之貫\n穿工法"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -623,7 +623,7 @@ window.MOEX_QUESTIONS = [
       "延長線上",
       "垂直線上"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -640,7 +640,7 @@ window.MOEX_QUESTIONS = [
       "隔件以多大的間距規劃，關係到拆模後，圓錐分布的視覺效果",
       "預拌混凝土拆模後，轉動拔除圓錐後，牆面會有圓錐狀的洞，洞裏可見埋設的螺栓，為防止螺栓生\n鏽滲水，因此應用無收縮水泥砂漿加以填充"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -657,7 +657,7 @@ window.MOEX_QUESTIONS = [
       "氣泡水平尺",
       "鉛錘及水線"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -691,7 +691,7 @@ window.MOEX_QUESTIONS = [
       "銲接有助於將鋼料連續地接合在一起，多在預期變形量較小的地方先銲接、變形量大的部位最後銲接",
       "銲接雖有助於接合的力學性能，但對溫濕度、風速、現場環境條件要求高，宜審慎進行\n結構膠\n支承構件\n層間變位追縱用的空隙\n直櫺\n板玻璃\n雙肋工法\n玻璃直櫺\n玻璃屏幕\n填縫劑\n玻璃直櫺\n單肋工法\n貫穿工法\n玻璃屏幕\n玻璃屏幕\n填縫劑\n填縫劑\n玻璃直櫺\n耐候性填縫膠\n圖B\n圖C\n圖D\n圖A\n玻璃直櫺\n\n代號：3801\n頁次：12－7"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -708,7 +708,7 @@ window.MOEX_QUESTIONS = [
       "磁粉探傷檢驗",
       "超音波檢驗"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -742,7 +742,7 @@ window.MOEX_QUESTIONS = [
       "若既有的面磚有鼓脹浮起之現象，須先進行打除並實施表面的修補後，才可塗佈底層塗料",
       "在較厚之既有粉刷層施作時，須確保插銷具有足夠的長度可打入結構體至一定之深度\n\n代號：3801\n頁次：12－8"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -759,7 +759,7 @@ window.MOEX_QUESTIONS = [
       "階梯踏面磚縫，可塗佈防水劑，阻絕水分滲入磚縫內，減緩白華現象",
       "磨石子磚材質本身遇水，就容易產生氫氧化鈣吐白"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -776,7 +776,7 @@ window.MOEX_QUESTIONS = [
       "昇降機道與旅館客房相鄰的分間牆",
       "醫院內病房與病房之間的分間牆"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -793,7 +793,7 @@ window.MOEX_QUESTIONS = [
       "③為第一道批土，通常每面寬約50 mm",
       "④為第二道批土，寬度必需大於材料③的敷設寬度\n1：3水泥砂漿\n止滑溝\n導圓角\n磨石子磚\n2~3\n①\n②\n③\n④\n填充材：\n玻璃棉\n（密度80 kg/m3，厚度8 cm）\n板材：\n石膏板\n（板材總面密度＝58 kg/m2）\nd\nd = 11 cm\n磨石子磚戶外樓梯踏步詳圖（單位：公分）\n\n代號：3801\n頁次：12－9"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -810,7 +810,7 @@ window.MOEX_QUESTIONS = [
       "C 處可以使用結構膠或防水膠來進行填充",
       "B 處之部件可用來控制玻璃與金屬之接著深度"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -827,7 +827,7 @@ window.MOEX_QUESTIONS = [
       "此工程木材主要作為木構造中之樓板及牆板使用，可作為壁式結構系統的主要材料",
       "此工程木材通稱為結構用集成材（GLT）"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -844,7 +844,7 @@ window.MOEX_QUESTIONS = [
       "D1 133.2 mm",
       "D2 172.2 mm"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -861,7 +861,7 @@ window.MOEX_QUESTIONS = [
       "將木材之含水率控制在15%以下",
       "山牆部分可設置換氣口\n直交層\n直交層\n強軸方向（長度）\n集成元集成元集成元集成元\n單片（ply）\n單片（ply）\n單片（ply）\n單片（ply）\n單片（ply）\n單片（ply）\n單片（ply）\n小角材\n鋸板\n弱軸方向（寬度）\n外層\n外層\n內層\n層\n層\n層\n層\n層\n鋁擠型\n複層玻璃\nA\n小圓棒\nB\nC\n#7竹節鋼筋，db = 2.22 cm\n#9竹節鋼筋，db = 2.87 cm\nL1\nL2\nD1\nD2\ndb\ndb\n\n代號：3801\n頁次：12－10"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -878,7 +878,7 @@ window.MOEX_QUESTIONS = [
       "框架填縫式帷幕牆於設計時，伸縮縫接縫邊緣之材料得產生局部碰撞破壞，以吸收變位所產生之能\n量釋放",
       "框架填縫式帷幕牆於設計時，應能承受因地震力所引起之側向位移"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -929,7 +929,7 @@ window.MOEX_QUESTIONS = [
       "連跨樓層數在三層以下，且樓地板面積在1,500 平方公尺以下的挑空部分，可免受防火時效的限制",
       "挑空部分的防火要求可以依據其使用情況、連跨樓層數以及樓地板面積來適當放寬"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -946,7 +946,7 @@ window.MOEX_QUESTIONS = [
       "以成型發泡聚苯乙烯板（EPS 板）作為截火填塞材料時，其樓地板面層尚需塗布膨脹型阻火發泡劑\n填塞周圍縫隙",
       "若使用防火岩棉為截火填塞材料時，其樓地板面層尚需加裝防火補土泥等材料予以密封"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -963,7 +963,7 @@ window.MOEX_QUESTIONS = [
       "為使基地綠化面積增加，可於室外通路之地面設置植草磚",
       "因基地條件限制，需於室外通路範圍內設置水溝格柵，但其水溝格柵開口在主要行進之方向，且開\n口小於1.3 公分"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -980,7 +980,7 @@ window.MOEX_QUESTIONS = [
       "20 公分",
       "30 公分"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -997,7 +997,7 @@ window.MOEX_QUESTIONS = [
       "牆頂須採RC 過梁，若砌過梁磚且配置橫向鋼筋澆置混凝土，則視同過梁",
       "混凝土空心磚中須用豎向鋼筋，並於孔中填滿水泥砂漿\n\n代號：3801\n頁次：12－11"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1014,7 +1014,7 @@ window.MOEX_QUESTIONS = [
       "每一構件剪力釘側向最少應有1.5 cm 厚之混凝土保護層，包含安放在鋼承鈑肋梁上之剪力釘",
       "一般來說，兩剪力釘間之最小中心間距，在梁之軸方向為6 倍釘直徑，在橫方向為4 倍釘直徑"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1031,7 +1031,7 @@ window.MOEX_QUESTIONS = [
       "⑥②③④⑤①",
       "⑥②①④③⑤"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1065,7 +1065,7 @@ window.MOEX_QUESTIONS = [
       "運用低天花板、高隔間，具有透明和反射性的表面材料，都可以將晝光利用最大化",
       "選用當地生產、處理和製造的裝修材料，可節省運送能源，有助於地區經濟"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1082,7 +1082,7 @@ window.MOEX_QUESTIONS = [
       "管涵四周以礫石及不織布包覆，以利雨水入滲",
       "於滲透側溝入流處、彎折、寬度變化點應設置滲透陰井，進行穩流與沉砂"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1133,7 +1133,7 @@ window.MOEX_QUESTIONS = [
       "戶外安全梯出入口，使用60 B\n30 A\n\n的防火門",
       "高層建築物的防災中心出入口，使用60 A 的防火門"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1167,7 +1167,7 @@ window.MOEX_QUESTIONS = [
       "砂湧",
       "管湧"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1201,7 +1201,7 @@ window.MOEX_QUESTIONS = [
       "任務編組與責任歸屬",
       "可建立工程報表系統及完整資訊"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1218,7 +1218,7 @@ window.MOEX_QUESTIONS = [
       "工程預備費應忽略工程規模或特性，統一採用固定百分比估算",
       "物價調整費基於直接成本、間接成本與預備費總和，考慮基準年物價進行調整"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1252,7 +1252,7 @@ window.MOEX_QUESTIONS = [
       "監造單位必須對施工廠商的施工計畫、品質計畫進行審核",
       "監造單位負責督導施工廠商執行工地安全衛生、交通維持及環境保護等工作"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1269,7 +1269,7 @@ window.MOEX_QUESTIONS = [
       "外部施工架之面積=建築物周圍長度建築物總高度（含女兒牆）",
       "內部天花板之面積=建築物樓板之面積"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1303,7 +1303,7 @@ window.MOEX_QUESTIONS = [
       "16",
       "19\n地盤\n沉陷現象發生\n地下水位\n水平支撐\n止水性擋土牆\n開挖底層產生土壤堆積\n水壓"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1405,7 +1405,7 @@ window.MOEX_QUESTIONS = [
       "僅③④",
       "僅②③"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1439,7 +1439,7 @@ window.MOEX_QUESTIONS = [
       "使用單層均質材料，依質頻法則，面密度越大，隔音值也越高",
       "中空雙層牆構造，於高頻域不會有重合效應"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1473,7 +1473,7 @@ window.MOEX_QUESTIONS = [
       "1.8",
       "2.0"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1490,7 +1490,7 @@ window.MOEX_QUESTIONS = [
       "18 mm 雙層矽酸鈣板背後加9 cm 多孔性吸音材",
       "18 mm 雙層矽酸鈣板背後留9 cm 空氣層\n\n代號：80140\n頁次：6－4"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1507,7 +1507,7 @@ window.MOEX_QUESTIONS = [
       "電力取熱型：主要從電能轉換過程中取熱做為熱源使用",
       "太陽輻射源與大氣熱源型：主要利用太陽能集熱板並吸收空氣熱能做為熱源"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1541,7 +1541,7 @@ window.MOEX_QUESTIONS = [
       "衛生設備在裝置組合上，宜設置個別通氣管，以避免產生自發性虹吸作用",
       "通氣立管不得與雨排水立管相連接"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1558,7 +1558,7 @@ window.MOEX_QUESTIONS = [
       "美容院應裝設截留器及易於拆卸之過濾網，罩上孔徑之小邊不得大於12 mm",
       "用於截留或分離砂或是較重固體之設備，其封水深度不得小於10 cm"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1575,7 +1575,7 @@ window.MOEX_QUESTIONS = [
       "自閉式水栓在定量給水之後，會自動關閉，常應用於公共廁所的洗手台",
       "裝置洗面盆時，應注意給水栓之出水口應該高於洗面盆溢水線，以防止虹吸現象"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1592,7 +1592,7 @@ window.MOEX_QUESTIONS = [
       "停車場油水分離器",
       "旅館房間油水分離器"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1609,7 +1609,7 @@ window.MOEX_QUESTIONS = [
       "中水常用於車輛清洗、綠化及景觀用水之人體可接觸之用水",
       "中水系統可就建築雜排水，就近收集與就地處理等原則來規劃"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1626,7 +1626,7 @@ window.MOEX_QUESTIONS = [
       "迅速告知室內人員儘早逃生避難，誘導其逃生方向",
       "延緩火災煙層蔓延，確保逃生通道安全\n\n代號：80140\n頁次：6－5"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1643,7 +1643,7 @@ window.MOEX_QUESTIONS = [
       "25",
       "30"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1660,7 +1660,7 @@ window.MOEX_QUESTIONS = [
       "標章內有列出性能係數為EER",
       "標章內有列出額定製冷能力"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1694,7 +1694,7 @@ window.MOEX_QUESTIONS = [
       "音樂廳：12",
       "體育館：10"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1745,7 +1745,7 @@ window.MOEX_QUESTIONS = [
       "昇降機昇降速度每分鐘不得小於60 m",
       "機間的四周應為具有一小時以上防火時效之牆壁及樓板，其天花板及牆裝修，應使用耐燃\n一級材料"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1762,7 +1762,7 @@ window.MOEX_QUESTIONS = [
       "通信線路屬於弱電系統",
       "消耗電力大的電器應盡量集中於同一個電流回路，以方便管理"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1779,7 +1779,7 @@ window.MOEX_QUESTIONS = [
       "太陽光電發電設備設置於屋頂，其最大設置範圍以建築物外牆中心線外1 m 為限，且不得\n超過建築基地範圍",
       "本案設置於屋頂之太陽能熱水系統產品高度為2.5 m，得免依建築法規定申請雜項執照\n\n代號：80140\n頁次：6－6"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1813,7 +1813,7 @@ window.MOEX_QUESTIONS = [
       "能夠滿足當代的需要，且不致危害到未來世代滿足其需要的發展",
       "消耗最少地球資源，製造最少廢棄物"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1830,7 +1830,7 @@ window.MOEX_QUESTIONS = [
       "設置滯洪設施",
       "設置雨水再利用設施"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1864,7 +1864,7 @@ window.MOEX_QUESTIONS = [
       "鋼構造建築不是一種符合二氧化碳減量的建築型態",
       "添加水淬爐石粉加入水泥中製成高爐水泥，是偷工減料的做法應嚴格禁止"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1881,7 +1881,7 @@ window.MOEX_QUESTIONS = [
       "採用Low-E 玻璃時，是仰賴其高隔熱與高反射率的節能特性，可大幅減少可見光波長與熱\n輻射進入室內",
       "為了增加大型空間的室內採光，應開設大面積水平天窗直接引進晝光，以達良好的晝光利\n用率與照明節能"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -1915,7 +1915,7 @@ window.MOEX_QUESTIONS = [
       "相鄰兩座無障礙昇降機不得為群管理控制",
       "機廂內應設置語音及點字系統"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2068,7 +2068,7 @@ window.MOEX_QUESTIONS = [
       "未依規定申請展期或已逾展期期限仍未完工者，其同意變更文件自規定得展期之期限屆滿之日起，\n失其效力",
       "建築物申請變更使用須增設停車空間於鄰地空地時，其鄰地所有權人不得出具附有期限之土地使用\n權同意書"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2085,7 +2085,7 @@ window.MOEX_QUESTIONS = [
       "基地內有連棟式建築物，其中任一棟業經施工完竣，該棟得經申請後核發部分使用執照",
       "棟的判斷，必須以一單獨或共同出入口及以無開口之防火牆及防火樓板所區劃分開者"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2102,7 +2102,7 @@ window.MOEX_QUESTIONS = [
       "建築物產權移轉時間",
       "建築物領得變更使用執照時間"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2119,7 +2119,7 @@ window.MOEX_QUESTIONS = [
       "經直轄市、縣（市）政府認定雜項工程必需與建築物一併施工者，其雜項執照得併同於建造執照中\n申請之",
       "雜項工程進行時，應施作適足之安全防護措施"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2136,7 +2136,7 @@ window.MOEX_QUESTIONS = [
       "昇降設備",
       "緊急供電系統"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2170,7 +2170,7 @@ window.MOEX_QUESTIONS = [
       "不動產營業員",
       "營造業之主任技師\n\n代號：1801\n頁次：8－3"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2187,7 +2187,7 @@ window.MOEX_QUESTIONS = [
       "有關建築物結構與設備等專業工程部分，除5 層以下非供公眾使用之建築物外，應由承辦建築師交\n由依法登記開業之專業技師負責辦理，建築師並負連帶責任。當地無專業技師者，不在此限",
       "建築師受委託辦理建築物之施工者，應負工程品質查核之責任"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2238,7 +2238,7 @@ window.MOEX_QUESTIONS = [
       "非平屋頂之屋頂斜率三分之一",
       "突出屋面4.5 公尺的再生能源節能設施"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2255,7 +2255,7 @@ window.MOEX_QUESTIONS = [
       "用天窗採光者，有效採光面積按其採光面積之3 倍計算",
       "位於地板面以上85 公分範圍內之窗或開口面積均不得計入採光面積之內"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2272,7 +2272,7 @@ window.MOEX_QUESTIONS = [
       "建築物為2 層樓，總樓地板面積為250 平方公尺的住宅",
       "建築物為4 層樓，總樓地板面積為3000 平方公尺的百貨商場"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2306,7 +2306,7 @@ window.MOEX_QUESTIONS = [
       "直通樓梯在避難層之出入口直接開向道路，免設2 處以上不同方向之出入口",
       "直通樓梯於避難層開向屋外之出入口寬度不得小於1.2 公尺"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2323,7 +2323,7 @@ window.MOEX_QUESTIONS = [
       "1500",
       "2000"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2340,7 +2340,7 @@ window.MOEX_QUESTIONS = [
       "基地內通路之長度在10 公尺以上未滿20 公尺者，其寬度為3 公尺",
       "基地內通路為連通建築線者，得穿越同一基地建築物之地面層，穿越之深度不得超過12 公尺"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2374,7 +2374,7 @@ window.MOEX_QUESTIONS = [
       "12",
       "15\n\n代號：1801\n頁次：8－4"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2408,7 +2408,7 @@ window.MOEX_QUESTIONS = [
       "2.5",
       "3.0"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2425,7 +2425,7 @@ window.MOEX_QUESTIONS = [
       "12.5",
       "15"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2442,7 +2442,7 @@ window.MOEX_QUESTIONS = [
       "建築物依實際使用需要設有固定觀眾席位者，應於該場所內至少設置1 處輪椅觀眾席位",
       "建築物依相關法令規定應設置停車空間者，應於該場所內至少設置1 輛無障礙停車位"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2476,7 +2476,7 @@ window.MOEX_QUESTIONS = [
       "1/1200",
       "1/1500"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2493,7 +2493,7 @@ window.MOEX_QUESTIONS = [
       "員工餐廳（含廚房）及其他相關勞工福利設施之合計面積不得超過作業廠房面積五分之一",
       "附屬空間合計樓地板面積不得超過總樓地板面積之五分之二"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2527,7 +2527,7 @@ window.MOEX_QUESTIONS = [
       "60",
       "75"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2561,7 +2561,7 @@ window.MOEX_QUESTIONS = [
       "電氣設備之管道間應有足夠之空間容納各電氣系統管線。其與電信、給水排水、消防、燃燒、空氣\n調節及通風等設備之管道間採合併設置時，電氣管道與給水排水管、消防水管、燃氣設備之供氣管\n路、空氣調節用水管等管道應予以分隔",
       "緊急電源之供應採用蓄電池設備者，蓄電池室應有適當之進氣裝置\n\n代號：1801\n頁次：8－5"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2595,7 +2595,7 @@ window.MOEX_QUESTIONS = [
       "2000",
       "3000"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2612,7 +2612,7 @@ window.MOEX_QUESTIONS = [
       "協助社工教育訓練",
       "一定金額"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2646,7 +2646,7 @@ window.MOEX_QUESTIONS = [
       "辦理細部計畫通盤檢討時，其涉及主要計畫部分，得一併檢討之",
       "辦理主要計畫或細部計畫全面通盤檢討時，應參考機關、團體或人民建議作必要之修正"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2680,7 +2680,7 @@ window.MOEX_QUESTIONS = [
       "風景區內作住宅使用",
       "文教區內設置博物館"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2697,7 +2697,7 @@ window.MOEX_QUESTIONS = [
       "7",
       "8"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2782,7 +2782,7 @@ window.MOEX_QUESTIONS = [
       "直轄市、縣（市）國土計畫未依規定公告者，中央主管機關得逕為公告及公開展覽",
       "直轄市、縣（市）國土計畫擬訂機關對於核定之國土計畫申請復議時，應於公告實施前提出，並以\n1 次為限"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2799,7 +2799,7 @@ window.MOEX_QUESTIONS = [
       "20 年",
       "10 年"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2816,7 +2816,7 @@ window.MOEX_QUESTIONS = [
       "土地分區使用計畫及土地分區管制",
       "老樹保存計畫\n\n代號：1801\n頁次：8－6"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2833,7 +2833,7 @@ window.MOEX_QUESTIONS = [
       "丙種建築用地之建蔽率為40%，容積率為160%",
       "直轄市或縣市政府得視實際需要酌予調降非都市土地建蔽率及容積率，並報請中央主管機關備查"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2901,7 +2901,7 @@ window.MOEX_QUESTIONS = [
       "於管理組織成立並向地方主管機關完成報備後，向地方主管機關公庫繳納",
       "於管理組織成立並向地方主管機關完成報備後，直接撥付管理組織之公共基金帳戶"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2918,7 +2918,7 @@ window.MOEX_QUESTIONS = [
       "須經區分所有權人會議決議及頂層區分所有權人同意",
       "須經四分之三以上區分所有權人之同意"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2969,7 +2969,7 @@ window.MOEX_QUESTIONS = [
       "使用執照",
       "權利變換計畫"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -2986,7 +2986,7 @@ window.MOEX_QUESTIONS = [
       "土木包工業應於原登記直轄市、縣（市）地區營業，不得越區營業",
       "專業營造業應置符合各專業工程項目規定之專任工程人員"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3003,7 +3003,7 @@ window.MOEX_QUESTIONS = [
       "受轉交之專業營造業，不論任何情況，民法之抵押權及因添附而生之請求權，均不及於綜合營造業\n對於定作人之價金或報酬請求權",
       "綜合營造業承攬之營繕工程或專業工程項目，與定作人約定需自行施工者，應自行施工\n\n代號：1801\n頁次：8－7"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3037,7 +3037,7 @@ window.MOEX_QUESTIONS = [
       "甲等綜合營造業承攬造價限額為其資本額之10 倍",
       "乙等綜合營造業承攬造價限額為新臺幣9000 萬元"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3088,7 +3088,7 @@ window.MOEX_QUESTIONS = [
       "1 年",
       "2 年"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3105,7 +3105,7 @@ window.MOEX_QUESTIONS = [
       "超過契約內容之設計報告製圖、送審、審圖等相關費用",
       "設計錯誤修正書圖之相關費用"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3122,7 +3122,7 @@ window.MOEX_QUESTIONS = [
       "高差超過5 公分未達20 公分者，坡度不得大於1/10",
       "高差超過3 公分未達5 公分者，坡度不得大於1/5"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3156,7 +3156,7 @@ window.MOEX_QUESTIONS = [
       "除公共建築物外，建築基地面積未達300 平方公尺或每棟每層樓地板面積均未達150 平方公尺，不\n在此限",
       "建築物因建築基地地形、垂直增建、構造或使用用途特殊，設置無障礙設施確有困難，經中央主管\n建築機關核准者，得不適用無障礙建築物專章一部或全部之規定"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3173,7 +3173,7 @@ window.MOEX_QUESTIONS = [
       "50 公分≦2 R + T≦60 公分",
       "50 公分≦2 R + T≦55 公分\n\n代號：1801\n頁次：8－8"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3207,7 +3207,7 @@ window.MOEX_QUESTIONS = [
       "180",
       "210"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3224,7 +3224,7 @@ window.MOEX_QUESTIONS = [
       "農業用地興建農舍辦法",
       "營造業法施行細則"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3258,7 +3258,7 @@ window.MOEX_QUESTIONS = [
       "機廂內扶手上緣距機廂地面應為75 公分",
       "機廂內應設置語音系統以報知樓層、行進方向及開關情形"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3292,7 +3292,7 @@ window.MOEX_QUESTIONS = [
       "2200",
       "2700"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3309,7 +3309,7 @@ window.MOEX_QUESTIONS = [
       "自然地景、自然紀念物係指具保育自然價值之自然區域、特殊地形、地質現象、珍貴稀有植物及礦\n物之有形文化資產",
       "自然地景、自然紀念物依其主管機關，區分為國定、直轄市定、縣（市）定3 類"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3343,7 +3343,7 @@ window.MOEX_QUESTIONS = [
       "地下層每層興建面積，不得超過農舍建築面積",
       "農舍之放流水應符合放流水標準，並排入排水溝渠"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3445,7 +3445,7 @@ window.MOEX_QUESTIONS = [
       "若結構物之反力超過三個以上，則該結構一定是靜不定結構",
       "若一結構物為靜不定結構且為韌性結構，則該結構物具有應力重新分配的能力"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3462,7 +3462,7 @@ window.MOEX_QUESTIONS = [
       "AB、CD 均無內力",
       "AB 有內力，CD 無內力"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3479,7 +3479,7 @@ window.MOEX_QUESTIONS = [
       "此桁架受溫度變化後，會產生軸向應變",
       "可應用單位虛載重法分析此桁架C 點之垂直變位△C\n4 m\n3 m\n3 m\n\n代號：80120\n頁次：8－4"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3496,7 +3496,7 @@ window.MOEX_QUESTIONS = [
       "3",
       "2"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3513,7 +3513,7 @@ window.MOEX_QUESTIONS = [
       "12",
       "15"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3530,7 +3530,7 @@ window.MOEX_QUESTIONS = [
       "FAC800 N（壓）",
       "Ay300 N（向上）\n4 m\n6 kN\n12 kN\n6@3 m = 18 m\n6 m\n8 m\n8 m\n500 N\n1200 N\nA\nB\nC\ny\nx\n\n代號：80120\n頁次：8－5"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3598,7 +3598,7 @@ window.MOEX_QUESTIONS = [
       "c 桿件",
       "d 桿件"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3615,7 +3615,7 @@ window.MOEX_QUESTIONS = [
       "2P",
       "P\n2 m\n2 m\n2 m\n4 kN\n3 m\nA\nB\nC\nD\nE\nG\nH\nI\n4 kN\n3 kN 3 m\n4 m\n4 m\n3 m\n3 m"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3632,7 +3632,7 @@ window.MOEX_QUESTIONS = [
       "(c)",
       "固定端彎矩值均相同"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3649,7 +3649,7 @@ window.MOEX_QUESTIONS = [
       "Ax0 KN，Ay18 KN（↑）；Ex0 KN，Ey18 KN（↑）",
       "Ax9 KN（→），Ay18 KN（↑）；Ex 9 KN（←），Ey18 KN（↑）\nDAx18 KN（→），Ay18 KN（↑）；Ex 18 KN（←），Ey18 KN（↑）\nD\n3 m\n3 m\n3 m\n(a)\n(b)\n(c)\n2 w\n2 w"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3666,7 +3666,7 @@ window.MOEX_QUESTIONS = [
       "CD 段沒有承受軸力",
       "A 點及D 點均承受相同的水平反力，大小為P/2"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3717,7 +3717,7 @@ window.MOEX_QUESTIONS = [
       "柱箍筋間距最大不能超過25 公分",
       "短柱應考慮二次彎矩效應"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3734,7 +3734,7 @@ window.MOEX_QUESTIONS = [
       "強壓弱拉",
       "強節弱桿"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3751,7 +3751,7 @@ window.MOEX_QUESTIONS = [
       "避免桿件剪力破壞之發生早於彎矩破壞",
       "柱端彎矩強度總和大於梁端彎矩強度總和的1.2 倍"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3802,7 +3802,7 @@ window.MOEX_QUESTIONS = [
       "鋼板開槽銲係指鋼板在銲接前先行切割成各型倒角，以獲得較佳銲接效果",
       "負擔反覆荷載與衝擊荷重的銲接，以及希望發揮鋼板母材全斷面拉力強度的銲接方式，應\n使用全滲透銲接"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3819,7 +3819,7 @@ window.MOEX_QUESTIONS = [
       "CBF＞SMRF＞EBF",
       "SMRF＞CBF＞EBF"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3836,7 +3836,7 @@ window.MOEX_QUESTIONS = [
       "地震時搖晃感最強的是鋼骨（SS）結構",
       "在建築物樓層數與高度相等的情況下，柱子最粗的是鋼骨鋼筋混凝土（SRC）結構"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3853,7 +3853,7 @@ window.MOEX_QUESTIONS = [
       "配置礫石樁",
       "基礎增設隔震器（isolator）"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3870,7 +3870,7 @@ window.MOEX_QUESTIONS = [
       "柱梁鋼筋混凝土等結構構件保護層厚度，應能確保達到耐久化要求",
       "混凝土骨料可考慮再生骨材，以達到再生建材使用策略"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -3904,7 +3904,7 @@ window.MOEX_QUESTIONS = [
       "相較鋼結構，木材熱傳導低，有助室內溫度穩定",
       "相較RC 結構，木結構是乾式施工，現場工期較短"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4057,7 +4057,7 @@ window.MOEX_QUESTIONS = [
       "抗拉強度高，比重為2.3 g/cm3",
       "可以保護耐火性差的鋼筋"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4091,7 +4091,7 @@ window.MOEX_QUESTIONS = [
       "60×227 mm",
       "100×100 mm"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4125,7 +4125,7 @@ window.MOEX_QUESTIONS = [
       "穿孔鋁板",
       "礦纖板"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4142,7 +4142,7 @@ window.MOEX_QUESTIONS = [
       "＜0.8 W/m2・K",
       "＜1.8 W/m2・K"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4159,7 +4159,7 @@ window.MOEX_QUESTIONS = [
       "應考慮地震力、振動載重",
       "無需考慮施工期間之各種臨時性載重"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4210,7 +4210,7 @@ window.MOEX_QUESTIONS = [
       "預鑽埋入",
       "壓入工法"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4244,7 +4244,7 @@ window.MOEX_QUESTIONS = [
       "提高抗彎強度",
       "柱中的繫筋有助於固定主筋"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4278,7 +4278,7 @@ window.MOEX_QUESTIONS = [
       "剛性接合",
       "釘接合"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4329,7 +4329,7 @@ window.MOEX_QUESTIONS = [
       "此工法主要的構件單元之斷面尺寸為3.8 cm×8.9 cm",
       "此工法主要發展於日本"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4346,7 +4346,7 @@ window.MOEX_QUESTIONS = [
       "8 d",
       "10 d"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4363,7 +4363,7 @@ window.MOEX_QUESTIONS = [
       "以鋼管構成主要結構體時，斷面單純且適用於曲線等自由形狀，接頭多使用焊接",
       "鋼構造結構體須為防火構造時，一般在砂漿中摻入石綿，再噴覆於柱樑形成防火披覆"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4431,7 +4431,7 @@ window.MOEX_QUESTIONS = [
       "系統天花由天花板底架、裝修面材、機器設備等組成一個系統",
       "寬敞之辦公室系統天花，大地震時容易損害，需考量耐震對策\n頂部連接件\n窗楣\n豎框\n下框\n上框\n側格柵\n木地檻\nRC基礎\n假設斜撐\n\n代號：3801\n頁次：12－5"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4448,7 +4448,7 @@ window.MOEX_QUESTIONS = [
       "於混凝土、水泥空心磚或紅磚等圬工面上粉刷底層時，水泥砂漿拌和體積比為1 份水泥、3 份砂",
       "室內粉刷工作進行時及完成後均應保持對流通風維持濕度，以利養護"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4465,7 +4465,7 @@ window.MOEX_QUESTIONS = [
       "50 mm",
       "60 mm"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4499,7 +4499,7 @@ window.MOEX_QUESTIONS = [
       "模板技術工短缺",
       "各樓層之間的設計富有變化"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4516,7 +4516,7 @@ window.MOEX_QUESTIONS = [
       "樑與柱在鋼構廠內銲接，品質易控制",
       "托樑式考量到樑的彎矩圖，因此耐震性能較佳"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4533,7 +4533,7 @@ window.MOEX_QUESTIONS = [
       "柱應於斷面的四個角落配置主筋，樑則是上下緣各一支主筋",
       "為求在樑柱接頭處主筋得以連續，可於腹板或翼板設置貫穿孔"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4584,7 +4584,7 @@ window.MOEX_QUESTIONS = [
       "增加柱的細長比",
       "減少箍筋的間距"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4601,7 +4601,7 @@ window.MOEX_QUESTIONS = [
       "③⑤④①②",
       "④①③⑤②\n\n代號：3801\n頁次：12－6"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4618,7 +4618,7 @@ window.MOEX_QUESTIONS = [
       "選擇有背勾的磁磚",
       "施工時，仔細敲擊固定每片磁磚"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4635,7 +4635,7 @@ window.MOEX_QUESTIONS = [
       "瀝青（或柏油）併油毛氈",
       "矽利康填縫防水"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4652,7 +4652,7 @@ window.MOEX_QUESTIONS = [
       "洞石類石材施工前須保持孔隙開放通風，讓水分可以排出避免淤積",
       "避免採用乾拌水泥砂澆水打底之工法，避免水泥砂漿未能充分拌合，導致日後較易吸水產生水化吐白"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4669,7 +4669,7 @@ window.MOEX_QUESTIONS = [
       "安裝前，將地板底面清除乾淨，移除泥土、塵土、雜物及鬆脫物",
       "裝卸石材時應避免碰碎、斷裂、沾污及其他損害。石材邊緣無木料或其他硬質物體保護時，得使用\n爪桿或撬桿"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4720,7 +4720,7 @@ window.MOEX_QUESTIONS = [
       "立牆骨架，開口部→放樣定位，上下U 槽封邊→封外面板，填縫批土，油漆→機電預留管，填綿→\n封內面板，填縫批土，油漆",
       "放樣定位，上下U 槽→立牆骨架，開口部，機電預留管→封外面板→填綿，封內面板→填縫批土，\n油漆"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4771,7 +4771,7 @@ window.MOEX_QUESTIONS = [
       "部位③下層板的降板高度視排水坡度及上層板構造的厚度而定，通常需要30～60 cm",
       "部位④降板區內的管路萬一需要維修或更換，不需破壞上層板和裝修、防水，因此維修費用通常比\n傳統隔層排水來得低"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4788,7 +4788,7 @@ window.MOEX_QUESTIONS = [
       "此工法不只適用於瀝青油毛氈，也適用於所有的防水材料",
       "部位③是為了防止保護層因熱脹冷縮推擠女兒牆，使防水層受到拉扯\n\n代號：3801\n頁次：12－8"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4805,7 +4805,7 @@ window.MOEX_QUESTIONS = [
       "圖C：為輕隔間與潮溼空間交接之作法",
       "圖D：輕隔間牆之總厚度，不論樓高為何，牆厚度一律均為15 公分"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4822,7 +4822,7 @@ window.MOEX_QUESTIONS = [
       "③如為防止壓層龜裂時可採用點焊鋼絲網",
       "④如為防止熱脹冷縮作用時可採用無收縮水泥砂漿\n矽利康填縫\n鋼梯側板\n型鋼\n槽鐵\n立柱\n填塞\n板材\n貼面磚\n潮濕空間\n防水層\n（屬防水工程）\n批土處理\n下橫料\n10 cm高RC止水墩\n加強橫柱@1200 mm\nC型立柱@406 mm\n2\" 60k岩棉\n9 mm矽酸鈣板\n防火填塞\n螺絲鎖固\n隔間牆板\n水平橫撐\n原結構體\n（鋼承板）"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4856,7 +4856,7 @@ window.MOEX_QUESTIONS = [
       "尺寸(4)是牆體開口尺寸，窗框採焊接固定時，尺寸(4)通常會比尺寸(3)大5 cm 以上",
       "在計算排煙窗面積時應以扣除邊框的尺寸(2)為準\n\n代號：3801\n頁次：12－10"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4873,7 +4873,7 @@ window.MOEX_QUESTIONS = [
       "防水毯搭接至頂端",
       "設置多孔性燒結陶粒"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4907,7 +4907,7 @@ window.MOEX_QUESTIONS = [
       "基地面積超過6,000 平方公尺及建築物基礎所涵蓋面積超過3,000 平方公尺之部分，得視基地之地\n形、地層複雜性及建築物結構設計之需求，決定其調查點數",
       "同一基地之調查點數不得少於三點"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4924,7 +4924,7 @@ window.MOEX_QUESTIONS = [
       "20 公分",
       "25 公分"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -4958,7 +4958,7 @@ window.MOEX_QUESTIONS = [
       "噴砂後工作環境之相對濕度宜在85%以下",
       "噴砂後表面粗糙度平均值一般應在25 μm 以下"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5009,7 +5009,7 @@ window.MOEX_QUESTIONS = [
       "除強度外，可提高接合的可靠度",
       "可藉由扭力控制接合的品質"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5043,7 +5043,7 @@ window.MOEX_QUESTIONS = [
       "地板下面地盤鋪設植被，吸引白蟻滯留",
       "地板下方、牆壁內部、屋架組內以換氣孔進行換氣"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5060,7 +5060,7 @@ window.MOEX_QUESTIONS = [
       "多用進口的自然材料",
       "可回收再利用"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5077,7 +5077,7 @@ window.MOEX_QUESTIONS = [
       "表層下的基層應由透水性良好的砂石級配構成",
       "整體型透水鋪面為整體成形之透水面狀材料所構成，如透水性混凝土等"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5111,7 +5111,7 @@ window.MOEX_QUESTIONS = [
       "鋪貼完成之表面，於任意之3 m 範圍內之許可差不得大於3 mm",
       "面磚鋪貼宜自中間基準線向左右兩邊鋪貼"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5162,7 +5162,7 @@ window.MOEX_QUESTIONS = [
       "澆置混凝土時特密管施予上下輕微移動，以促混凝土滑順流下，達良好的澆置效果",
       "混凝土澆置中，任何情況均應使特密管底端保持埋入於已澆置混凝土頂面下200 cm 以上之深度，\n使特密管下半段保持充滿混凝土，以防水入侵管內"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5179,7 +5179,7 @@ window.MOEX_QUESTIONS = [
       "特殊設計未考量國內廠商的技術能力可能導致無法在預算內完成計畫",
       "人力資源對工程經費不會有影響"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5196,7 +5196,7 @@ window.MOEX_QUESTIONS = [
       "特性要因圖",
       "散佈圖"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5230,7 +5230,7 @@ window.MOEX_QUESTIONS = [
       "要徑法有助於發現工程控制圖中的瓶頸項目，並明確指出要徑所在",
       "要徑法產出的成本和時間估算總是比實際情況要高，因此不適合用於精確估價"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5298,7 +5298,7 @@ window.MOEX_QUESTIONS = [
       "同規模大小之整體衛浴單價較傳統衛浴低廉",
       "整體衛浴可適用於同層排水之新修法方向"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5417,7 +5417,7 @@ window.MOEX_QUESTIONS = [
       "1000",
       "4000"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5434,7 +5434,7 @@ window.MOEX_QUESTIONS = [
       "0.18",
       "0.20"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5451,7 +5451,7 @@ window.MOEX_QUESTIONS = [
       "改成黑色之後的甲辦公桌的水平桌面照度會比乙辦公桌高",
       "改成黑色之後的甲辦公桌的輝度會比乙辦公桌低"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5468,7 +5468,7 @@ window.MOEX_QUESTIONS = [
       "室內空間各部位的色彩不影響自然採光的效果",
       "導光板（Light shelf）除了遮陽效果之外還具有增進自然採光的效果"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5485,7 +5485,7 @@ window.MOEX_QUESTIONS = [
       "單面採光比雙面採光更能使室內照度分布均勻",
       "相同開窗面積時，分散配置於數處較集中於一處時的均齊度差"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5536,7 +5536,7 @@ window.MOEX_QUESTIONS = [
       "PM10 指的是粒徑小於10 μg 的懸浮微粒",
       "PM2.5 的來源可能為交通污染、營建施工、露天燃燒等\n\n代號：80140\n頁次：6－4"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5553,7 +5553,7 @@ window.MOEX_QUESTIONS = [
       "材質熱輻射係數越高，其表面的手感越熱",
       "材質熱傳導係數越高，其表面溫度的手感越冷"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5570,7 +5570,7 @@ window.MOEX_QUESTIONS = [
       "熱帶的濕熱氣候區，閣樓空間盡量不通風",
       "熱帶的濕熱氣候區，屋頂採用厚草料"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5587,7 +5587,7 @@ window.MOEX_QUESTIONS = [
       "蓮蓬頭所需最高壓力為0.7 kg/cm2",
       "住宅最高水壓為3.0～4.0 kg/cm2"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5604,7 +5604,7 @@ window.MOEX_QUESTIONS = [
       "感應式水龍頭，每分鐘流量最大不得超過9.0 公升，亦不得小於0.5 公升",
       "沖水小便器，金級每次沖水量須在1.5 公升以下，普級須在3.0 公升以下\n\n代號：80140\n頁次：6－5"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5621,7 +5621,7 @@ window.MOEX_QUESTIONS = [
       "逆流防止器",
       "水錘吸收器"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5638,7 +5638,7 @@ window.MOEX_QUESTIONS = [
       "細胞式線槽適用於採鋼匣式樓板的建築，配線方式較複雜困難、成本較高",
       "電線管須於配線處預先埋設電線管於樓板內，配線容量受到限制，且移設及增加均不容易"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5655,7 +5655,7 @@ window.MOEX_QUESTIONS = [
       "機廂門的淨寬度不得小於90 cm，機廂之深度不得小於135 cm",
       "機廂內應設置語音系統以播報樓層數、行進方向及開關情形"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5672,7 +5672,7 @@ window.MOEX_QUESTIONS = [
       "儘量縮短熱水器與蓮蓬頭距離，以減少管路輸送的損耗",
       "安裝輸送水管的保溫材，可減少管路熱能的流失"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5723,7 +5723,7 @@ window.MOEX_QUESTIONS = [
       "上下班一致且滿載使用的辦公建築，應優先採用中央空調系統，可達節約能源之目的",
       "住宅空調系統應優先採用CSPF 高的變頻空調系統，以達節約能源之目的"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5757,7 +5757,7 @@ window.MOEX_QUESTIONS = [
       "選用二級能效的分離式冷氣機，較一級能效的分離式冷氣機節能",
       "若只有在夏季非常炎熱時才開啟，也處於滿載狀態下使用，不一定需要選購變頻式冷氣機"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5774,7 +5774,7 @@ window.MOEX_QUESTIONS = [
       "太陽能光電板設置樣式為仰角非固定時，需附結構計算說明書",
       "太陽光電發電設備應於竣工後，檢附依法登記開業或執業之建築師出具之「太陽光電發電\n設備工程完竣證明書」，報請所在地主管建築機關備查"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5791,7 +5791,7 @@ window.MOEX_QUESTIONS = [
       "診所",
       "史蹟資料館"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5808,7 +5808,7 @@ window.MOEX_QUESTIONS = [
       "天花板高度10 m 的集會堂觀眾席",
       "天花板高度4 m 的咖啡廳"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5825,7 +5825,7 @@ window.MOEX_QUESTIONS = [
       "太陽直射光透過玻璃窗傳入室內的輻射熱",
       "因室內外氣溫差異，透過外牆實體部傳入室內的熱量"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5842,7 +5842,7 @@ window.MOEX_QUESTIONS = [
       "新冠肺炎病患隔離病房的前室應採用正壓",
       "新冠肺炎病患隔離病房內的衛浴空間應採用負壓"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5859,7 +5859,7 @@ window.MOEX_QUESTIONS = [
       "電源插座開關有適當的高度",
       "全面使用節水型衛生器具"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -5893,7 +5893,7 @@ window.MOEX_QUESTIONS = [
       "火警廣播設備控制裝置",
       "消防專用通信設備"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6046,7 +6046,7 @@ window.MOEX_QUESTIONS = [
       "建築物高度不得超過3 層樓並不得超過12 公尺",
       "最大基層建築面積不得超過330 平方公尺"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6063,7 +6063,7 @@ window.MOEX_QUESTIONS = [
       "基地位置圖",
       "農舍配置圖，其比例尺不得小於1/1500"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6080,7 +6080,7 @@ window.MOEX_QUESTIONS = [
       "60",
       "90"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6097,7 +6097,7 @@ window.MOEX_QUESTIONS = [
       "高度超過36 公尺或12 層樓以上，其中任一樓層至基地地面間各層業經施工完竣",
       "建築面積超過6000 平方公尺以上之建築物，其中任一樓層至基地地面間各層業經施工完竣"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6114,7 +6114,7 @@ window.MOEX_QUESTIONS = [
       "不受鄰棟間隔、前院、後院及開口距離有關規定之限制",
       "高度不得超過原有建築物高度加3 公尺，亦不受容積率之限制"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6131,7 +6131,7 @@ window.MOEX_QUESTIONS = [
       "供建築物使用類組B-4 組使用之樓地板面積累計未達1000 平方公尺以上之建築物，得免辦理耐震\n能力評估檢查",
       "供建築物使用類組A-1 組使用之樓地板面積累計達1000 平方公尺以上之建築物，且該建築物同屬\n一所有權人或使用人，應辦理耐震能力評估檢查"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6148,7 +6148,7 @@ window.MOEX_QUESTIONS = [
       "級高（R）18 公分，級深（T）24 公分",
       "級高（R）16 公分，級深（T）24 公分"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6165,7 +6165,7 @@ window.MOEX_QUESTIONS = [
       "逕向事務所所在地直轄市、縣（市）辦理登記開業，且以全國為其執行業務之區域",
       "逕向事務所所在地直轄市、縣（市）辦理登記開業，且以登記之直轄市、縣（市）為其執行業務之\n區域\n\n代號：1801\n頁次：8－3"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6199,7 +6199,7 @@ window.MOEX_QUESTIONS = [
       "得代委託人辦理申請建築許可、招商投標",
       "得代委託人辦理擬定施工契約及其他工程上之接洽事項"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6233,7 +6233,7 @@ window.MOEX_QUESTIONS = [
       "停止執行業務3 年以上",
       "撤銷開業證書"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6250,7 +6250,7 @@ window.MOEX_QUESTIONS = [
       "經濟或社會弱勢者之住宅補貼政策成效",
       "居住品質狀況"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6284,7 +6284,7 @@ window.MOEX_QUESTIONS = [
       "防火避難設施設計",
       "安全維護設計"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6301,7 +6301,7 @@ window.MOEX_QUESTIONS = [
       "於屋面上設置雨水貯留利用設備，其設計之高度及面積，均與建築物之高度計算無關",
       "於屋面上設置再生能源節能設施，其設計之高度及面積，均與建築物之高度計算無關"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6318,7 +6318,7 @@ window.MOEX_QUESTIONS = [
       "電影院的美食街",
       "零售市場"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6352,7 +6352,7 @@ window.MOEX_QUESTIONS = [
       "管道間之維修孔不得開向樓梯間",
       "樓梯間與排煙室之間所開設之窗戶應為固定窗"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6386,7 +6386,7 @@ window.MOEX_QUESTIONS = [
       "避難層出入口",
       "昇降機間\n\n代號：1801\n頁次：8－4"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6403,7 +6403,7 @@ window.MOEX_QUESTIONS = [
       "進入室內安全梯之出入口，應裝設具1 小時以上防火時效及半小時以上阻熱性且具遮煙性能之防火門",
       "戶外安全梯以室外走廊連接安全梯者其出入口免裝設防火門"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6420,7 +6420,7 @@ window.MOEX_QUESTIONS = [
       "1000",
       "3000"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6454,7 +6454,7 @@ window.MOEX_QUESTIONS = [
       "新建或增建建築物，應依規定設置無障礙設施時，建築物設置之直通樓梯，至少應有1 座為無障礙\n樓梯",
       "新建或增建建築物，應依規定設置無障礙設施時，建築物設有共用浴室者，每幢建築物至少應設置\n一處無障礙浴室"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6471,7 +6471,7 @@ window.MOEX_QUESTIONS = [
       "住宿類",
       "作業廠房"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6488,7 +6488,7 @@ window.MOEX_QUESTIONS = [
       "10000",
       "12000"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6505,7 +6505,7 @@ window.MOEX_QUESTIONS = [
       "0.8",
       "1.0"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6522,7 +6522,7 @@ window.MOEX_QUESTIONS = [
       "鋼骨鋼筋混凝土構造之施工過程中任何階段之結構強度及穩定性，應於施工前審慎評估，以確保施\n工過程中安全無慮",
       "鋼骨鋼筋混凝土構造之施工，需在鋼骨斷面上穿孔時，其穿孔及補強，應在施工現場內施作完成"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6539,7 +6539,7 @@ window.MOEX_QUESTIONS = [
       "申請人為該農業用地之所有權人，且該農業用地應確供農業使用及屬未經申請興建農舍者；該農舍\n之興建並不得影響農業生產環境及農村發展",
       "申請人參加興建集村農舍建築物坐落之農業用地，其土地取得及戶籍登記均應滿2 年\n\n代號：1801\n頁次：8－5"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6573,7 +6573,7 @@ window.MOEX_QUESTIONS = [
       "人口之成長、分布、組成、計畫年期內人口與經濟發展之推計",
       "實施進度及經費"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6590,7 +6590,7 @@ window.MOEX_QUESTIONS = [
       "劃定地區內重建、整建及維護地段之詳細設計圖說",
       "區內公共設施興修或改善之設計圖說"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6607,7 +6607,7 @@ window.MOEX_QUESTIONS = [
       "都市計畫委員會之組織，由直轄市或縣（市）政府定之",
       "內政部、各級地方政府及鄉、鎮、縣轄市公所應設置經辦都市計畫之專業人員"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6658,7 +6658,7 @@ window.MOEX_QUESTIONS = [
       "申訴逾法定期間或不合法定程序者，不予受理。但其情形得予補正者，應定期間命其補正；屆期不\n補正者，不予受理",
       "申訴提出後，申請人得於審議判斷送達前撤回之。申訴經撤回後，僅得再提出同一申訴一次"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6675,7 +6675,7 @@ window.MOEX_QUESTIONS = [
       "40",
       "50"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6692,7 +6692,7 @@ window.MOEX_QUESTIONS = [
       "異議處理或行政救濟結果與原評定價值有差額部分，由當事人以現金相互找補",
       "審議核復期限，應扣除各級主管機關委託專業團體或機構協助作技術性諮商及實施者委託專業團體\n或機構重新查估權利價值之時間\n\n代號：1801\n頁次：8－6"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6726,7 +6726,7 @@ window.MOEX_QUESTIONS = [
       "基金來源有關自來水、電力事業機構附徵之一定比率費用來源，自國土計畫法施行後第11 年起適用",
       "上述自來水、電力事業機構附徵費用，其附徵項目、一定比率之計算等相關事項之辦法，由中央主\n管機關定之"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6777,7 +6777,7 @@ window.MOEX_QUESTIONS = [
       "尊重及保存原住民族傳統文化",
       "強化區域機能提升競爭力"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6794,7 +6794,7 @@ window.MOEX_QUESTIONS = [
       "申請許可範圍跨二個直轄市、縣（市）行政區以上者，由中央主管機關審議",
       "填海造陸案件者由直轄市、縣（市）主管機關審議"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6811,7 +6811,7 @@ window.MOEX_QUESTIONS = [
       "海洋資源地區之使用許可、許可變更及廢止之審議",
       "農業發展地區之使用許可、許可變更及廢止之審議"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6828,7 +6828,7 @@ window.MOEX_QUESTIONS = [
       "區分所有權人",
       "業經取得停車空間建築物所有權者"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6845,7 +6845,7 @@ window.MOEX_QUESTIONS = [
       "有關個別開發建設事業之協調事項",
       "有關籌措區域公共設施建設經費之審查事項"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6862,7 +6862,7 @@ window.MOEX_QUESTIONS = [
       "採折花木",
       "礦物或土石之勘採"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6879,7 +6879,7 @@ window.MOEX_QUESTIONS = [
       "農業發展地區",
       "城鄉發展地區"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6896,7 +6896,7 @@ window.MOEX_QUESTIONS = [
       "管理委員會未執行區分所有權人會議決議事項",
       "已訴請法院審理中或經法院和解、調解或判決確定者\n\n代號：1801\n頁次：8－7"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6913,7 +6913,7 @@ window.MOEX_QUESTIONS = [
       "電氣水管業",
       "土木包工業"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6947,7 +6947,7 @@ window.MOEX_QUESTIONS = [
       "登記資本額",
       "交易資本額"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6964,7 +6964,7 @@ window.MOEX_QUESTIONS = [
       "緊急應變計畫之擬定",
       "建築物拆除應注意事項"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -6981,7 +6981,7 @@ window.MOEX_QUESTIONS = [
       "營造業之工地主任應負責辦理工作包括依施工計畫書執行按圖施工",
       "營造業之專任工程人員應負責辦理工作包括按日填報施工日誌"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7015,7 +7015,7 @@ window.MOEX_QUESTIONS = [
       "室內輕隔間框架間距不足",
       "粉刷不平整"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7032,7 +7032,7 @@ window.MOEX_QUESTIONS = [
       "機關首長擔任，或由機關首長或其授權人員指定一級主管以上人員擔任",
       "工作小組組長擔任"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7049,7 +7049,7 @@ window.MOEX_QUESTIONS = [
       "可不經公告方式預先依一定資格條件辦理廠商資格審查後，依選擇性招標辦理，以簡化程序",
       "限制性招標係指不經公告程序，邀請二家廠商以上比價或僅邀請一家廠商議價"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7083,7 +7083,7 @@ window.MOEX_QUESTIONS = [
       "昇降機開門時，昇降機門應維持完全開啟狀態至少3 秒鐘",
       "昇降機出入口處之地板面，應與靜止時之機廂地板面保持不得大於5 公分之高低差"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7151,7 +7151,7 @@ window.MOEX_QUESTIONS = [
       "兩側區塊之席位與銀幕兩側之夾角不得大於60°",
       "席位之水平視線與觀看銀幕中心視線之夾角不得大於30°"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7185,7 +7185,7 @@ window.MOEX_QUESTIONS = [
       "舊法規有利於當事人而新法規未廢除或禁止所聲請之事項者，適用舊法規",
       "新舊法規之適用由主管機關決定"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7202,7 +7202,7 @@ window.MOEX_QUESTIONS = [
       "供房客使用之電器插座及開關：應設置於自地板面起算至150 公分範圍內",
       "無障礙客房內求助鈴應至少設置2 處"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7236,7 +7236,7 @@ window.MOEX_QUESTIONS = [
       "災民",
       "育有未成年子女1 人以上"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7253,7 +7253,7 @@ window.MOEX_QUESTIONS = [
       "應每2 年查核1 次，並得視需要隨時辦理",
       "應每3 年查核1 次，並得視需要隨時辦理"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7321,7 +7321,7 @@ window.MOEX_QUESTIONS = [
       "地政",
       "都市計畫"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7406,7 +7406,7 @@ window.MOEX_QUESTIONS = [
       "消能建築設計基本原則之一為：對所有消能建築，要求在中小度地震下須完全保持彈性，\n且非結構元件無明顯損壞",
       "位移型消能元件的受力與位移關係，主要為該元件兩端點相對位移的函數\n\n代號：80120\n頁次：8－4"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7423,7 +7423,7 @@ window.MOEX_QUESTIONS = [
       "地震設計橫力是將大地震引致的彈性地震力加以折減而得",
       "為使結構物具有韌性，提高結構材料強度是最好的作法"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7440,7 +7440,7 @@ window.MOEX_QUESTIONS = [
       "高層建築為了應付長週期地震，可導入消能元件",
       "低矮鋼筋混凝土校舍，採用翼牆補強，一般而言可提高其強度"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7457,7 +7457,7 @@ window.MOEX_QUESTIONS = [
       "cdf 三點產生塑鉸",
       "ijk 三點產生塑鉸"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7474,7 +7474,7 @@ window.MOEX_QUESTIONS = [
       "1/6",
       "1/8"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7491,7 +7491,7 @@ window.MOEX_QUESTIONS = [
       "1：8",
       "8：1"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7508,7 +7508,7 @@ window.MOEX_QUESTIONS = [
       "16",
       "32"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7542,7 +7542,7 @@ window.MOEX_QUESTIONS = [
       "僅①②③",
       "①②③④\n2 EI\n2 L\n\n代號：80120\n頁次：8－5"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7559,7 +7559,7 @@ window.MOEX_QUESTIONS = [
       "結構牆(iii)",
       "結構牆(iv)"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7593,7 +7593,7 @@ window.MOEX_QUESTIONS = [
       "傾覆（前傾或後傾）破壞",
       "基礎承載破壞"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7610,7 +7610,7 @@ window.MOEX_QUESTIONS = [
       "6 個",
       "7 個\n\n代號：80120\n頁次：8－6"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7627,7 +7627,7 @@ window.MOEX_QUESTIONS = [
       "4",
       "8"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7644,7 +7644,7 @@ window.MOEX_QUESTIONS = [
       "acd",
       "abcd"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7678,7 +7678,7 @@ window.MOEX_QUESTIONS = [
       "建築設計可採用預力混凝土梁取得較大之柱跨距",
       "依施工順序可分為先拉預力法及後拉預力法，兩者皆必須使用端錨來保持預力鋼鍵的錨定力"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7746,7 +7746,7 @@ window.MOEX_QUESTIONS = [
       "相較於閉合箍筋，開放式箍筋配置較能提升構材韌性",
       "箍筋應優先密集配置於撓曲構材之受彎反曲點處，確保結構變形韌性"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7763,7 +7763,7 @@ window.MOEX_QUESTIONS = [
       "圖(c)",
       "圖(d)"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7780,7 +7780,7 @@ window.MOEX_QUESTIONS = [
       "曲線(C)",
       "曲線(D)\n圖(a)\n圖(b)\n圖(c)\n圖(d)\n\n代號：80120\n頁次：8－8"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7797,7 +7797,7 @@ window.MOEX_QUESTIONS = [
       "同心斜撐構架（CBF）",
       "偏心斜撐構架（EBF）"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7814,7 +7814,7 @@ window.MOEX_QUESTIONS = [
       "H 型鋼梁主要以腹板抵抗彎矩，翼板抵抗剪力",
       "臺北101 大樓的頂部巨型圓球作為質量阻尼器，主要目的僅是為了結構耐震"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7831,7 +7831,7 @@ window.MOEX_QUESTIONS = [
       "纜索結構系統",
       "梁柱結構系統"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7848,7 +7848,7 @@ window.MOEX_QUESTIONS = [
       "節、纖維傾斜與起翹變形等都是木材缺點，影響強度",
       "木材纖維方向受拉強度高且具有韌性"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -7899,7 +7899,7 @@ window.MOEX_QUESTIONS = [
       "回收營建剩餘土石方製作水硬性混合水泥",
       "回收廢塑膠、廢玻璃、摻配木質、石質等其他廢棄物，製成再生地磚"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8052,7 +8052,7 @@ window.MOEX_QUESTIONS = [
       "樓梯兩端扶手應水平延伸30 公分以上",
       "距梯級終端30 公分處，設置深度20 至30 公分之警示設施"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8069,7 +8069,7 @@ window.MOEX_QUESTIONS = [
       "房間內求助鈴應至少設置一處，為距地板面高90 至120 公分處",
       "求助鈴按鈕訊號應連接至服務台或類似空間"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8086,7 +8086,7 @@ window.MOEX_QUESTIONS = [
       "手工澆置",
       "留設觀察孔"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8103,7 +8103,7 @@ window.MOEX_QUESTIONS = [
       "85",
       "90"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8137,7 +8137,7 @@ window.MOEX_QUESTIONS = [
       "強化玻璃：係指將板玻璃熱處理，使玻璃表面上形成壓縮應力層並增加強度，因不易破碎，可於安\n裝時切割施作",
       "雙層玻璃：係將兩片玻璃以一定之間隔，用金屬或其他材料焊接封閉其四邊，對其中間空隙注入純\n淨之乾燥空氣而製成者"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8171,7 +8171,7 @@ window.MOEX_QUESTIONS = [
       "簷高不得超過17 公尺，樓高不得超過5 層樓",
       "簷高不得超過20 公尺，樓高不得超過6 層樓"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8205,7 +8205,7 @@ window.MOEX_QUESTIONS = [
       "分間牆以輕型鋼骨架為底，兩面各覆以纖維水泥板，其板材總面密度在55 公斤/平方公尺以上，板材\n間以密度在60 公斤/立方公尺以上，厚度在7.5 公分以上之玻璃棉填充，且牆總厚度在10 公分以上",
       "分戶牆之採用須具經中央主管建築機關認可具有空氣音隔音指標Rw 在45 分貝以上之隔音性能\n\n代號：3801\n頁次：10－3"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8222,7 +8222,7 @@ window.MOEX_QUESTIONS = [
       "混凝土的耐火性高，可以保護耐熱性差的鋼筋",
       "鋼筋較易生銹，在鹼性的混凝土中配置鋼筋可以避免生銹。然而，混凝土在空氣中會與CO2 等產生\n反應，逐漸中性化"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8239,7 +8239,7 @@ window.MOEX_QUESTIONS = [
       "國產木竹材之產銷履歷農產品驗證（TAP）文件，可作為評定木製建材「無匱乏危機」的證明",
       "健康綠建材評定基準試驗報告書（E3 等級以上），可作為評定木製建材「低人工處理」的證明文件"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8273,7 +8273,7 @@ window.MOEX_QUESTIONS = [
       "屋瓦依照素材分類，有以粘土為原料的粘土瓦和以水泥為主原料的水泥瓦",
       "屋瓦本身重量重，有利於強風與地震"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8290,7 +8290,7 @@ window.MOEX_QUESTIONS = [
       "工廠可預做鋼構件表面的塗裝",
       "在工地現場對於構件和牆面進行塗裝，不需考慮氣象條件"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8307,7 +8307,7 @@ window.MOEX_QUESTIONS = [
       "抵抗水平剪力",
       "抵抗軸拉力"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8324,7 +8324,7 @@ window.MOEX_QUESTIONS = [
       "氟材料的C-F 鍵能抵抗陽光中的紅外線，且氟原子能包圍碳鏈骨架，提高耐候性。建築中常用的氟\n材料例如氟碳樹脂塗料、鐵氟龍（PTFE）膜材",
       "陽光中的紫外線會破壞聚合物的鍵結，是加速填縫材料劣化的主要原因之一"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8341,7 +8341,7 @@ window.MOEX_QUESTIONS = [
       "60×60×6 cm 的高壓混凝土磚",
       "50×50×5 cm 的天然石材"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8358,7 +8358,7 @@ window.MOEX_QUESTIONS = [
       "建築物地基調查計畫須考慮建築物之初步基礎設計",
       "淺基礎基腳之調查深度應達基腳底面以下至少4 倍基腳寬度之深度，或達可確認之承載層深度\n\n代號：3801\n頁次：10－4"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8392,7 +8392,7 @@ window.MOEX_QUESTIONS = [
       "澆置後宜將混凝土剷平夯實並做成1/30 之洩水坡度",
       "與屋頂樓板接續之混凝土面應清除水泥乳沫，並打毛成粗面後再澆置混凝土"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8409,7 +8409,7 @@ window.MOEX_QUESTIONS = [
       "DPG 工法（Dot Point Glazing）",
       "MJG 工法（Minimum Joint Glazing）"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8443,7 +8443,7 @@ window.MOEX_QUESTIONS = [
       "濕式工法較容易出現白華等現象",
       "濕式工法之耐衝擊性優於乾式工法"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8460,7 +8460,7 @@ window.MOEX_QUESTIONS = [
       "9 kgf/cm2",
       "12 kgf/cm2"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8477,7 +8477,7 @@ window.MOEX_QUESTIONS = [
       "Ⅱ類",
       "Ⅲ類"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8494,7 +8494,7 @@ window.MOEX_QUESTIONS = [
       "基樁內主鋼筋最少不得少於9 支，其主鋼筋直徑不得小於19 mm，且鋼筋總斷面積不得小於樁斷面\n積之千分之五",
       "基樁內主鋼筋保護層之淨厚度不得小於7.5 cm"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8511,7 +8511,7 @@ window.MOEX_QUESTIONS = [
       "高地下水位且透水性良好之砂質地層適合採用邊坡式開挖",
       "擋土壁下方為透水性佳之砂質土壤，且擋土壁未貫入不透水層時，即應檢討其抵抗砂湧之安全性"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8528,7 +8528,7 @@ window.MOEX_QUESTIONS = [
       "混凝土澆灌時有時會產生蜂窩現象，這個問題係與養護有關，若能在硬化過程中有效地提供水化作\n用所需的水，可以減少蜂窩的情形",
       "輕質混凝土達成輕量化的作法，其中一種是用輸氣或發泡的方式製造空隙，另一種則是直接使用陶\n粒等比重較低的粒料\n\n代號：3801\n頁次：10－5"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8579,7 +8579,7 @@ window.MOEX_QUESTIONS = [
       "具1 小時防火時效的木構造框組壁，其兩側應使用耐燃一級的板材。至於壁內通常使用岩棉填充的\n主要目的為隔音，與防火無關",
       "輕鋼架明架天花板與牆面的接合部經常採用L 形角鋁收邊，應有兩鄰邊鎖固於收邊材上，另外兩邊\n的骨架應採輥接型式（roller，浮置而無鎖固的方式），並與牆面脫開12 mm 的空隙"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8613,7 +8613,7 @@ window.MOEX_QUESTIONS = [
       "如果隔間牆的頂端固定於輕鋼架明架天花板，在地震時天花板會更容易破壞，除非天花板的構件及\n斜撐能夠支撐隔間牆在地震時產生的水平向作用力",
       "可調整高度式的活動高架地板通常為金屬製品，或填充水泥的複合材料。因為板片的水平向剛性很\n好，所以此類構造的耐震性極佳"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8647,7 +8647,7 @@ window.MOEX_QUESTIONS = [
       "為確保管線可以暢通無阻，可以壓縮空氣實施檢查",
       "為了觀察水泥砂漿有無從管道末端湧出，必要時得直接以眼窺視管道內部狀況"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8681,7 +8681,7 @@ window.MOEX_QUESTIONS = [
       "高度2 公尺以上構臺之覆工板等板料間隙應在5 公分以下",
       "構臺設置寬度應足供所需機具運轉通行之用，並依施工計畫預留起重機外伸撐座伸展及材料堆置之\n場地"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8698,7 +8698,7 @@ window.MOEX_QUESTIONS = [
       "壁內填充材可採用最小厚度50 mm，密度60 kg/m3 以上之岩棉",
       "外壁覆蓋至少15 mm 之結構用合板（或是OSB 板），則防火時效認定為1 小時"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8715,7 +8715,7 @@ window.MOEX_QUESTIONS = [
       "填縫接頭是廣泛使用的工法，主要施作方式為將室外側（一次密封）和室內側（二次密封）的接縫\n填滿。由於帷幕牆板片之間的接縫是在現場進行填縫，可能因施工不良、年久老化、地震等因素造\n成損壞，需定期保養更換",
       "主要構件由鋁等之金屬構件所構成的帷幕牆稱為金屬帷幕牆，由預鑄混凝土構件構成的帷幕牆稱為\nPCa 帷幕牆"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8732,7 +8732,7 @@ window.MOEX_QUESTIONS = [
       "建築物若有地下層，則地下層越深，設置於建築物底部之間隔需要更大，以避免地震時建築物水平\n移動所造成的碰撞",
       "隔震施工之精度依種類不同雖有差異，但應控制在位置精度正負3～5 mm 以內"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8783,7 +8783,7 @@ window.MOEX_QUESTIONS = [
       "鋼筋：鋼筋以使用竹節鋼筋為原則，竹節鋼筋應符合中華民國國家標準CNS 560 A 2006 或ASTM",
       "706，其分段接續之主筋不得使用聯接器\nD穩定液：不得含有毒性或污染地下水之物質，並需要按施工圖說規定之方法及標準檢核其品質"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8800,7 +8800,7 @@ window.MOEX_QUESTIONS = [
       "增加樓層中無開口磚牆量體",
       "增設鋼框架斜撐構架"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8817,7 +8817,7 @@ window.MOEX_QUESTIONS = [
       "使用之材料與施工方法",
       "試驗與檢查部位\n\n代號：3801\n頁次：10－7"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8834,7 +8834,7 @@ window.MOEX_QUESTIONS = [
       "主結構體於中小度地震下須保持在彈性限度內",
       "於最大考量地震下，結構體之變形可達規定之韌性容量"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8851,7 +8851,7 @@ window.MOEX_QUESTIONS = [
       "⑤⑥⑦",
       "⑦⑧⑨"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8885,7 +8885,7 @@ window.MOEX_QUESTIONS = [
       "60.3 mm",
       "80.4 mm"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8936,7 +8936,7 @@ window.MOEX_QUESTIONS = [
       "可提升整體大木構架之耐震力",
       "相當於縮小桁楹的跨度"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8953,7 +8953,7 @@ window.MOEX_QUESTIONS = [
       "②的主要功能包括防止水由防水層的端部進入",
       "①的主要功能包括保護垂直面的防水層，並且提供裝修材料一個較佳的黏著面"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8970,7 +8970,7 @@ window.MOEX_QUESTIONS = [
       "當③採用空縫設計（不填縫）時，①②④均應採用不生鏽之材質為宜",
       "④可在現場鑽孔或開槽"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -8987,7 +8987,7 @@ window.MOEX_QUESTIONS = [
       "②的目的是減低壁體強度以誘導應力集中，牆內預埋的水電管線也有類似效果",
       "外牆面採用磁磚裝修時，打底水泥砂漿及磁磚的厚度皆可以計入d1，如此便能使磁磚縫與誘裂縫\n對齊\n\n代號：3801\n頁次：10－9"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9004,7 +9004,7 @@ window.MOEX_QUESTIONS = [
       "以鍍膜處理表面",
       "塗抹鹽水進行防護"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9021,7 +9021,7 @@ window.MOEX_QUESTIONS = [
       "半阻隔式圍籬：指離地高度60 公分以上使用網狀鏤空材料，其餘使用非鏤空材料製作之圍籬",
       "防溢座：指設置於營建工地圍籬下方或洗車設備四周，防止廢水溢流之設施"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9038,7 +9038,7 @@ window.MOEX_QUESTIONS = [
       "聚硫化物類（PS）填縫材適用於石材與石材之間的間隙填縫，且表面硬化後容易著色與油漆",
       "聚胺酯類（Polurethane）填縫材與玻璃的接著性不良，不適用於玻璃與玻璃之間的間隙填縫"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9055,7 +9055,7 @@ window.MOEX_QUESTIONS = [
       "結構用混凝土中的高爐石粉，多使用電弧爐煉鋼所產生之爐碴",
       "普通混凝土比高爐石混凝土具有較佳的澆置性，且易於搗實"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9072,7 +9072,7 @@ window.MOEX_QUESTIONS = [
       "超音波檢測（UT）",
       "液滲檢測（PT）"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9089,7 +9089,7 @@ window.MOEX_QUESTIONS = [
       "各排煙設備之排煙口、風管及其他與煙接觸部分，使用耐燃二級以上材料",
       "地下一樓主要功能為停車場，防煙壁採固定式，並自天花板下垂60 公分"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9123,7 +9123,7 @@ window.MOEX_QUESTIONS = [
       "橡膠緩衝材（厚度0.8 cm 以上，動態剛性50 MN/m3 以下），其上再鋪設水泥砂漿及PVC 地磚厚度\n合計在6 cm 以上",
       "岩棉緩衝材（密度100〜150 kg/m3）厚度2.5 cm 以上，其上再鋪設混凝土造地板（厚度5 cm 以上，\n以鋼筋或鋼絲網補強），地板表面材採用鋪貼花崗石地磚"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9140,7 +9140,7 @@ window.MOEX_QUESTIONS = [
       "設置防水閘門",
       "設置滲透排水管\n\n代號：3801\n頁次：10－10"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9174,7 +9174,7 @@ window.MOEX_QUESTIONS = [
       "研究市場行情的研究",
       "要精算任何材料不須考慮其損耗量"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9191,7 +9191,7 @@ window.MOEX_QUESTIONS = [
       "最高標",
       "分段標"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9208,7 +9208,7 @@ window.MOEX_QUESTIONS = [
       "加工後的木製品，其單價應包括木料、五金及人工",
       "估算木料須加計其損耗量"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9225,7 +9225,7 @@ window.MOEX_QUESTIONS = [
       "手貼式磁磚應實施接著力試驗機進行拉張強度試驗",
       "接著強度試驗體每100 m2 或其零數取1 個且最少應有5 個以上"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9242,7 +9242,7 @@ window.MOEX_QUESTIONS = [
       "業主無法瞭解實際工程成本",
       "變更設計無須加減帳"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9361,7 +9361,7 @@ window.MOEX_QUESTIONS = [
       "①③",
       "①②③"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9378,7 +9378,7 @@ window.MOEX_QUESTIONS = [
       "燈具功率",
       "平均照度\n\n代號：80140\n頁次：5－3"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9412,7 +9412,7 @@ window.MOEX_QUESTIONS = [
       "相對濕度即空氣中實際水蒸氣壓與飽和水蒸氣壓的比值",
       "阿斯曼（Assmann）通風溫濕度計只能量到乾球溫度與濕球溫度，無法直接量測相對濕度"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9429,7 +9429,7 @@ window.MOEX_QUESTIONS = [
       "甲醛的標準為0.08 ppm（1 小時平均）",
       "PM2.5 的標準為75 μg/m3（24 小時平均）"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9463,7 +9463,7 @@ window.MOEX_QUESTIONS = [
       "風吹過石英管，可提高輻射熱的輸出",
       "室溫20℃無風環境下，石英管表面溫度由30℃升高到40℃，所發出的熱能增為兩倍"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9514,7 +9514,7 @@ window.MOEX_QUESTIONS = [
       "急救室候診區應為正壓空間",
       "病理實驗室應為正壓空間"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9531,7 +9531,7 @@ window.MOEX_QUESTIONS = [
       "受水槽之牆壁及平頂應與其它結構物分開，並保持至少60 cm 人員維修空間",
       "受水槽之設計容量應有設計每日用水量1/10 以上容量"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9548,7 +9548,7 @@ window.MOEX_QUESTIONS = [
       "設備落水口至存水彎堰口之垂直距離，不得大於60 cm",
       "存水彎裝置應附有清潔口或可拆卸之構造，得以隨時排除阻塞之情況\n\n代號：80140\n頁次：5－4"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9565,7 +9565,7 @@ window.MOEX_QUESTIONS = [
       "CTV",
       "ITV"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9616,7 +9616,7 @@ window.MOEX_QUESTIONS = [
       "高層建築電梯輸送依服務樓層、運行距離及電梯速度等因素來規劃運轉效率",
       "高層建築區劃中，60 層以上建議設置空中轉換層來轉換"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9650,7 +9650,7 @@ window.MOEX_QUESTIONS = [
       "50",
       "55"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9667,7 +9667,7 @@ window.MOEX_QUESTIONS = [
       "變風量系統",
       "空氣清淨機"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9701,7 +9701,7 @@ window.MOEX_QUESTIONS = [
       "3→4 之過程為膨脹閥，此時冷媒變成純氣態",
       "4→1 之過程為蒸發器，冷媒藉由蒸發吸收空氣中之熱量\nP\nh"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9718,7 +9718,7 @@ window.MOEX_QUESTIONS = [
       "冷房度時",
       "冷卻能力"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9735,7 +9735,7 @@ window.MOEX_QUESTIONS = [
       "三相三線式主要是供應大型空調設備或動力機器使用",
       "高壓電流引進建築基地後，須用變壓器降為低壓電流再分派到幹線與配電盤"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9752,7 +9752,7 @@ window.MOEX_QUESTIONS = [
       "照度均齊度不因光源配置位置的不同而改變",
       "良好的採光計畫有利於照明節能"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9769,7 +9769,7 @@ window.MOEX_QUESTIONS = [
       "落葉植物不因季節變化而影響通風效果",
       "植栽與建築物的距離遠近不會影響通風效果"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9820,7 +9820,7 @@ window.MOEX_QUESTIONS = [
       "可採用爐碴替代約30%的骨材作為混凝土材料，用於房屋結構體，可達到減碳與廢棄物再\n利用的功能",
       "低輻射Low-E 玻璃可隔離大部分輻射能量中的紫外線熱能"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9837,7 +9837,7 @@ window.MOEX_QUESTIONS = [
       "熱島效應",
       "日照過多"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9854,7 +9854,7 @@ window.MOEX_QUESTIONS = [
       "地下水位小於1 m 之建築基地，可免檢討建築基地保水",
       "學校類建築樓地板面積低於1000 m2 者，可免檢討建築外殼節能AWSG"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -9888,7 +9888,7 @@ window.MOEX_QUESTIONS = [
       "防水系統",
       "防盜系統"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10041,7 +10041,7 @@ window.MOEX_QUESTIONS = [
       "3",
       "4"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10109,7 +10109,7 @@ window.MOEX_QUESTIONS = [
       "調整避難層出入口及走廊之寬度",
       "提升天花板耐燃等級"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10126,7 +10126,7 @@ window.MOEX_QUESTIONS = [
       "聘有專業設計技術人員之室內裝修業，得從事室內裝修設計業務",
       "室內裝修業從事室內裝修施工業務者，應置有專業施工技術人員一人以上"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10143,7 +10143,7 @@ window.MOEX_QUESTIONS = [
       "安全梯的梯間",
       "特別安全梯的排煙室"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10160,7 +10160,7 @@ window.MOEX_QUESTIONS = [
       "緩衝區與連接之地下運輸系統及建築物之地下層間應以具有1 小時以上防火時效之牆壁、防火門窗\n等防火設備及該層防火構造之樓地板區劃分隔",
       "緩衝區及其專用直通樓梯位於建築基地內時，應計入建築面積及容積總樓地板面積"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10211,7 +10211,7 @@ window.MOEX_QUESTIONS = [
       "地下層突出基地地面未超過1.2 公尺",
       "遮陽板有1/2 以上為透空，且其深度在2.0 公尺以下者\n\n代號：1801\n頁次：8－3"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10245,7 +10245,7 @@ window.MOEX_QUESTIONS = [
       "遮煙性能是在常溫及中溫標準試驗條件下，建築物出入口裝設之一般門或區劃出入口裝設之防火設\n備，當其構造二側形成火災情境下之壓差時，具有漏煙通氣量不超過規定值之能力",
       "防火時效是用來描述建築物之內部裝修材料因應火熱引起燃燒、熔化、破裂變形及產生有害氣體時\n不超過規定值之能力"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10262,7 +10262,7 @@ window.MOEX_QUESTIONS = [
       "避難層開向屋外之出入口寬度及開口距離之限制",
       "屋頂突出物高度之限制"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10432,7 +10432,7 @@ window.MOEX_QUESTIONS = [
       "應申請核發建造執照",
       "應申請核發雜項執照"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10449,7 +10449,7 @@ window.MOEX_QUESTIONS = [
       "6",
       "9"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10500,7 +10500,7 @@ window.MOEX_QUESTIONS = [
       "6",
       "9"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10517,7 +10517,7 @@ window.MOEX_QUESTIONS = [
       "公園、體育場所、綠地、廣場及兒童遊樂場，應依計畫人口密度及自然環境，作有系統之布置，除\n具有特殊情形外，其占用土地總面積不得少於全部計畫面積10%",
       "屠宰場、垃圾處理場、殯儀館、火葬場、公墓、污水處理廠、煤氣廠等應在不妨礙都市發展及鄰近\n居民之安全、安寧與衛生之原則下，應按居民分布情形適當配置之"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10534,7 +10534,7 @@ window.MOEX_QUESTIONS = [
       "承造人未按核准圖說施工，而監造人認為合格經直轄市、縣（市）（局）主管建築機關勘驗不合規\n定，必須修改、拆除、重建或補強者，由承造人負賠償責任，監造人負連帶責任，承造人之專任工\n程人員免負連帶責任",
       "承造人未按核准圖說施工，而監造人認為合格經直轄市、縣（市）（局）主管建築機關勘驗不合規\n定，必須修改、拆除、重建或補強者，由承造人負賠償責任，承造人之專任工程人員負連帶責任，\n監造人免負連帶責任"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10585,7 +10585,7 @@ window.MOEX_QUESTIONS = [
       "承造人因故未能於建築期限內完工時，得申請展期1 年，並以1 次為限",
       "建築期限基準，於建築技術規則中定之\n\n代號：1801\n頁次：8－5"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10602,7 +10602,7 @@ window.MOEX_QUESTIONS = [
       "30",
       "35"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10619,7 +10619,7 @@ window.MOEX_QUESTIONS = [
       "6",
       "8"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10670,7 +10670,7 @@ window.MOEX_QUESTIONS = [
       "直轄市、縣（市）主管機關得同意其他機關（構）自行實施或經公開評選委託都市更新事業機構為\n實施者實施",
       "公開評選實施者，應於公告徵求都市更新事業機構申請後，於擬實施都市更新事業之地區，舉行說\n明會"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10687,7 +10687,7 @@ window.MOEX_QUESTIONS = [
       "為適應國防建設工程需要",
       "其他配合重大發展建設需要辦理都市更新者"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10704,7 +10704,7 @@ window.MOEX_QUESTIONS = [
       "不得超過各該建築基地1.5 倍之基準容積，或各該建築基地1 倍之基準容積再加其原建築容積",
       "不得超過各該建築基地2 倍之基準容積，或各該建築基地1 倍之基準容積再加其原建築容積"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10721,7 +10721,7 @@ window.MOEX_QUESTIONS = [
       "每1 年",
       "每2 年\n\n代號：1801\n頁次：8－6"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10755,7 +10755,7 @@ window.MOEX_QUESTIONS = [
       "都市更新事業計畫範圍內之建築物，經結構安全性能評估結果未達最低等級者，給予基準容積10%\n獎勵容積",
       "都市更新事業計畫範圍內之古蹟、歷史建築、紀念建築及聚落建築群，辦理整體性保存、修復、再\n利用及管理維護者，除不計入容積外，並得依該建築物實際面積之1.5 倍，給予獎勵容積"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10772,7 +10772,7 @@ window.MOEX_QUESTIONS = [
       "40%",
       "50%"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10789,7 +10789,7 @@ window.MOEX_QUESTIONS = [
       "創造寧適和諧之生活環境及有效率之生產環境",
       "確保完整之配套公共設施"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10823,7 +10823,7 @@ window.MOEX_QUESTIONS = [
       "申請使用許可範圍跨二個直轄市、縣（市）行政區以上者，由中央主管機關審議",
       "填海造地案件者，由所在地直轄市、縣（市）主管機關審議"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10840,7 +10840,7 @@ window.MOEX_QUESTIONS = [
       "使用許可制度及全國性土地使用管制之擬定",
       "農業發展地區或城鄉發展地區之使用許可、許可變更及廢止之核定"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10874,7 +10874,7 @@ window.MOEX_QUESTIONS = [
       "20 年",
       "10 年"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10908,7 +10908,7 @@ window.MOEX_QUESTIONS = [
       "增加容積之審核，在中央由內政部為之；在直轄市、縣（市）由直轄市、縣（市）政府為之",
       "設置整合型太陽光電設備，得增加容積率百分之五"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10942,7 +10942,7 @@ window.MOEX_QUESTIONS = [
       "共用部分",
       "專有部分"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10959,7 +10959,7 @@ window.MOEX_QUESTIONS = [
       "管理委員會未執行區分所有權人會議決議事項",
       "已訴請法院審理中之案件"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -10993,7 +10993,7 @@ window.MOEX_QUESTIONS = [
       "收益、公共基金及其他經費之收支、保管及運用",
       "會計報告、結算報告及其他管理事項之提出及公告"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11010,7 +11010,7 @@ window.MOEX_QUESTIONS = [
       "10 日",
       "15 日"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11027,7 +11027,7 @@ window.MOEX_QUESTIONS = [
       "擔任區分所有權人會議之召集人，召開首次區分所有權人會議",
       "在公寓大廈未成立管理委員會或推選管理負責人前，起造人為管理負責人"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11044,7 +11044,7 @@ window.MOEX_QUESTIONS = [
       "防水工程",
       "輕隔間工程"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11061,7 +11061,7 @@ window.MOEX_QUESTIONS = [
       "規劃報告",
       "施工可行性研究"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11095,7 +11095,7 @@ window.MOEX_QUESTIONS = [
       "20",
       "25\n\n代號：1801\n頁次：8－8"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11146,7 +11146,7 @@ window.MOEX_QUESTIONS = [
       "採購工作及審查小組",
       "查核小組"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11163,7 +11163,7 @@ window.MOEX_QUESTIONS = [
       "審核程序之日數，係指日曆天，包含例假日及國定假日",
       "機關辦理審核程序，如發現廠商有文件不符、不足或有疑義，應一次通知澄清或補正，不得分次\n辦理"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11180,7 +11180,7 @@ window.MOEX_QUESTIONS = [
       "履約進度及履約估驗計價之審核",
       "督察品管人員及現場施工人員，落實執行品質計畫"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11197,7 +11197,7 @@ window.MOEX_QUESTIONS = [
       "室外通路與鄰近地面高差超過75 公分者，未鄰牆壁側應設置高度110 公分以上之邊緣防護",
       "室外通路位於地面層10 層以上者，防護設施不得小於120 公分"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11214,7 +11214,7 @@ window.MOEX_QUESTIONS = [
       "梯級突沿之彎曲半徑不得大於3 公分",
       "梯級踏面邊緣應作防滑處理，其顏色應與踏面有明顯不同，且應順平"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11231,7 +11231,7 @@ window.MOEX_QUESTIONS = [
       "90 公分",
       "75 公分"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11248,7 +11248,7 @@ window.MOEX_QUESTIONS = [
       "其中一處求助鈴按鍵中心點距地板高80 公分",
       "其中一處求助鈴按鍵中心點距地板高70 公分"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11265,7 +11265,7 @@ window.MOEX_QUESTIONS = [
       "馬桶至少有一側為可固定之掀起式扶手",
       "可動扶手外緣與馬桶中心線之距離為35 公分"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11282,7 +11282,7 @@ window.MOEX_QUESTIONS = [
       "相鄰停車位得共用下車區，長度不得小於600 公分、寬度不得小於500 公分",
       "相鄰停車位得共用下車區寬度，包括寬135 公分之下車區"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11316,7 +11316,7 @@ window.MOEX_QUESTIONS = [
       "農舍剖面圖",
       "農舍透視圖"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11401,7 +11401,7 @@ window.MOEX_QUESTIONS = [
       "15 N/cm2",
       "20 N/cm2"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11418,7 +11418,7 @@ window.MOEX_QUESTIONS = [
       "雙鉸拱之支承點處會承受外推力，三鉸拱則否",
       "固定拱及雙鉸拱會因溫度變化導致撓曲應力"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11469,7 +11469,7 @@ window.MOEX_QUESTIONS = [
       "增設剪力牆",
       "減低柱高"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11486,7 +11486,7 @@ window.MOEX_QUESTIONS = [
       "迴轉半徑（r）只與桿件斷面幾何條件有關",
       "迴轉半徑（r）越小，挫屈強度Pcr 越大"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11503,7 +11503,7 @@ window.MOEX_QUESTIONS = [
       "若作為懸臂梁使用，則斷面(iii)可承受最高的剪力負載",
       "若作為邊梁使用（該梁承受扭矩），則斷面(i)具有最高的抗扭能力\nP=1000 N\nA0=100 cm2\nP=1000 N\nθ=45° \n40 cm\n40 cm\n40 cm\n40 cm\n50 cm\n50 cm\n30 cm\n30 cm\n12 cm\n14 cm\n14 cm\n\n代號：80120\n頁次：8－5"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11520,7 +11520,7 @@ window.MOEX_QUESTIONS = [
       "受損前的建築物[圖(i)]是一次靜不定結構",
       "受損後的建築物[圖(ii)]是內部不穩定結構"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11605,7 +11605,7 @@ window.MOEX_QUESTIONS = [
       "P/2（拉）",
       "-P/ 3"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11622,7 +11622,7 @@ window.MOEX_QUESTIONS = [
       "RA=15 kN, RB=80 kN",
       "RA=50 kN, RB=100 kN"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11639,7 +11639,7 @@ window.MOEX_QUESTIONS = [
       "若先把構架推到層間變位為Δ3 處然後完全卸載，之後重新加載直到層間變位為Δ1，此時\n柱(1)內部的剪力為V1",
       "若先把構架推到層間變位為Δ1 處然後完全卸載，之後重新加載直到外力為V3，此時構架\n產生的層間變位Δ 約略等於(Δ2+Δ3)/2"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11656,7 +11656,7 @@ window.MOEX_QUESTIONS = [
       "當矩形斷面單筋梁的斷面鋼筋比大於平衡鋼筋比時，梁會出現混凝土壓碎而鋼筋未降伏的\n脆性破壞模式",
       "當梁所承受的載重增加時，其平衡鋼筋比也會隨之增加\nG\nB\nD\nF\nH\nA\nC\nE\nP\nG\n100 kN\n45 kN\n3 m\n3 m\n4 m\nA\nB\nC\n(1)\n(2)\n(2)\n(1)\nF\nV\nV3\nV2\nΔ1\nΔ2\nΔ3\nΔ\nV1\n\n代號：80120\n頁次：8－7"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11690,7 +11690,7 @@ window.MOEX_QUESTIONS = [
       "Ax=3 kN(→)，Ay=3 kN(↑)，Ex=3 kN(←)，Ey=3 kN(↑)",
       "Cx=0 kN，Cy=0 kN"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11707,7 +11707,7 @@ window.MOEX_QUESTIONS = [
       "斷面局部挫屈",
       "腹板受剪均布斜向裂縫"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11724,7 +11724,7 @@ window.MOEX_QUESTIONS = [
       "寬厚比越小，局部挫屈強度越大",
       "若材料彈性係數E 增大，則局部挫屈強度增加"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11741,7 +11741,7 @@ window.MOEX_QUESTIONS = [
       "扇形開孔的形式對於接頭耐震性能沒有影響",
       "接頭區域的強度檢討僅需考慮柱梁強度比"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11758,7 +11758,7 @@ window.MOEX_QUESTIONS = [
       "梁主筋於接頭內之彎鉤伸展長度",
       "梁主筋之施工性"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11775,7 +11775,7 @@ window.MOEX_QUESTIONS = [
       "柱設計剪力應考慮柱上下端產生最大可能彎矩強度所計得之剪力",
       "梁柱構架之接頭，若接頭四面有梁構入的面數越多，其接頭的剪力計算強度越低"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11792,7 +11792,7 @@ window.MOEX_QUESTIONS = [
       "鋼骨鋼筋混凝土結構",
       "木造結構"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -11826,7 +11826,7 @@ window.MOEX_QUESTIONS = [
       "鋼筋混凝土",
       "砌石"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12013,7 +12013,7 @@ window.MOEX_QUESTIONS = [
       "減少材料分離",
       "增加抗凍性及耐久性"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12047,7 +12047,7 @@ window.MOEX_QUESTIONS = [
       "僅③④",
       "僅②③④"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12064,7 +12064,7 @@ window.MOEX_QUESTIONS = [
       "心材比邊材，乾燥後較不容易有收縮、翹曲的現象，耐久性較高，較不容易蟲害",
       "人工乾燥法中有浸水乾燥法與空氣乾燥法兩種"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12081,7 +12081,7 @@ window.MOEX_QUESTIONS = [
       "水灰比越大其強度越大、乾縮度越小",
       "水灰比越大其強度越小、乾縮度越大"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12098,7 +12098,7 @@ window.MOEX_QUESTIONS = [
       "調整濕度",
       "遮光"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12115,7 +12115,7 @@ window.MOEX_QUESTIONS = [
       "環保性：具備可回收、再利用、低污染、省資源等性能",
       "健康性：對人體健康不會造成危害，具低甲醛及低揮發性有機物質逸散量之性能"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12132,7 +12132,7 @@ window.MOEX_QUESTIONS = [
       "四層以下非供公眾使用建築物之基地，且基礎開挖深度為6 公尺以內者，得引用鄰地既有可靠之地\n下探勘資料設計基礎",
       "建築面積600 平方公尺以上者，應進行地下探勘"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12166,7 +12166,7 @@ window.MOEX_QUESTIONS = [
       "現場樁有離心式RC 樁、離心式預力樁等",
       "反循環基樁不需要像預壘樁施工方式一樣使用白皂土（穩定液）\n\n代號：3801\n頁次：8－3"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12183,7 +12183,7 @@ window.MOEX_QUESTIONS = [
       "①②④③",
       "②④③①"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12200,7 +12200,7 @@ window.MOEX_QUESTIONS = [
       "預拱可採用機械冷壓整型，熱加工整型等方式",
       "鋼板採機械冷彎加工，其內側半徑應大於2 倍版厚，其外側應適當加熱以消除內應力"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12234,7 +12234,7 @@ window.MOEX_QUESTIONS = [
       "鋼管之間形成混凝土I 型梁",
       "使用輕質混凝土"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12251,7 +12251,7 @@ window.MOEX_QUESTIONS = [
       "表面粗糙度",
       "隔音能力"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12268,7 +12268,7 @@ window.MOEX_QUESTIONS = [
       "管柱為一層樓以上木構造自底層貫通至頂層的垂直構件",
       "我國木構造構架的主要種類有抬梁式、抬柱式及中柱式"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12285,7 +12285,7 @@ window.MOEX_QUESTIONS = [
       "屋頂版",
       "內部混凝土牆"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12302,7 +12302,7 @@ window.MOEX_QUESTIONS = [
       "螺釘",
       "螞蝗釘"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12319,7 +12319,7 @@ window.MOEX_QUESTIONS = [
       "高強度螺栓可以鉸孔方式擴孔後入孔",
       "高強度螺栓群鎖緊工作應由一側單方向依序鎖緊"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12353,7 +12353,7 @@ window.MOEX_QUESTIONS = [
       "風壓結構性能試驗",
       "層間變位性能試驗"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12404,7 +12404,7 @@ window.MOEX_QUESTIONS = [
       "外牆隔熱只需考慮熱的傳導即可，對流與輻射等並不需要",
       "帷幕牆也可以當成承重牆"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12438,7 +12438,7 @@ window.MOEX_QUESTIONS = [
       "鏡子：鏡子之鏡面底端與地板面距離不得大於90 公分，鏡面的高度應在90 公分以上",
       "廁所盥洗室內應設置一處緊急求助鈴\n\n代號：3801\n頁次：8－4"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12472,7 +12472,7 @@ window.MOEX_QUESTIONS = [
       "反循環樁（Reverse Circulation Pile）",
       "土鑽式基樁（Earth Drill Method Pile）"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12489,7 +12489,7 @@ window.MOEX_QUESTIONS = [
       "在軟弱地點作業時需要舖設墊木或防陷板",
       "吊車作業桁架越長越好且較安全、經濟"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12540,7 +12540,7 @@ window.MOEX_QUESTIONS = [
       "密貼工法",
       "軟底直貼工法"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12557,7 +12557,7 @@ window.MOEX_QUESTIONS = [
       "橡膠隔震墊較適用於重量輕之建築物",
       "若隔震層為使用空間，則隔震系統之防火時效應大於當層之柱、梁之防火時效"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12591,7 +12591,7 @@ window.MOEX_QUESTIONS = [
       "剪力牆補強工法：剪力牆補強是在既有的梁柱框架中增設鋼筋混凝土的牆體，或以鋼筋混凝土牆取\n代原有磚牆，以提升現有梁柱架構的整體耐震能力。剪力牆補強同樣具有方向性，需設置於耐震能\n力不足的方向上",
       "鋼框架斜撐補強工法：鋼框架斜撐補強是在既有的梁柱構架中填充鋼框架斜撐，以提升既有梁柱構\n架的整體耐震能力。鋼框架斜撐補強不具有方向性，可依空間使用需求自由配置斜撐位置\n3~4 mm\n4~6 mm\n貼磁磚用灰漿\n磁磚\n結\n構\n體\n中\n層\n粉\n刷\n底\n層\n粉\n刷\n\n代號：3801\n頁次：8－5"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12625,7 +12625,7 @@ window.MOEX_QUESTIONS = [
       "18",
       "0"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12676,7 +12676,7 @@ window.MOEX_QUESTIONS = [
       "有脫臭及吸附煙效果",
       "硬度高可用於易碰撞部位"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12744,7 +12744,7 @@ window.MOEX_QUESTIONS = [
       "乙丙",
       "甲丁"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12761,7 +12761,7 @@ window.MOEX_QUESTIONS = [
       "③為鋼筋止滑釘，主要為輔助邊坡坡面的穩定以防止滑動",
       "④是排水孔，PVC 管為常用的材料"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12778,7 +12778,7 @@ window.MOEX_QUESTIONS = [
       "防止草地侵入透水磚鋪面",
       "阻絕雨水向鋪面外漫流"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12795,7 +12795,7 @@ window.MOEX_QUESTIONS = [
       "A = 65 cm 及B = 85 cm",
       "A = 60 cm 及B = 85 cm\n戶外鋪面剖面圖（單位：公分）\n高壓透水磚\n路緣石\n碎石級配層\n襯墊砂調整層\n不織布\n2000 psi pc"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12812,7 +12812,7 @@ window.MOEX_QUESTIONS = [
       "牆面整理→放樣→安裝固定鐵件、石材→填、斂縫→表面清潔→完成",
       "放樣→牆面整理→安裝固定鐵件、石材→表面清潔→填、斂縫→完成"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12829,7 +12829,7 @@ window.MOEX_QUESTIONS = [
       "紅外線熱顯像儀檢驗法雖然儀器高貴，但可百分之百檢驗出瓷磚的劣化現象",
       "非破壞性檢測中拉拔試驗可檢驗出瓷磚的抗拉強度"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12846,7 +12846,7 @@ window.MOEX_QUESTIONS = [
       "樓板",
       "剪力牆"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12863,7 +12863,7 @@ window.MOEX_QUESTIONS = [
       "減少乾縮裂縫",
       "增進混凝土之品質"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12897,7 +12897,7 @@ window.MOEX_QUESTIONS = [
       "15%",
       "20%"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12914,7 +12914,7 @@ window.MOEX_QUESTIONS = [
       "漿砌尺二磚",
       "拋光石英磚"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12931,7 +12931,7 @@ window.MOEX_QUESTIONS = [
       "不得小於1/100",
       "不得小於1/200"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12948,7 +12948,7 @@ window.MOEX_QUESTIONS = [
       "機車位長度不得小於220 公分，寬度不得小於225 公分",
       "通達無障礙機車停車位之車道寬度不得小於150 公分"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12965,7 +12965,7 @@ window.MOEX_QUESTIONS = [
       "外牆剖面圖",
       "項目與數量表"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -12999,7 +12999,7 @@ window.MOEX_QUESTIONS = [
       "吊筋如果與水電、空調、消防等工程管線位置重疊，可固著於管線下方",
       "暗架天花板內須定期維修或操作之設備（如閥、存水彎、空調盤管、閘門、過濾器、偵測裝置、開\n關及清潔口等），均應於下方可及處設置維修口，一般房間每間至少應有一處以上之維修口"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13067,7 +13067,7 @@ window.MOEX_QUESTIONS = [
       "藉由雨水回收再利用，可有效節省水資源",
       "於建築四周外牆大面積開窗可使室內有良好的通風採光，可減少耗能"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13101,7 +13101,7 @@ window.MOEX_QUESTIONS = [
       "正負剪力產生的斜向裂縫為相反，為避免斜向鋼筋錯放與施工方便性，一般採水平向鋼筋配置",
       "正負扭力會導致RC 構件產生斜向螺旋裂縫"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13118,7 +13118,7 @@ window.MOEX_QUESTIONS = [
       "木材",
       "鋼骨"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13135,7 +13135,7 @@ window.MOEX_QUESTIONS = [
       "因施工而損傷道路、溝渠等公共設施之修復",
       "使用執照之申請"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13152,7 +13152,7 @@ window.MOEX_QUESTIONS = [
       "RC 構造自重較SS、SRC 構造自重高",
       "SS 構造耐震效果較SRC、RC 構造高"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13169,7 +13169,7 @@ window.MOEX_QUESTIONS = [
       "價值工程適合用在高造價項目",
       "價值工程適合用在多次重複採購之低單價項目"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13186,7 +13186,7 @@ window.MOEX_QUESTIONS = [
       "鋼筋數量以長度計算，單位為公尺，一般耗損率約10~15%",
       "混凝土數量以體積計算，單位為立方公尺，一般耗損率約1~5%"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13203,7 +13203,7 @@ window.MOEX_QUESTIONS = [
       "數量精算式總價承包契約較適用於規模龐大且較無法預測之工程",
       "成本加固定百分比契約較適用於零星維修或小型工程"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13254,7 +13254,7 @@ window.MOEX_QUESTIONS = [
       "當主筋利用機械鋼筋接續器作鋼筋續接時，應距離鋼骨續接處之補強板或螺栓250 mm 以上",
       "鋼骨鋼筋混凝土梁之主筋續接應距柱之混凝土面1.5 倍之梁深以上"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13339,7 +13339,7 @@ window.MOEX_QUESTIONS = [
       "均齊度是指室內照度的均勻程度，數值介於0~1 之間，數值愈小表示愈均勻",
       "相同的人工光源，分別以直接照明與間接照明的方式設置，在相同條件的位置所測得的照度，\n以直接照明較高"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13356,7 +13356,7 @@ window.MOEX_QUESTIONS = [
       "a 玻璃搭配d 外遮陽",
       "b 玻璃搭配c 外遮陽\nDb 玻璃搭配d 外遮陽"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13373,7 +13373,7 @@ window.MOEX_QUESTIONS = [
       "日照時數通常較可照時數來得大",
       "日照率的計算是由可照時數與日照時數的差值，除以可照時數後求得"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13390,7 +13390,7 @@ window.MOEX_QUESTIONS = [
       "多孔質材料的吸音，主要是以細孔中的摩擦抵抗、音能的抵抗損失與粒子運動的速度壓成比例",
       "貼於壁面上時，因低頻聲音波長較大，於吸音材料處的空氣粒子速度相當大，因此吸音效果較佳"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13407,7 +13407,7 @@ window.MOEX_QUESTIONS = [
       "厚9 mm 石膏板搭配後側空氣層可應用於吸收低音域",
       "劇場座椅及觀眾也具有一定程度的吸音率"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13424,7 +13424,7 @@ window.MOEX_QUESTIONS = [
       "音壓：Pa",
       "音功率：W\n\n代號：80140\n頁次：4－3"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13458,7 +13458,7 @@ window.MOEX_QUESTIONS = [
       "水錘吸收器",
       "截留器"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13492,7 +13492,7 @@ window.MOEX_QUESTIONS = [
       "蓄水池應設溢流管，管口應加設防蟲網，溢流管的排水量應和受水量相當，並採用直接排水方式",
       "蓄水池底面應設清洗用洩水管及止水閥，並保持適當之斜度或排水溝以利排水"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13526,7 +13526,7 @@ window.MOEX_QUESTIONS = [
       "對於背對背或並列設置之衛生器具，為保護此二器具存水彎之水封，在器具排水管之交點處向\n上接續之通氣管為共同通氣管",
       "伸頂通氣管指的是從最頂部之排水橫管與排水立管之接續點起，排水立管再向上延伸作為通氣\n使用之部分"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13543,7 +13543,7 @@ window.MOEX_QUESTIONS = [
       "開放式：平時管內無水，啟動一齊開放閥，使水流入管系撒水",
       "預動式：平時管內貯滿低壓水，以感知裝置啟動流水檢知裝置，且撒水頭動作時即撒水"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13577,7 +13577,7 @@ window.MOEX_QUESTIONS = [
       "連鎖反應",
       "燃料"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13611,7 +13611,7 @@ window.MOEX_QUESTIONS = [
       "水氣併用式空調有新鮮外氣供應不足的問題",
       "全水式空調在室內產生的噪音問題較全氣式嚴重"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13628,7 +13628,7 @@ window.MOEX_QUESTIONS = [
       "冷凍主機的機房需特別考慮噪音與振動的防制",
       "噴嘴型出風口適合用於大型空間\n\n代號：80140\n頁次：4－4"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13645,7 +13645,7 @@ window.MOEX_QUESTIONS = [
       "照明器具產生之內部負荷",
       "經由空調設備導入外氣時所產生之熱負荷"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13679,7 +13679,7 @@ window.MOEX_QUESTIONS = [
       "電梯之需求量一般以尖峰時間每30 分鐘的使用人數來衡量",
       "辦公大樓午餐尖峰時需考慮上下雙向的輸送"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13696,7 +13696,7 @@ window.MOEX_QUESTIONS = [
       "20",
       "60"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13713,7 +13713,7 @@ window.MOEX_QUESTIONS = [
       "我國交流電頻率為110 Hz",
       "斷路器的功能主要為避免觸電"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13764,7 +13764,7 @@ window.MOEX_QUESTIONS = [
       "某個系統受氣候變遷負面影響及無法因應的程度",
       "為了因應氣候衝擊，而在自然或人類系統所做的調整"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13781,7 +13781,7 @@ window.MOEX_QUESTIONS = [
       "自行車租賃制度、自行車停車場設置",
       "人行專用步道系統規劃"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13798,7 +13798,7 @@ window.MOEX_QUESTIONS = [
       "指標值在100 以下者，表示當地空氣品質符合環境空氣品質中的短期標準",
       "目前列為PSI 的評估項目，其中有：懸浮微粒（PM10），二氧化碳（CO2）等項"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -13815,7 +13815,7 @@ window.MOEX_QUESTIONS = [
       "通常將水池設計成高低水位兩部分，低水位部分底層以透水層為之",
       "其水面在下雨後會擴大，以暫時貯存高低水位間的雨水，然後讓之慢慢滲透回土壤"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14002,7 +14002,7 @@ window.MOEX_QUESTIONS = [
       "公園綠地，以每棟6 平方公尺計算",
       "社區活動中心，以每棟10 平方公尺計算"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14036,7 +14036,7 @@ window.MOEX_QUESTIONS = [
       "①③④",
       "①②③"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14053,7 +14053,7 @@ window.MOEX_QUESTIONS = [
       "改建",
       "修建"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14070,7 +14070,7 @@ window.MOEX_QUESTIONS = [
       "室內裝修涉及建築物之分間牆位置變更、增加或減少，經審查機構認定涉及公共安全時，仍應倂同\n由經內政部登記許可之室內裝修業署名負責施工，免再經開業建築師簽證負責",
       "內政部指定非供公眾使用建築物之集合住宅及辦公廳，除整幢建築物屬同一權利主體所有者之外，\n其任一戶有增設廁所或浴室者，均應依建築物室內裝修管理辦法相關規定辦理\n\n代號：1801\n頁次：10－3"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14087,7 +14087,7 @@ window.MOEX_QUESTIONS = [
       "符合工程圖樣及說明書",
       "危害公共安全者"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14104,7 +14104,7 @@ window.MOEX_QUESTIONS = [
       "防火避難設施及消防設備於改善完竣後，應併同建築法第77 條第3 項公共安全檢查申報規定進行\n年度例行申報",
       "依個案建築物興建完成或領得建造執照時間或變更使用執照時間之不同，而有不同之改善項目、內\n容及方式"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14121,7 +14121,7 @@ window.MOEX_QUESTIONS = [
       "新臺幣6 萬元以上30 萬元以下",
       "新臺幣8 萬元以上45 萬元以下"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14155,7 +14155,7 @@ window.MOEX_QUESTIONS = [
       "違反建築法或基於建築法所發布之命令規定，經主管建築機關通知限期拆除而逾期未拆者",
       "因地震災害致建築物發生危險已達危害公共安全程度必須立即拆除不及通知其所有人或占有人予\n以拆除者"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14172,7 +14172,7 @@ window.MOEX_QUESTIONS = [
       "後者已領有建造執照未按圖施工，亦得比照前者未領有建造執照即擅自建造情形，依同法第86 條\n處以罰鍰並勒令停工補辦手續，必要時得強制拆除其建築物",
       "後者若涉及受託建築師之監造責任，可由主管建築機關按所查得之個案事實，依據建築師法追究責任"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14189,7 +14189,7 @@ window.MOEX_QUESTIONS = [
       "專業設計技術人員",
       "專業施工技術人員"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14206,7 +14206,7 @@ window.MOEX_QUESTIONS = [
       "既存違章建築不影響公共安全者，得由當地主管建築機關分類分期予以列管拆除之",
       "既存違章建築是否影響公共安全，得由當地主管建築機關自行額外增加認定\n\n代號：1801\n頁次：10－4"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14240,7 +14240,7 @@ window.MOEX_QUESTIONS = [
       "從業技術人員解僱",
       "事務所資本額異動"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14257,7 +14257,7 @@ window.MOEX_QUESTIONS = [
       "從業建築師及技術人員姓名、受聘或解僱日期",
       "登記事項之變更"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14274,7 +14274,7 @@ window.MOEX_QUESTIONS = [
       "任專科以上學校教授，講授建築學科至少一門且累計2 年以上",
       "在政府機關從事建築工程實際工作累計2 年以上"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14291,7 +14291,7 @@ window.MOEX_QUESTIONS = [
       "直轄市、縣（市）主管機關對於建築師懲戒事項，應設置建築師懲戒委員會處理之。建築師懲戒委\n員會應將交付懲戒事項，通知被付懲戒之建築師，並限於20 日內提出答辯或到會陳述；如不遵限\n提出答辯或到會陳述時，得逕行決定",
       "建築師開業證書有效期間為6 年，開業證書已逾有效期間未申請換發，而繼續執行建築師業務者，\n除勒令停業外，處新臺幣6 千元以上3 萬元以下罰鍰，並令其限期補辦申請；屆期不遵從而繼續執\n業者，由直轄市、縣（市）主管機關交付懲戒"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14342,7 +14342,7 @@ window.MOEX_QUESTIONS = [
       "高度60 公尺供建築物用途類組H-2 組使用之高層建築物",
       "高度85 公尺供建築物用途類組H-2 組使用之高層建築物"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14359,7 +14359,7 @@ window.MOEX_QUESTIONS = [
       "廚房除設有符合規定之機械通風設備外，其有效通風面積不得小於該居室樓地板面積之1/10，且不\n得小於0.8 平方公尺",
       "廚房樓地板面積在80 平方公尺以上者，應另依建築設備編規定設置排除油煙設備\n\n代號：1801\n頁次：10－5"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14376,7 +14376,7 @@ window.MOEX_QUESTIONS = [
       "停車空間設置戶外空氣之窗戶或開口，其有效通風面積不得小於該層供停車使用之樓地板面積4%\n或依規定設置機械通風設備",
       "停車空間應依用戶用電設備裝置規則預留供電動車輛充電相關設備及裝置之裝設空間，並便利行動\n不便者使用"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14393,7 +14393,7 @@ window.MOEX_QUESTIONS = [
       "同一居室開口面積在3 平方公尺以下，且以具半小時防火時效之牆壁（不包括裝設於該牆壁上之門\n窗）與樓板區劃分隔者，其外牆之開口不在此限",
       "一基地內二幢建築物間之防火間隔未達3 公尺範圍內之外牆部分，應具有半小時以上防火時效"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14427,7 +14427,7 @@ window.MOEX_QUESTIONS = [
       "教室之方位應適當，並應有適當之人工照明及遮陽設備",
       "建築物高度，不得大於二幢建築物外牆中心線水平距離1.5 倍，但相對之外牆均無開口，或有開口\n但不供教學使用者，不在此限"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14444,7 +14444,7 @@ window.MOEX_QUESTIONS = [
       "10 輛",
       "25 輛"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14461,7 +14461,7 @@ window.MOEX_QUESTIONS = [
       "地下通道之寬度不得小於5 公尺，並不得設置有礙避難通行之設施",
       "地下通道及地下廣場之天花板淨高不得小於3 公尺，但至天花板下之防煙壁、廣告物等類似突出部\n分之下端，得減為2.5 公尺以上"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14478,7 +14478,7 @@ window.MOEX_QUESTIONS = [
       "瓦斯配管之容許層間變位為百分之一",
       "高層建築物配管管道間應考慮維修及更換空間。瓦斯管之管道間應單獨設置。但與給水管或排水管\n共構設置者，不在此限\n\n代號：1801\n頁次：10－6"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14529,7 +14529,7 @@ window.MOEX_QUESTIONS = [
       "7 公尺",
       "8 公尺"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14563,7 +14563,7 @@ window.MOEX_QUESTIONS = [
       "居住單元10 戶時，應至少提供一處交誼室",
       "受服務之老人超過20 人者，應至少提供一處交誼室"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14614,7 +14614,7 @@ window.MOEX_QUESTIONS = [
       "3",
       "4"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14631,7 +14631,7 @@ window.MOEX_QUESTIONS = [
       "都市計畫經發布實施後，應依營造法之規定，實施建築管理",
       "商業區為促進商業發展而劃定，其土地及建築物之使用，不得有礙商業之便利\n\n代號：1801\n頁次：10－7"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14648,7 +14648,7 @@ window.MOEX_QUESTIONS = [
       "區段徵收",
       "市地重劃"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14665,7 +14665,7 @@ window.MOEX_QUESTIONS = [
       "由直轄市、縣（市）主管機關委託二家以上專業估價者查估後評定之；必要時，查估工作得由直轄\n市、縣（市）主管機關辦理。其所需費用，由接受基地所有權人或公有土地地上權人負擔",
       "由直轄市、縣（市）主管機關委託二家以上專業估價者查估後評定之；必要時，查估工作得由直轄\n市、縣（市）主管機關辦理。其所需費用，由送出基地所有權人負擔"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14699,7 +14699,7 @@ window.MOEX_QUESTIONS = [
       "3",
       "4"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14733,7 +14733,7 @@ window.MOEX_QUESTIONS = [
       "申請當地主管機關分配之",
       "申請法院分配之"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14750,7 +14750,7 @@ window.MOEX_QUESTIONS = [
       "主管機關審議申請使用許可案件，應考量土地使用適宜性、交通與公共設施服務水準、自然環境及\n人為設施容受力",
       "國土計畫主管機關核發使用許可案件，應向申請人收取國土保育費作為改善或增建相關公共設施用途"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14767,7 +14767,7 @@ window.MOEX_QUESTIONS = [
       "區域計畫擬定機關為開發利用許可前，應先將申請開發案提報各該區域計畫委員會審議之",
       "依規定取得區域計畫擬定機關許可後，應先辦理分區及用地變更，再向直轄市、縣（市）政府繳交\n開發影響費\n\n代號：1801\n頁次：10－8"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14784,7 +14784,7 @@ window.MOEX_QUESTIONS = [
       "丁種建築用地：供工廠及有關工業設施建築使用者",
       "農牧用地：供農牧生產及其設施使用者"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14801,7 +14801,7 @@ window.MOEX_QUESTIONS = [
       "為加強資源保育或避免重大災害之發生，得適時檢討變更國土計畫",
       "為政府興辦國防、重大之公共設施或公用事業計畫，得適時檢討變更國土計畫"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14818,7 +14818,7 @@ window.MOEX_QUESTIONS = [
       "於管理委員會成立或管理負責人推選或指定後7 日內",
       "於接獲主管機關書面通知日起7 日內"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14835,7 +14835,7 @@ window.MOEX_QUESTIONS = [
       "管理委員會：指為執行區分所有權人會議決議事項及公寓大廈管理維護工作，由區分所有權人自願\n擔任委員所設立之組織",
       "規約：公寓大廈區分所有權人為增進共同利益，確保良好生活環境，經區分所有權人會議決議之共\n同遵守事項"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14937,7 +14937,7 @@ window.MOEX_QUESTIONS = [
       "督察按圖施工、解決施工技術問題",
       "按日填報施工日誌"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14954,7 +14954,7 @@ window.MOEX_QUESTIONS = [
       "新臺幣2,000 萬元",
       "新臺幣1,750 萬元"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14971,7 +14971,7 @@ window.MOEX_QUESTIONS = [
       "專業營造業承攬造價限額為其資本額之8 倍",
       "甲等綜合營造業承攬造價限額為其資本額之10 倍"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -14988,7 +14988,7 @@ window.MOEX_QUESTIONS = [
       "四親等",
       "五親等"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15005,7 +15005,7 @@ window.MOEX_QUESTIONS = [
       "10 年",
       "無限制"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15022,7 +15022,7 @@ window.MOEX_QUESTIONS = [
       "查核金額以上",
       "無金額限制"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15039,7 +15039,7 @@ window.MOEX_QUESTIONS = [
       "2 年",
       "3 年"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15073,7 +15073,7 @@ window.MOEX_QUESTIONS = [
       "建築師受委託辦理業務，其工作範圍及應收酬金，應與委託人於事前訂立書面契約，共同遵守",
       "建築師對於公共安全、社會福利及預防災害等有關建築事項，經主管機關之指定，應襄助辦理"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15090,7 +15090,7 @@ window.MOEX_QUESTIONS = [
       "室外通路寬度130 公分範圍內，儘量不設置水溝格柵或其他開口，如需設置，水溝格柵或其他開口\n應至少有一方向開口不得大於1.3 公分",
       "室外通路如為必要設置之突出物，應設置警示設施"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15124,7 +15124,7 @@ window.MOEX_QUESTIONS = [
       "如主要通路走廊與昇降機開門方向平行，則應另設置垂直於牆面之無障礙標誌",
       "昇降機出入口之樓地板應無高差，並留設直徑150 公分以上且坡度不得大於1/50 之淨空間"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15141,7 +15141,7 @@ window.MOEX_QUESTIONS = [
       "無障礙廁所盥洗室前牆壁或門上應設置無障礙標誌",
       "無障礙廁所盥洗室開門方向如與主要通路走廊平行，則應另設置垂直於牆壁之無障礙標誌"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15158,7 +15158,7 @@ window.MOEX_QUESTIONS = [
       "應設置高度15 公分以上之邊緣防護與高度85 公分之防護設施",
       "應設置高度20 公分以上之邊緣防護與高度90 公分之防護設施"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15175,7 +15175,7 @@ window.MOEX_QUESTIONS = [
       "下車區斜線間淨距離為40 公分以下",
       "下車區斜線之標線寬度為10 公分"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15192,7 +15192,7 @@ window.MOEX_QUESTIONS = [
       "無障礙客房使用之電器插座及開關，應設置於距地板面高70 公分至100 公分範圍內，設置位置應\n距柱、牆角30 公分以上",
       "無障礙客房之室內求助鈴，應至少設置1 處"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15226,7 +15226,7 @@ window.MOEX_QUESTIONS = [
       "15",
       "20"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15260,7 +15260,7 @@ window.MOEX_QUESTIONS = [
       "10",
       "15"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15362,7 +15362,7 @@ window.MOEX_QUESTIONS = [
       "P2 > P1 > P3",
       "P3 > P2 > P1"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15379,7 +15379,7 @@ window.MOEX_QUESTIONS = [
       "可藉由節點處之接合扣件（如：螺栓）提升結構系統的韌性",
       "木料強度隨著其含水率減少而減低"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15413,7 +15413,7 @@ window.MOEX_QUESTIONS = [
       "柱子因軸壓力引起的應力超過其材料強度而發生破壞時之負載，稱為臨界負載",
       "鋼筋混凝土柱內若綁紮足量之橫向閉合箍筋，則在地震中即使柱子上下兩端形成塑性鉸，\n但因橫向鋼筋的圍束作用，臨界負載不會產生太大變動\n柱1\n柱2\n柱3\n\n代號：80120\n頁次：8－4"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15430,7 +15430,7 @@ window.MOEX_QUESTIONS = [
       "進行結構評估時，僅需考慮的額外載重為植栽、覆土與建材的重量",
       "屋頂綠化可能會改變建築物在地震時的結構振動反應"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15447,7 +15447,7 @@ window.MOEX_QUESTIONS = [
       "在僅考慮水平遮陽板自重而無其他外力的情況下，則較長的纜索（i）內的拉力將會是0",
       "外力作用下，較短纜索（ii）內的拉力與較長纜索（i）內的拉力永遠維持2：1"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15464,7 +15464,7 @@ window.MOEX_QUESTIONS = [
       "採用無梁版系統可獲得較大的樓層高度並縮短施工期",
       "採用無梁版系統時，柱子的位置只要上下樓層有對齊就好，在平面上並不需要排成一線"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15498,7 +15498,7 @@ window.MOEX_QUESTIONS = [
       "C 線",
       "D 線"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15515,7 +15515,7 @@ window.MOEX_QUESTIONS = [
       "在回歸期為50 年的風力作用下，建築物層間變位角不得超過5/1000",
       "在回歸期為半年的風力作用下，建築物最高居室樓層角隅之側向振動尖峰加速度值不得超\n過0.05 m/s2"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15532,7 +15532,7 @@ window.MOEX_QUESTIONS = [
       "B 支承有轉角變形並出現向下支承反力",
       "B 支承反力之絕對值大於A 支承反力之絕對值"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15549,7 +15549,7 @@ window.MOEX_QUESTIONS = [
       "RA = 290 kN, RB = 310 kN",
       "RA = 350 kN, RB = 250 kN\n應\n力\nσ\n應變ϵ"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15566,7 +15566,7 @@ window.MOEX_QUESTIONS = [
       "②③",
       "①③"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15600,7 +15600,7 @@ window.MOEX_QUESTIONS = [
       "AC 桿件的內力為30 kN",
       "AD 桿件的內力為40 kN"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15617,7 +15617,7 @@ window.MOEX_QUESTIONS = [
       "57 PL/AE",
       "76 PL/AE\n10 m\n10 m\n10 m\n10 m\n1000 N\n3 m\n3 m\n4 m\n40 kN\n40 kN\nM3\nM2\nM1\nEI, L3\nEI, L2\nEI, L1\n4 P\n3 L\n4 L\n\n代號：80120\n頁次：8－7"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15634,7 +15634,7 @@ window.MOEX_QUESTIONS = [
       "結構（c）",
       "結構（d）"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15668,7 +15668,7 @@ window.MOEX_QUESTIONS = [
       "四組構架頂部位移均為△，最可能發生挫屈之桿件為⑥",
       "PC < PA < PB"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15685,7 +15685,7 @@ window.MOEX_QUESTIONS = [
       "使斷面鋼筋比大於平衡鋼筋比",
       "增加拉力鋼筋"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15702,7 +15702,7 @@ window.MOEX_QUESTIONS = [
       "改善柱子在地震中的韌性",
       "減低柱子內的鋼筋發生挫屈（buckling）破壞的機會"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15719,7 +15719,7 @@ window.MOEX_QUESTIONS = [
       "若簡支梁破壞時中段處斷面的中性軸位置越高，則其破壞模式會越接近脆性破壞",
       "簡支梁的極限彎矩強度不會因為梁的跨度增減而改變\nP\n2 P\n3 P\n4 P\n結構（a）\n結構（b）\n結構（c）\n結構（d）\n\n代號：80120\n頁次：8－8"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15736,7 +15736,7 @@ window.MOEX_QUESTIONS = [
       "斷面上有任一肢材屬細長肢材時，斷面為半結實斷面",
       "塑性設計斷面純受軸力下可達全斷面降伏"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15787,7 +15787,7 @@ window.MOEX_QUESTIONS = [
       "①④",
       "③"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15804,7 +15804,7 @@ window.MOEX_QUESTIONS = [
       "鋼骨鋼筋混凝土造",
       "木構造"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -15855,7 +15855,7 @@ window.MOEX_QUESTIONS = [
       "相同地震下，耐震結構的標準層之層間變形較大",
       "耐震結構施工較為單純"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16008,7 +16008,7 @@ window.MOEX_QUESTIONS = [
       "大於0.2",
       "大於0.3"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16059,7 +16059,7 @@ window.MOEX_QUESTIONS = [
       "50%",
       "60%"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16076,7 +16076,7 @@ window.MOEX_QUESTIONS = [
       "可對應綠建築評估中二氧化碳減量及廢棄物減量之要求",
       "可廣泛大量回收材料製成，以達再利用之目的"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16093,7 +16093,7 @@ window.MOEX_QUESTIONS = [
       "②③①④",
       "③②④①"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16110,7 +16110,7 @@ window.MOEX_QUESTIONS = [
       "地盤改良",
       "增加基礎深度至非液化層"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16161,7 +16161,7 @@ window.MOEX_QUESTIONS = [
       "主筋與鋼骨鋼板面平行時，其淨間距應保持15 mm 以上",
       "如需在鋼梁腹板上開設鋼筋貫穿孔，除應避開銲道之外，應距銲道邊15 mm 以上"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16178,7 +16178,7 @@ window.MOEX_QUESTIONS = [
       "18",
       "20"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16195,7 +16195,7 @@ window.MOEX_QUESTIONS = [
       "應盡量使用未成熟比例較高之木材",
       "使用鐵件接合之部位，應避免選用角隅缺損之木料"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16246,7 +16246,7 @@ window.MOEX_QUESTIONS = [
       "構件接合部若能採用初期剛性低的作法，可提高木質構造的韌性",
       "具有扣件接合部的木質構造體，其變形量包含木材之變形與接合部之變形"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16263,7 +16263,7 @@ window.MOEX_QUESTIONS = [
       "玻璃帷幕牆",
       "純石材帷幕牆\n\n代號：3801\n頁次：10－4"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16280,7 +16280,7 @@ window.MOEX_QUESTIONS = [
       "圖C：瀝青",
       "圖D：合成材"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16297,7 +16297,7 @@ window.MOEX_QUESTIONS = [
       "女兒牆底部與屋頂面之轉角處，宜以圓角或三角處理",
       "採用塗膜防水工法時，如採用張貼式補強材料，其疊接長度約保持5 公分即可"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16331,7 +16331,7 @@ window.MOEX_QUESTIONS = [
       "於面磚鋪貼二天後，應進行檢查，如有鼓起或鬆脫現象，工程司應即要求拆除重做",
       "經現場拉拔接著強度試驗不合格，工程司應即要求拆除重做"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16348,7 +16348,7 @@ window.MOEX_QUESTIONS = [
       "竣工檢驗",
       "廠測"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16365,7 +16365,7 @@ window.MOEX_QUESTIONS = [
       "①③⑥",
       "②④⑥"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16382,7 +16382,7 @@ window.MOEX_QUESTIONS = [
       "磁粉探傷檢驗",
       "放射線檢驗\n原土夯實\n不織布\n透水管\n砂質壤土植草\n碎石透水層\n碎石透水層\n黏土層\n粉土攙細砂表層\n清碎石\n細石\n原土夯實\n不織布\n透水管\n原土夯實\n不織布\n碎石透水層\n原土夯實\n碎石級配\n混凝土\n合成材面層\n點焊鋼絲網\n彩色面塗層\n瀝青混凝土\n瀝青面層\n瀝青整平層\n草皮\n砂土\n合成材\n瀝青\n(A)\n(B)\n(D)\n(C)\n\n代號：3801\n頁次：10－5"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16399,7 +16399,7 @@ window.MOEX_QUESTIONS = [
       "大粒徑的卵礫石或安山岩塊可能造成挖掘機抓斗過度損耗，難以挖掘",
       "如果挖掘時發生坍孔，應回填碎石級配再重新開挖"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16416,7 +16416,7 @@ window.MOEX_QUESTIONS = [
       "架空吊車斜向牽引工作時，構材受力部分之應予核計",
       "地震力依吊車重量核計，作用於軌頂，不必計吊載重量"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16433,7 +16433,7 @@ window.MOEX_QUESTIONS = [
       "紙帶排水工法乃是利用透水性良好的紙帶，利用專用紙滲機（Card Board Machine）埋入土壤中排\n水的工法，適用於砂質地盤及有裂縫的岩盤",
       "灌注法係利用各種凝結材料（如水泥、白皂土、瀝青、水玻璃及藥液等）灌入地盤內，使土粒增加\n強度固結或達成防止漏水的工法"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16450,7 +16450,7 @@ window.MOEX_QUESTIONS = [
       "粘性地層地下水位低",
       "粘性地層地下水位高"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16467,7 +16467,7 @@ window.MOEX_QUESTIONS = [
       "預壘樁",
       "連續壁"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16484,7 +16484,7 @@ window.MOEX_QUESTIONS = [
       "配置對角斜撐",
       "配置抗風柱"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16518,7 +16518,7 @@ window.MOEX_QUESTIONS = [
       "⑤①②③④",
       "⑤③②①④"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16535,7 +16535,7 @@ window.MOEX_QUESTIONS = [
       "屬於在試驗室進行的測試，其室溫條件設定在235℃",
       "係利用BPN 擺錘式防滑試驗機以進行測試，面磚試體的尺寸不受限制"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16552,7 +16552,7 @@ window.MOEX_QUESTIONS = [
       "70 公分見方以上",
       "80 公分見方以上"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16569,7 +16569,7 @@ window.MOEX_QUESTIONS = [
       "淺基礎基腳之調查深度應達基腳底面以下至少二倍基腳寬度之深度，或達可確認之承載層深度",
       "關於地基調查密度，原則上，基地面積每600 平方公尺或建築物基礎所涵蓋面積每300 平方公尺\n者，應設一處調查點，且每一基地至少二處\n\n代號：3801\n頁次：10－6"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16586,7 +16586,7 @@ window.MOEX_QUESTIONS = [
       "360 kgf/m2",
       "480 kgf/m2"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16603,7 +16603,7 @@ window.MOEX_QUESTIONS = [
       "防火被覆板材之接縫處理，應於規定防火時效內能維持板材間接縫密合狀態外，並於接縫內側須設\n置能阻擋延燒之材料",
       "牆壁、天花板、樓板及屋頂內中空部位等相互交接處，應設置阻擋延燒構造"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16620,7 +16620,7 @@ window.MOEX_QUESTIONS = [
       "熱傳導係數U 值≦0.25",
       "可見光穿透率≧0.5"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16654,7 +16654,7 @@ window.MOEX_QUESTIONS = [
       "放火澈底燃燒之",
       "開放居民抽管來環保回收"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16773,7 +16773,7 @@ window.MOEX_QUESTIONS = [
       "若有突出物時，應維持200 公分之淨高",
       "如需設置水溝格柵時，其格柵之開口不得大於1.3 公分"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16790,7 +16790,7 @@ window.MOEX_QUESTIONS = [
       "塑合板因由木屑熱壓而成，故吸水率比一般木製合板高",
       "木材常用壓接及指接方式接合"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16824,7 +16824,7 @@ window.MOEX_QUESTIONS = [
       "填角銲焊材用量較多",
       "填角銲安全性較高"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16858,7 +16858,7 @@ window.MOEX_QUESTIONS = [
       "5",
       "6"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16875,7 +16875,7 @@ window.MOEX_QUESTIONS = [
       "高溫可能影響鋼筋材質，因此彎曲和鋼筋裁切均須在常溫下進行",
       "鋼筋排置的許可差，依規範全部可以在一定的正負值內"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16892,7 +16892,7 @@ window.MOEX_QUESTIONS = [
       "粗粒料的標稱最大粒徑受模板間的寬度、混凝土版厚度及鋼筋間距等因素控制",
       "為了確保強度、體積穩定及耐久性，在適合的施工條件下拌和水應越多越好"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16909,7 +16909,7 @@ window.MOEX_QUESTIONS = [
       "框組架與屋架應平放堆置，以避免發生扭曲與彎曲之損害",
       "斷面肢材間轉角處之內彎半徑須大於板厚，一般取鋼材厚度的2～2.5 倍"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16943,7 +16943,7 @@ window.MOEX_QUESTIONS = [
       "基地地質不屬於疏鬆或軟弱地層",
       "高地下水位且透水性良好之砂質地層"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16977,7 +16977,7 @@ window.MOEX_QUESTIONS = [
       "所有建材皆需符合逸散率和防火時效的要求",
       "所有木質板材皆需經防腐處理"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -16994,7 +16994,7 @@ window.MOEX_QUESTIONS = [
       "環氧樹脂砂漿一般型（流展砂漿型）共分為底圖層、砂漿層及面塗層三層，其中砂漿層至少須為\n2 mm 以上，三層完成後之總厚度至少須為3 mm 以上",
       "環氧樹脂砂漿厚塗型（乾式砂漿型）共分為底圖層、接著層、砂漿層、密封層及面塗層五層，其中\n砂漿層至少須為4 mm 以上，三層完成後之總厚度至少須為5 mm 以上"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17028,7 +17028,7 @@ window.MOEX_QUESTIONS = [
       "迴避→最小化→補償→最適化",
       "最小化→補償→最適化→迴避\n\n代號：3801\n頁次：10－10"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17079,7 +17079,7 @@ window.MOEX_QUESTIONS = [
       "管道間檢修口的門之材質",
       "水系統與電系統的管道間是否各自獨立\nD電氣幹管在管道間內的排列方式與管道間的檢修口尺寸"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17096,7 +17096,7 @@ window.MOEX_QUESTIONS = [
       "自懸式燈具吊件應使用直徑3.8 公釐（#9）的懸吊線直接固定至上方結構體作支撐",
       "使用重型懸吊式輕鋼架天花板等級系統，且為120 公分以下模矩者，不須懸吊措施（燈具每個角落\n75 公釐內加#12 懸吊線）"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17113,7 +17113,7 @@ window.MOEX_QUESTIONS = [
       "四層以下非供公眾使用建築物之基地，且基礎開挖深度為6 公尺以內者，得引用鄰地既有可靠之地\n下探勘資料設計基礎",
       "建築面積600 平方公尺以上者，應進行地下探勘"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17130,7 +17130,7 @@ window.MOEX_QUESTIONS = [
       "成本不變，品質提高",
       "品質提高，成本提高"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17147,7 +17147,7 @@ window.MOEX_QUESTIONS = [
       "國產結構材的應用有助於推動相關供應鏈",
       "部分建築類型可以不受木建築樓層高或簷高的限制"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17181,7 +17181,7 @@ window.MOEX_QUESTIONS = [
       "篩分析",
       "骨材比重試驗"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17215,7 +17215,7 @@ window.MOEX_QUESTIONS = [
       "預鑄構件本身的品質較為可靠",
       "對生產商而言進入門檻較低"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17300,7 +17300,7 @@ window.MOEX_QUESTIONS = [
       "60",
       "80"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17317,7 +17317,7 @@ window.MOEX_QUESTIONS = [
       "密閉式屋頂之中空層",
       "可通風雙層壁之中空層"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17334,7 +17334,7 @@ window.MOEX_QUESTIONS = [
       "冷卻該空氣且未產生結露時，相對濕度不會改變",
       "該空氣經空調機冷卻除濕後，水蒸氣分壓會降低\n\n代號：80140\n頁次：4－3\n照度\n照度\n照度\n照度"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17351,7 +17351,7 @@ window.MOEX_QUESTIONS = [
       "水泥砂漿熱傳導係數",
       "室外氣溫"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17368,7 +17368,7 @@ window.MOEX_QUESTIONS = [
       "具隔熱層的建築物角隅",
       "外牆窗戶的玻璃面"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17419,7 +17419,7 @@ window.MOEX_QUESTIONS = [
       "水銀燈光譜中較缺乏紅光",
       "中午陽光之色溫度約在5500 K"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17453,7 +17453,7 @@ window.MOEX_QUESTIONS = [
       "不舒適眩光等級可採用CIE 統一眩光值（UGR）表示",
       "辦公室照明燈具的演色性指標Ra 至少應為80"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17470,7 +17470,7 @@ window.MOEX_QUESTIONS = [
       "長寬比例",
       "使用人數"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17487,7 +17487,7 @@ window.MOEX_QUESTIONS = [
       "回音",
       "多重回音（或顫動回音）"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17521,7 +17521,7 @@ window.MOEX_QUESTIONS = [
       "虹吸式大便器比洗出式大便器所需的沖水量來得多",
       "兩段式省水大便器的大號至少需在6 公升以下、小號需在3 公升以下"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17538,7 +17538,7 @@ window.MOEX_QUESTIONS = [
       "天花板上設出風口時，應距離該出風口1 公尺以上",
       "牆上設有出風口時，應距離該出風口3 公尺以上\n\n代號：80140\n頁次：4－4"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17555,7 +17555,7 @@ window.MOEX_QUESTIONS = [
       "防火閘門",
       "送水口"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17572,7 +17572,7 @@ window.MOEX_QUESTIONS = [
       "30",
       "50"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17640,7 +17640,7 @@ window.MOEX_QUESTIONS = [
       "外部負荷共為70 kW",
       "若SHF = 0.7，則潛熱負荷為70 kW"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17657,7 +17657,7 @@ window.MOEX_QUESTIONS = [
       "電梯之車廂頂部安全距離應隨電梯速度之增高而加大",
       "電梯的速度最高約可達每分鐘200 公尺"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17674,7 +17674,7 @@ window.MOEX_QUESTIONS = [
       "機房有設置樓梯之必要者，樓梯寬度不得小於70 公分，與水平面之傾斜角度不得大於60 度，\n並應設置扶手",
       "機房門不得小於70 公分寬，180 公分高，並應為附鎖之鋼製門"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17708,7 +17708,7 @@ window.MOEX_QUESTIONS = [
       "高度20 m 以上、保護角30°以內",
       "高度20 m 以上、保護角60°以內"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17725,7 +17725,7 @@ window.MOEX_QUESTIONS = [
       "都市熱島與空氣污染無直接關聯性",
       "高樓的存在讓都市中心區域的平均風速增加"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17759,7 +17759,7 @@ window.MOEX_QUESTIONS = [
       "當基地位於透水良好之粉土或砂質土層時，排水路設計草溝幫助不大",
       "當基地位於透水不良之黏土層時，可以將操場下之黏土層更換為礫石層"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17810,7 +17810,7 @@ window.MOEX_QUESTIONS = [
       "1000",
       "3000"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17980,7 +17980,7 @@ window.MOEX_QUESTIONS = [
       "無礙交通之陽台",
       "無礙交通之露臺"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -17997,7 +17997,7 @@ window.MOEX_QUESTIONS = [
       "昇降設備",
       "消防安全設備"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18014,7 +18014,7 @@ window.MOEX_QUESTIONS = [
       "修建",
       "增建"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18031,7 +18031,7 @@ window.MOEX_QUESTIONS = [
       "營造業",
       "督導機關"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18048,7 +18048,7 @@ window.MOEX_QUESTIONS = [
       "12 層樓的建築物，其中任一樓層至基地地面間各層業經施工完竣",
       "高度50 公尺的建築物，其中任一樓層至基地地面間各層業經施工完竣"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18065,7 +18065,7 @@ window.MOEX_QUESTIONS = [
       "5 年",
       "6 年"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18082,7 +18082,7 @@ window.MOEX_QUESTIONS = [
       "建築師開業證書之換發不受建築師研習再教育因素之限制",
       "建築師受委託辦理業務，其工作範圍及應收酬金，應與委託人於事前訂立書面契約，共同遵守\n\n代號：1801\n頁次：8－3"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18116,7 +18116,7 @@ window.MOEX_QUESTIONS = [
       "測量",
       "鑽探簽證"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18133,7 +18133,7 @@ window.MOEX_QUESTIONS = [
       "2000",
       "3000"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18150,7 +18150,7 @@ window.MOEX_QUESTIONS = [
       "鋼構造",
       "鋼筋混凝土造"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18167,7 +18167,7 @@ window.MOEX_QUESTIONS = [
       "連跨樓層數在3 層以下，且樓地板面積在1500 平方公尺以下之挑空",
       "連跨樓層數在3 層以下，且樓地板面積在2000 平方公尺以下之挑空"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18201,7 +18201,7 @@ window.MOEX_QUESTIONS = [
       "35",
       "40"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18218,7 +18218,7 @@ window.MOEX_QUESTIONS = [
       "實施權利變換，以土地及建築物抵付權利變換負擔者",
       "以更新地區內之土地為信託財產，因信託關係而於委託人與受託人間移轉所有權者"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18252,7 +18252,7 @@ window.MOEX_QUESTIONS = [
       "4.6 公尺",
       "4.8 公尺"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18303,7 +18303,7 @@ window.MOEX_QUESTIONS = [
       "3.0：1",
       "3.6：1"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18337,7 +18337,7 @@ window.MOEX_QUESTIONS = [
       "21",
       "24\n\n代號：1801\n頁次：8－4"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18354,7 +18354,7 @@ window.MOEX_QUESTIONS = [
       "8000",
       "10000"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18388,7 +18388,7 @@ window.MOEX_QUESTIONS = [
       "55",
       "65"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18405,7 +18405,7 @@ window.MOEX_QUESTIONS = [
       "千分之二十",
       "千分之五十"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18439,7 +18439,7 @@ window.MOEX_QUESTIONS = [
       "3 層銀行",
       "6 層集合住宅"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18456,7 +18456,7 @@ window.MOEX_QUESTIONS = [
       "應於接到核定公文之日起3 個月內提出",
       "應於接到核定公文之日起6 個月內提出"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18490,7 +18490,7 @@ window.MOEX_QUESTIONS = [
       "40%",
       "50%"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18507,7 +18507,7 @@ window.MOEX_QUESTIONS = [
       "新市區建設：係指建築物稀少，尚未依照都市計畫實施建設發展之地區",
       "舊市區更新：係指舊有建築物密集，畸零破舊，有礙觀瞻，影響公共安全，必須拆除重建，就地整\n建或特別加以維護之地區"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18524,7 +18524,7 @@ window.MOEX_QUESTIONS = [
       "土地巿價",
       "1：1"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18541,7 +18541,7 @@ window.MOEX_QUESTIONS = [
       "為配合中央或地方之重大建設",
       "全區採整建或維護方式處理\n\n代號：1801\n頁次：8－5"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18558,7 +18558,7 @@ window.MOEX_QUESTIONS = [
       "因景觀計畫之變更而辦理都市更新事業計畫之變更，經主管機關認定不影響原核定之都市更新事業\n計畫者",
       "由主管機關自行實施都市更新事業者"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18592,7 +18592,7 @@ window.MOEX_QUESTIONS = [
       "15 日",
       "10 日"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18626,7 +18626,7 @@ window.MOEX_QUESTIONS = [
       "全國區域計畫之計畫年期，以不超過20 年為原則",
       "直轄市、縣（市）區域計畫之計畫年期，以不超過10 年為原則"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18643,7 +18643,7 @@ window.MOEX_QUESTIONS = [
       "違反國土計畫法罰鍰之一定比率提撥",
       "民間捐贈"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18677,7 +18677,7 @@ window.MOEX_QUESTIONS = [
       "都會區域：指由2 個以上之中心都市為核心，及與中心都市在社會、經濟上、地域上、空間上具有\n高度關聯之鄉（鎮、市、區）所共同組成之範圍",
       "特定區域：指具有特殊自然、經濟、文化或其他性質，經目的事業或直轄市、縣（市）主管機關指\n定之範圍"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18711,7 +18711,7 @@ window.MOEX_QUESTIONS = [
       "特定目的事業用地",
       "林業用地"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18745,7 +18745,7 @@ window.MOEX_QUESTIONS = [
       "使用農藥",
       "溫泉水源之利用"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18762,7 +18762,7 @@ window.MOEX_QUESTIONS = [
       "於管理委員會成立或管理負責人推選或指定後7 日內，會同相關人員，現場針對水電等設備，確認\n其功能正常無誤後",
       "基於社區自治精神，由起造人與管理委員會或管理負責人自行協商移交日期"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18779,7 +18779,7 @@ window.MOEX_QUESTIONS = [
       "應經區分所有權人會議決議，且經該頂層區分所有權人同意",
       "應經區分所有權人會議決議，且會議紀錄經法院公證"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18796,7 +18796,7 @@ window.MOEX_QUESTIONS = [
       "管理服務人",
       "區分所有權人會議"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18830,7 +18830,7 @@ window.MOEX_QUESTIONS = [
       "建築物地下室開挖5 公尺以上之工程",
       "橋樑柱跨距25 公尺以上之工程"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18881,7 +18881,7 @@ window.MOEX_QUESTIONS = [
       "受轉交之專業營造業負責，原承攬之綜合營造業負連帶責任",
       "原承攬之綜合營造業負責，受轉交之專業營造業就轉交部分，負連帶責任"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18932,7 +18932,7 @@ window.MOEX_QUESTIONS = [
       "規劃：設計：監造= 0%：45%：55%",
       "規劃：設計：監造= 10%：40%：50%"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -18983,7 +18983,7 @@ window.MOEX_QUESTIONS = [
       "馬桶前緣淨空間不得小於70 公分",
       "馬桶至少有一側為可固定之掀起式扶手"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19000,7 +19000,7 @@ window.MOEX_QUESTIONS = [
       "梯廳昇降機到達時，門開啟至關閉之時間不應少於3 秒鐘",
       "昇降機出入口處與機廂地板面之水平間隙不得大於3.2 公分"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19017,7 +19017,7 @@ window.MOEX_QUESTIONS = [
       "其樓梯兩側應裝設距梯級鼻端高度75-85 公分之扶手",
       "二平台（或樓板）間之高差在25 公分以下者，得不設扶手"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19102,7 +19102,7 @@ window.MOEX_QUESTIONS = [
       "1/8",
       "1/6"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19119,7 +19119,7 @@ window.MOEX_QUESTIONS = [
       "客房內床間淨寬度不得小於60 公分",
       "客房內求助鈴應至少設置兩處"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19136,7 +19136,7 @@ window.MOEX_QUESTIONS = [
       "接受基地在不超過規定之可移入容積內，不得分次移入不同送出基地之可移出容積",
       "實施都市更新地區之可移入容積，以不超過該接受基地基準容積之50%為原則"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19153,7 +19153,7 @@ window.MOEX_QUESTIONS = [
       "新建住宅性能評估由起造人申請",
       "既有住宅性能評估可由既有住宅之承租人向評估機構申請"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19170,7 +19170,7 @@ window.MOEX_QUESTIONS = [
       "向直轄市、縣（市）主管機關申請核准",
       "重建計畫經核准後續依建築法令規定申請建築執照"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19187,7 +19187,7 @@ window.MOEX_QUESTIONS = [
       "辦理重建之建築物，其結構安全性能評估由建築物所有權人委託經中央主管機關評定之共同供應契\n約機構辦理",
       "實施重建之基地，其建蔽率得酌予放寬。但建蔽率之放寬以住宅區之基地為限，且不得超過原建蔽率"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19204,7 +19204,7 @@ window.MOEX_QUESTIONS = [
       "銀級：基準容積百分之六",
       "合格級：基準容積百分之四"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19238,7 +19238,7 @@ window.MOEX_QUESTIONS = [
       "總樓地板面積達30000 平方公尺以上之商場百貨",
       "與地下大眾捷運系統連接之地下街"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19323,7 +19323,7 @@ window.MOEX_QUESTIONS = [
       "主筋可在C 區搭接",
       "主筋可在D 區搭接\nL\nL\nL\nL\nD\nA\nB\nC\n\n代號：80120\n頁次：8－4"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19340,7 +19340,7 @@ window.MOEX_QUESTIONS = [
       "強度折減因數",
       "地震力放大倍數"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19357,7 +19357,7 @@ window.MOEX_QUESTIONS = [
       "迴轉半徑(r)只與桿件斷面幾何條件相關",
       "長細比(L/r)大於臨界長細比(L/r)c 者，柱之挫屈為非彈性挫屈"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19408,7 +19408,7 @@ window.MOEX_QUESTIONS = [
       "東京鐵塔",
       "巴塞隆納聖家堂"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19442,7 +19442,7 @@ window.MOEX_QUESTIONS = [
       "使用輕量隔間為達到綠建築構造的方式之一",
       "高性能混凝土的使用不屬於永續性綠建築的評估範疇\na\nd\nb\nc\n\n代號：80120\n頁次：8－5"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19476,7 +19476,7 @@ window.MOEX_QUESTIONS = [
       "高降伏比可得到高韌性，較大的塑性變形能力",
       "低降伏比可能導致應力集中導致塑性區域窄短，導致局部應力過高而可能發生斷裂"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19510,7 +19510,7 @@ window.MOEX_QUESTIONS = [
       "應變：cm",
       "波松比：無因次量"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19527,7 +19527,7 @@ window.MOEX_QUESTIONS = [
       "懸垂線型",
       "圓弧線型"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19544,7 +19544,7 @@ window.MOEX_QUESTIONS = [
       "百貨商場",
       "教室"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19561,7 +19561,7 @@ window.MOEX_QUESTIONS = [
       "梁端點產生塑性鉸",
       "框架內斜撐拉力降伏"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19595,7 +19595,7 @@ window.MOEX_QUESTIONS = [
       "兩種載重都造成梁彎矩降伏",
       "兩種載重下梁都維持彈性\n\n代號：80120\n頁次：8－6"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19612,7 +19612,7 @@ window.MOEX_QUESTIONS = [
       "C 梁",
       "D 梁"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19629,7 +19629,7 @@ window.MOEX_QUESTIONS = [
       "中震以下以加速度作為分級依據；強震以上以速度作為分級認定依據",
       "中震以下以速度作為分級依據；強震以上以加速度作為分級認定依據"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19663,7 +19663,7 @@ window.MOEX_QUESTIONS = [
       "無梁版的版柱系統並不適宜作為強震區的側力抵抗系統",
       "無梁版系統在樓版可能穿孔破壞面上無法藉由配置剪力鋼筋來增加剪力強度"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19680,7 +19680,7 @@ window.MOEX_QUESTIONS = [
       "6",
       "8\nA\nB\nC\nD\n2 L\nL\nL\nL"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19714,7 +19714,7 @@ window.MOEX_QUESTIONS = [
       "6 kN-m",
       "8 kN-m"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19731,7 +19731,7 @@ window.MOEX_QUESTIONS = [
       "Bx = 220 N",
       "By = 220 N\n（P ≠0）\n（梁加深）\n3 m\n4 m\n2 kN\n2 kN\n10 kN-m\n60°\n4 m\n2 m\n4 m\n2 m\nP1\nP2\n\n代號：80120\n頁次：8－8"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19748,7 +19748,7 @@ window.MOEX_QUESTIONS = [
       "30 kN",
       "40 kN"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19765,7 +19765,7 @@ window.MOEX_QUESTIONS = [
       "5 根D25 鋼筋",
       "8 根D19 鋼筋"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19799,7 +19799,7 @@ window.MOEX_QUESTIONS = [
       "確保梁柱接頭有足夠韌性",
       "改善現場的施工性"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19833,7 +19833,7 @@ window.MOEX_QUESTIONS = [
       "結構系統韌性容量",
       "基本振動週期\n60 kN\n3 m\n3 m\n9 m\nA\nB"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -19986,7 +19986,7 @@ window.MOEX_QUESTIONS = [
       "鍍膜係指在玻璃基板表面以各種沉積方式施加一層或多層無機固態薄膜",
       "Low-E 玻璃是透過鍍膜改良其可視光／日光／常溫熱輻射波長域的透射率／反射率／放射率（輻\n射率）等特性"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20003,7 +20003,7 @@ window.MOEX_QUESTIONS = [
       "二五磚的體積約為七五磚體積的1/3",
       "小半條磚的體積約為二五磚體積的1/2"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20020,7 +20020,7 @@ window.MOEX_QUESTIONS = [
       "搗實完成後，將試筒保持垂直的方向輕輕提高。此時混凝土會下坍",
       "量測試筒高度與坍陷後混凝土高度之差，即為混凝土的坍度"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20037,7 +20037,7 @@ window.MOEX_QUESTIONS = [
       "結構強度",
       "壽命"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20071,7 +20071,7 @@ window.MOEX_QUESTIONS = [
       "再生綠建材不得含有綠建材通則中之限制物質，且除回收材料以外之成分，皆不得為含氯高分子材料",
       "依據現行國家標準，對於同類別但不同使用用途可能有不同等級之產品性能要求，因此針對不同等級之\n再生綠建材，其回收料比率要求亦可不同"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20088,7 +20088,7 @@ window.MOEX_QUESTIONS = [
       "戶外地面消防車輛救災活動空間面積",
       "戶外人行道面積"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20105,7 +20105,7 @@ window.MOEX_QUESTIONS = [
       "岩石＞黏土＞砂土＞礫石",
       "礫石＞岩石＞砂土＞黏土\n\n代號：3801\n頁次：10－4"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20122,7 +20122,7 @@ window.MOEX_QUESTIONS = [
       "基地面積超過六千平方公尺及建築物基礎所涵蓋面積超過三千平方公尺之部分，得視基地之地形、\n地層複雜性及建築物結構設計之需求，決定其調查點數",
       "同一基地之調查點數不得少於二點，當二處探查結果明顯差異時，應視需要增設調查點"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20139,7 +20139,7 @@ window.MOEX_QUESTIONS = [
       "SRC 連續構架中，柱之主筋或梁之端部主筋必須連續通過梁柱接頭，不得以錨定等方式處理",
       "SRC 梁之主筋不得配置於梁寬以外之樓板內"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20156,7 +20156,7 @@ window.MOEX_QUESTIONS = [
       "構材之剛性及韌性、材料的特性",
       "加強不對稱的設計"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20173,7 +20173,7 @@ window.MOEX_QUESTIONS = [
       "交錯層積木材（cross laminated timber）",
       "乾燥木材（dry wood）"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20190,7 +20190,7 @@ window.MOEX_QUESTIONS = [
       "高拉力螺栓",
       "電焊"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20207,7 +20207,7 @@ window.MOEX_QUESTIONS = [
       "鋼材在塗裝及焊接等作業之前，要先將鋼材出廠時所附的銹層刮除，即使在與螺栓的接合面也務必把\n銹刮淨",
       "鋼骨鋼筋混凝土（SRC）造的建築是以混凝土把鋼骨包覆起來的構法，並兼具鋼材防火及防銹的效用"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20224,7 +20224,7 @@ window.MOEX_QUESTIONS = [
       "僅④",
       "①②③④"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20241,7 +20241,7 @@ window.MOEX_QUESTIONS = [
       "打除蜂窩，以1：2 水泥砂漿＋亞克力樹脂填補",
       "蜂窩無需理會，可於外牆裝修時用裝修材料處理"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20258,7 +20258,7 @@ window.MOEX_QUESTIONS = [
       "可用純石砌的石砌牆構造",
       "可用純鋼骨構造"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20326,7 +20326,7 @@ window.MOEX_QUESTIONS = [
       "牆板需銲接之處，以氬氣電銲為之，銲縫須修整平滑，不得露出銲痕，表面應依規定處理",
       "帷幕牆必須能承受洗窗機之吊台上下走動時，其保護膠圈碰撞之力量"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20343,7 +20343,7 @@ window.MOEX_QUESTIONS = [
       "木心板容易因溼度變化而變形",
       "木心板加木皮可多樣選擇較多表面顏色"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20360,7 +20360,7 @@ window.MOEX_QUESTIONS = [
       "天花板上的冷氣主機可直接放在系統天花架上不需再獨立懸吊",
       "陶質、石質、磁質面磚是以吸水率來區分"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20394,7 +20394,7 @@ window.MOEX_QUESTIONS = [
       "BW 工法",
       "MHL 工法（臺灣俗稱Masago）"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20411,7 +20411,7 @@ window.MOEX_QUESTIONS = [
       "膠輪式起重機吊裝時須將油壓式邊撐伸出固定",
       "高塔起重機上昇方法有利用建築柱梁為支撐以及自身自昇式"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20428,7 +20428,7 @@ window.MOEX_QUESTIONS = [
       "高壓噴射注入式",
       "擠壓注入式"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20513,7 +20513,7 @@ window.MOEX_QUESTIONS = [
       "柱碳纖維補強",
       "梁的彎矩補強"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20530,7 +20530,7 @@ window.MOEX_QUESTIONS = [
       "生物多樣性中建築立體綠化為垂直綠網系統，故屋頂陽台綠化是加分的項目",
       "計算二氧化碳固定量時，樹齡20 年以上老樹經移植後還是以老樹計算\n\n代號：3801\n頁次：10－6"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20547,7 +20547,7 @@ window.MOEX_QUESTIONS = [
       "系統整合",
       "設施管理"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20581,7 +20581,7 @@ window.MOEX_QUESTIONS = [
       "僅乙丁戊",
       "僅甲乙丙\n不鏽鋼配管\n伸縮縫蓋板\n吊掛螺桿\n伸縮接頭部\nXLPE電力電纜\n匯流排\n匯流排轉換箱\n丁\n伸縮縫蓋板\n匯流排\n吊掛螺桿\n戊\n伸縮接頭部\n吊掛螺桿\n連接線\n接線盒\n甲\n乙\n接地端子\n可繞金屬導管\n伸縮縫蓋板\n吊掛螺桿\n丙\n線槽\n線槽\n外防水\n外防水\n外防水\n外防水\n內防水\n內防水\n內防水\n內防水\n緩衝層\n緩衝層\n排水管導流\n滲水\n排水管導流\n滲水\n緩衝層\n\n代號：3801\n頁次：10－7"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20632,7 +20632,7 @@ window.MOEX_QUESTIONS = [
       "Picos 半預鑄樓板系統",
       "旋楞鋼管半預鑄樓板系統"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20666,7 +20666,7 @@ window.MOEX_QUESTIONS = [
       "12",
       "16"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20700,7 +20700,7 @@ window.MOEX_QUESTIONS = [
       "①②③⑥⑦",
       "①③⑤⑥⑦"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20717,7 +20717,7 @@ window.MOEX_QUESTIONS = [
       "室內應於所有樓板與牆板處設置伸縮縫，其於廁所、廚房、茶水間等經常處於潮濕之場所，其轉角\n均應設置伸縮縫，伸縮縫應以彈性密封材料做防水填縫處理",
       "打底之水泥砂漿粉刷前，若混凝土結構體上，已有預留龜裂誘發縫或伸縮縫時，水泥砂漿粉刷層亦\n應於其相對位置上預留伸縮縫，該伸縮縫應以彈性密封材料填充\n梁主筋\n梁箍筋\n5 cm\n柱主筋\n柱箍筋\n彎鉤錨定長度_？db\nRC構造柱梁配筋接合詳圖\n\n代號：3801\n頁次：10－9"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20734,7 +20734,7 @@ window.MOEX_QUESTIONS = [
       "普通玻璃磚牆僅作採光不能承受載重",
       "鋼筋混凝土牆壁的開口角隅部並不需要鋼筋補強"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20751,7 +20751,7 @@ window.MOEX_QUESTIONS = [
       "電氣防蝕",
       "使用防水漆"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20768,7 +20768,7 @@ window.MOEX_QUESTIONS = [
       "28.4",
       "25.4"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20785,7 +20785,7 @@ window.MOEX_QUESTIONS = [
       "螺栓接合",
       "螺絲接合"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20870,7 +20870,7 @@ window.MOEX_QUESTIONS = [
       "9",
       "15"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20887,7 +20887,7 @@ window.MOEX_QUESTIONS = [
       "15",
       "10"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20904,7 +20904,7 @@ window.MOEX_QUESTIONS = [
       "計算至建築物外牆之內緣並不含結構柱",
       "依當地地方政府之建造執照審查原則辦理"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20921,7 +20921,7 @@ window.MOEX_QUESTIONS = [
       "④①②③",
       "④③①②"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20955,7 +20955,7 @@ window.MOEX_QUESTIONS = [
       "使土地表面逕流增加，提高排水溝使用效率",
       "土壤含水可增加比熱，以減緩熱島效應，改善微氣候"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -20972,7 +20972,7 @@ window.MOEX_QUESTIONS = [
       "強調建築內外部與開放空間之整合性",
       "強調乾式施工與明管設計"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21006,7 +21006,7 @@ window.MOEX_QUESTIONS = [
       "施工範圍幾可達基地境界線",
       "適用於所有地盤，亦可作為地下本體結構物使用\n\n代號：3801\n頁次：10－10"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21023,7 +21023,7 @@ window.MOEX_QUESTIONS = [
       "鋼筋混凝土5 公分的樓地板就可達到1 小時以上防火時效",
       "室內消防栓設備屬於警報設備的一種"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21040,7 +21040,7 @@ window.MOEX_QUESTIONS = [
       "粉刷用袋裝水泥儲存放置時，應保持乾燥，且應遵守先進先用原則，以免水泥結塊變硬",
       "工地銲接用氧氣及乙炔鋼瓶，加以固定後可倒立，可二者一起存放"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21074,7 +21074,7 @@ window.MOEX_QUESTIONS = [
       "②③⑤",
       "②④⑤"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21125,7 +21125,7 @@ window.MOEX_QUESTIONS = [
       "不須傳統鷹架、模板、混凝土澆置等降低工地環境污染",
       "因需大量組裝，故施工人數比傳統工法多"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21142,7 +21142,7 @@ window.MOEX_QUESTIONS = [
       "傳統衛浴是需要多種技術人員配合，工期控制不易",
       "無論是整體衛浴或是傳統衛浴，下水管、糞管都必須要上下跨戶施作"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21193,7 +21193,7 @@ window.MOEX_QUESTIONS = [
       "由外側端鎖到中央端，由下端鎖到上端",
       "由中央端鎖到外側端，由下端鎖到上端"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21278,7 +21278,7 @@ window.MOEX_QUESTIONS = [
       "1/4",
       "1/5"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21295,7 +21295,7 @@ window.MOEX_QUESTIONS = [
       "手術室＞候診室＞辦公室",
       "辦公室＞候診室＞手術室"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21312,7 +21312,7 @@ window.MOEX_QUESTIONS = [
       "回音",
       "過度音染色"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21329,7 +21329,7 @@ window.MOEX_QUESTIONS = [
       "相同室容積下，教會音樂演奏的最佳餘響時間會比一般上課教室來得長",
       "T60 表示音能衰減歷時60 秒之意"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21346,7 +21346,7 @@ window.MOEX_QUESTIONS = [
       "1.70",
       "2.40\n\n代號：80140\n頁次：4－3"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21363,7 +21363,7 @@ window.MOEX_QUESTIONS = [
       "使用輕質材料，依質頻法則，面密度小，隔音值也高",
       "使用阻尼材料，利用橡膠、鉛板等附著在板構上，增加薄板構造之阻尼作用，減少共振"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21380,7 +21380,7 @@ window.MOEX_QUESTIONS = [
       "小學",
       "辦公室"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21397,7 +21397,7 @@ window.MOEX_QUESTIONS = [
       "蒸發作用",
       "誘導虹吸作用"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21431,7 +21431,7 @@ window.MOEX_QUESTIONS = [
       "雜排水為除大小便器及其類似用途之器具外，其他器具之排水，但雨水及特殊排水不包含在內",
       "污水指的是從大小便器及其他類似用途之器具所排出之水"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21448,7 +21448,7 @@ window.MOEX_QUESTIONS = [
       "管內壓力低或流速較小處",
       "水流經常瞬間開啟或關閉者"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21465,7 +21465,7 @@ window.MOEX_QUESTIONS = [
       "緊急照明設備",
       "緊急廣播設備"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21482,7 +21482,7 @@ window.MOEX_QUESTIONS = [
       "撒水頭",
       "送水口"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21516,7 +21516,7 @@ window.MOEX_QUESTIONS = [
       "在機場的挑高大廳使用地板輻射併用近樓地板面置換式（或做氣移換式）送風的冷房系統",
       "在一個小型餐廳使用箱型冷氣併用風管之系統"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21533,7 +21533,7 @@ window.MOEX_QUESTIONS = [
       "冷卻水管",
       "空氣過濾器"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21567,7 +21567,7 @@ window.MOEX_QUESTIONS = [
       "利用外氣冷房之方式",
       "變電室使用空調時應導入外氣\n\n代號：80140\n頁次：4－4"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21618,7 +21618,7 @@ window.MOEX_QUESTIONS = [
       "演色性指數",
       "功率因數"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21635,7 +21635,7 @@ window.MOEX_QUESTIONS = [
       "內線系統接地通常安裝於接戶開關及電度表之附近適當位置",
       "將設備與內線系統整合成共同接地會增加工程費用"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21669,7 +21669,7 @@ window.MOEX_QUESTIONS = [
       "考量台電與建築物戶間的責任區分與外線引入，電氣室須設置於地下最下層",
       "通道寬度與室內淨高應考量機器的搬運與日後的維修"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21686,7 +21686,7 @@ window.MOEX_QUESTIONS = [
       "臺北",
       "臺東"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21703,7 +21703,7 @@ window.MOEX_QUESTIONS = [
       "Low-Ｅ玻璃主要性能為隔絕日射之可見光成分",
       "遮陽板主要功能在於隔絕間接日射"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21720,7 +21720,7 @@ window.MOEX_QUESTIONS = [
       "全熱交換器系統",
       "外氣冷房系統"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21737,7 +21737,7 @@ window.MOEX_QUESTIONS = [
       "僅①③④",
       "①②③④"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21754,7 +21754,7 @@ window.MOEX_QUESTIONS = [
       "塊狀鋪面，鋪面間有較大之間隙可填入砂土，鋪面下採用透水性底層如礫石及砂土層",
       "透水性鋪面為考量透水成效，避免孔隙阻塞，鋪面應設於滲透係數低之黏土層"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21771,7 +21771,7 @@ window.MOEX_QUESTIONS = [
       "使用階段",
       "廢棄階段"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21805,7 +21805,7 @@ window.MOEX_QUESTIONS = [
       "桌面照度不得低於500 lux",
       "窗簾不阻擋氣窗，以利通風採光"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21941,7 +21941,7 @@ window.MOEX_QUESTIONS = [
       "1/8",
       "1/6"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21958,7 +21958,7 @@ window.MOEX_QUESTIONS = [
       "重建計畫",
       "建造執照申請書"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21975,7 +21975,7 @@ window.MOEX_QUESTIONS = [
       "X＝190，Y＝200",
       "X＝190，Y＝190"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -21992,7 +21992,7 @@ window.MOEX_QUESTIONS = [
       "送出基地可移出之容積，得移轉至不同直轄市、縣（市）之其他主要計畫地區",
       "接受基地位於整體開發地區、實施都市更新地區或面臨永久性空地者，其可移入容積，得酌予增加；\n但不得超過該接受基地基準容積之50%"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22009,7 +22009,7 @@ window.MOEX_QUESTIONS = [
       "非離島地區申請興建農舍之用地面積不得超過該農業用地面積10%",
       "農舍地下層每層興建面積應列入總樓地板面積計算，但依法設置之法定停車空間得免列入"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22026,7 +22026,7 @@ window.MOEX_QUESTIONS = [
       "建築物起造人、監造人",
       "建築物監造人、所有權人"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22060,7 +22060,7 @@ window.MOEX_QUESTIONS = [
       "改善建築職業環境",
       "增進市容觀瞻\n\n代號：1801\n頁次：8－3"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22094,7 +22094,7 @@ window.MOEX_QUESTIONS = [
       "使用執照",
       "拆除執照"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22111,7 +22111,7 @@ window.MOEX_QUESTIONS = [
       "建築法施行前，供公眾使用建築物未領有使用執照者之使用執照核發事宜",
       "建築爭議事件評審委員會之組織規定"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22128,7 +22128,7 @@ window.MOEX_QUESTIONS = [
       "建物權利證明文件",
       "申請書"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22162,7 +22162,7 @@ window.MOEX_QUESTIONS = [
       "1.5 小時",
       "2 小時"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22179,7 +22179,7 @@ window.MOEX_QUESTIONS = [
       "室內裝修業",
       "專業技師"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22196,7 +22196,7 @@ window.MOEX_QUESTIONS = [
       "建築業管理規則",
       "建築師法"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22213,7 +22213,7 @@ window.MOEX_QUESTIONS = [
       "如已依耐震能力評估檢查結果擬訂或變更都市更新事業計畫已報核並檢附證明文件，得免辦理耐震\n能力評估檢查申報",
       "如已檢附依法登記開業建築師、執業土木工程技師或結構工程技師出具之補強成果報告書，得免辦\n理耐震能力評估檢查申報"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22230,7 +22230,7 @@ window.MOEX_QUESTIONS = [
       "不論位於實施都市計畫地區、實施區域計畫地區或經內政部指定地區，要於實施建築管理之法定起\n始日前已建造完成者，即為建築法所稱之合法建築物",
       "不論是否位於實施都市計畫地區、實施區域計畫地區或經內政部指定地區，屬供公眾使用建築物或\n公有建築物者，均應實施建築管理"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22247,7 +22247,7 @@ window.MOEX_QUESTIONS = [
       "污水",
       "電信"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22281,7 +22281,7 @@ window.MOEX_QUESTIONS = [
       "污物處理",
       "煙囪"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22298,7 +22298,7 @@ window.MOEX_QUESTIONS = [
       "10 日",
       "14 日\n\n代號：1801\n頁次：8－4"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22315,7 +22315,7 @@ window.MOEX_QUESTIONS = [
       "由起造之政府機關視個案違法情形決定是否有建築師法相關懲戒規定之適用再移送懲戒",
       "由受理移送懲戒案之建築師懲戒委員會視個案違法情形討論後再決定是否適用"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22332,7 +22332,7 @@ window.MOEX_QUESTIONS = [
       "查核建築材料之規格及品質",
       "遵守建築法令所規定監造人應辦事項"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22349,7 +22349,7 @@ window.MOEX_QUESTIONS = [
       "可直接開向戶外或可通達戶外之有效防火避難構造開口，為圓型時直徑未達1 公尺者",
       "樓地板面積超過50 平方公尺之居室，其天花板或天花板下方80 公分範圍以內之有效通風面積未達\n樓地板面積3%者"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22366,7 +22366,7 @@ window.MOEX_QUESTIONS = [
       "受廢止開業證書之懲戒處分",
       "受監護或輔助宣告，尚未撤銷"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22383,7 +22383,7 @@ window.MOEX_QUESTIONS = [
       "建築師公會於直轄市、縣（市）組設之，並設全國建築師公會於中央政府所在地。但報經中央主管\n機關核准者，得設於其他地區",
       "建築師公會設理事、監事，由會員大會選舉之；理事、監事之任期為3 年，連選得連任一次"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22400,7 +22400,7 @@ window.MOEX_QUESTIONS = [
       "挑空樓層高度不得超過6 公尺，地面層未設計挑空者高度最高為3.6 公尺",
       "挑空設計經當地建造執照預審小組審查同意者，得依其審定結果辦理"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22417,7 +22417,7 @@ window.MOEX_QUESTIONS = [
       "12",
       "15"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22485,7 +22485,7 @@ window.MOEX_QUESTIONS = [
       "直通樓梯之構造應具有半小時以上防火時效",
       "供集合住宅使用，且該樓層之樓地板面積超過240 平方公尺者，應自該層設置二座以上之直通樓梯\n達避難層或地面"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22502,7 +22502,7 @@ window.MOEX_QUESTIONS = [
       "室內公共通路走廊",
       "屋頂避難平台出入口"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22519,7 +22519,7 @@ window.MOEX_QUESTIONS = [
       "防火捲門與防火門兩者構造不同，不得作為防火門使用",
       "防火門窗周邊15 公分範圍內之牆壁應以不燃材料建造"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22587,7 +22587,7 @@ window.MOEX_QUESTIONS = [
       "5、16",
       "6、19"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22604,7 +22604,7 @@ window.MOEX_QUESTIONS = [
       "作業廠房樓地板面積1500 平方公尺以上者，應設一處裝卸位；面積超過1500 平方公尺部分，每增\n加4000 平方公尺，應增設一處",
       "工廠類建築物設有二座以上直通樓梯者，其樓梯口相互間之直線距離不得小於建築物區劃範圍對角\n線長度之1/3"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22638,7 +22638,7 @@ window.MOEX_QUESTIONS = [
       "自排煙室進入特別安全梯之出入口",
       "室內進入排煙室之出入口\n\n代號：1801\n頁次：8－6"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22655,7 +22655,7 @@ window.MOEX_QUESTIONS = [
       "防災中心應以具有2 小時以上防火時效之牆壁、防火門窗等防火設備及該層防火構造之樓地板予以\n區劃分隔",
       "室內牆面及天花板（包括底材），以耐燃一級材料為限"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22689,7 +22689,7 @@ window.MOEX_QUESTIONS = [
       "供防空避難設備使用之樓層地板面積達到200 平方公尺者，以兼作停車空間為限",
       "法定防空避難設備得免計入容積樓地板面積，中央主管建築機關未指定地區而自行增設者亦得免計"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22723,7 +22723,7 @@ window.MOEX_QUESTIONS = [
       "15",
       "20"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22740,7 +22740,7 @@ window.MOEX_QUESTIONS = [
       "經內政部指示為配合都市計畫地區實際發展需要應即辦理通盤檢討者",
       "都市計畫發布實施後滿一年，為配合人民申請變更都市計畫或建議"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22757,7 +22757,7 @@ window.MOEX_QUESTIONS = [
       "公共設施用地不得同時作立體及平面多目標使用",
       "相鄰公共設施用地以多目標方式開發者，得合併規劃興建"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22774,7 +22774,7 @@ window.MOEX_QUESTIONS = [
       "3/4",
       "2/3"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22791,7 +22791,7 @@ window.MOEX_QUESTIONS = [
       "部門空間發展計畫",
       "氣候變遷調適計畫\n\n代號：1801\n頁次：8－7"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22825,7 +22825,7 @@ window.MOEX_QUESTIONS = [
       "權利變換範圍內土地改良物未拆除或遷移完竣前，不得辦理更新後土地及建築物銷售",
       "權利變換後，原土地所有權人應分配之土地及建築物，自分配結果確定之日起，視為新取得"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22842,7 +22842,7 @@ window.MOEX_QUESTIONS = [
       "不願參加權利變換而領取現金補償者，減徵土地增值稅60%",
       "實施權利變換應分配之土地未達最小分配面積單元，而改領現金者，減徵土地增值稅40%"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22859,7 +22859,7 @@ window.MOEX_QUESTIONS = [
       "銅級：基準容積百分之三",
       "合格級：基準容積百分之一"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22876,7 +22876,7 @@ window.MOEX_QUESTIONS = [
       "全國國土計畫之部門空間發展策略應包括住宅、產業、運輸、重要公共設施及其他相關部門",
       "全國國土計畫之成長管理策略應載明「直轄市、縣（市）宜維護農地面積及區位」"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22893,7 +22893,7 @@ window.MOEX_QUESTIONS = [
       "擬定區域計畫時，其計畫年期以不超過20 年為原則",
       "區域計畫之環境敏感地區，包括天然災害、生態、文化景觀、資源生產及其他環境敏感等地區"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22910,7 +22910,7 @@ window.MOEX_QUESTIONS = [
       "森林區、山坡地保育區及特定專用區之土地，在未編定使用地之類別前，適用林業用地之管制",
       "依各使用地容許使用項目、許可使用細目附表，探採礦僅可於林業用地申請許可使用"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22944,7 +22944,7 @@ window.MOEX_QUESTIONS = [
       "依國土計畫法規定辦理補償所需支出",
       "國土復育促進地區復育計畫之執行所需支出"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -22961,7 +22961,7 @@ window.MOEX_QUESTIONS = [
       "進入國家公園之一般管制區者，應經國家公園管理處之許可",
       "國家自然公園也是依國家公園法劃設，其變更、管理及違規行為處罰，適用國家公園之規定\n\n代號：1801\n頁次：8－8"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23012,7 +23012,7 @@ window.MOEX_QUESTIONS = [
       "粉刷工程",
       "庭園、景觀工程"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23029,7 +23029,7 @@ window.MOEX_QUESTIONS = [
       "出資比率、材料等級、權利義務",
       "工作範圍、權利義務、材料等級"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23063,7 +23063,7 @@ window.MOEX_QUESTIONS = [
       "建築物地下室開挖10 公尺以上之工程",
       "橋樑柱跨距20 公尺以上之工程"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23097,7 +23097,7 @@ window.MOEX_QUESTIONS = [
       "監造服務期間，現場人員應在工地執行職務",
       "機關自辦監造者，無須指派監造現場人員"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23114,7 +23114,7 @@ window.MOEX_QUESTIONS = [
       "依前二項規定申請後仍有容積需求者，得以捐贈產業空間或繳納回饋金方式申請增加容積",
       "合併計算前三項增加之容積，其總容積率不得超過400%"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23148,7 +23148,7 @@ window.MOEX_QUESTIONS = [
       "在非都市土地乙種建築用地達500 平方公尺以上",
       "在非都市土地丙種建築用地達500 平方公尺以上"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23165,7 +23165,7 @@ window.MOEX_QUESTIONS = [
       "五",
       "四"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23267,7 +23267,7 @@ window.MOEX_QUESTIONS = [
       "3",
       "4\n鉸接\n\n代號：80120\n頁次：8－4"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23301,7 +23301,7 @@ window.MOEX_QUESTIONS = [
       "A 支承垂直反力為P/2",
       "A 支承力矩為PL"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23335,7 +23335,7 @@ window.MOEX_QUESTIONS = [
       "2.828",
       "4"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23352,7 +23352,7 @@ window.MOEX_QUESTIONS = [
       "稍微低於平衡鋼筋量配筋",
       "與平衡鋼筋量配筋無關"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23386,7 +23386,7 @@ window.MOEX_QUESTIONS = [
       "增加箍筋（含繫筋）數量",
       "降低混凝土強度"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23403,7 +23403,7 @@ window.MOEX_QUESTIONS = [
       "柱使用H 型鋼斷面時，在勁度較弱的方向，通常會以斜撐提供構架剛度",
       "為防止H 型鋼柱翼板的局部挫屈，可減少翼板厚而加大翼板寬度"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23437,7 +23437,7 @@ window.MOEX_QUESTIONS = [
       "鋼骨結構之阻尼較磚結構高",
       "磚造建築物有最大樓層數之限制，鋼骨建築物則無\nh\n\n代號：80120\n頁次：8－6"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23454,7 +23454,7 @@ window.MOEX_QUESTIONS = [
       "A 支承反力作用線通過C",
       "B 支承反力作用線不通過C"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23471,7 +23471,7 @@ window.MOEX_QUESTIONS = [
       "垂直向集中載重",
       "扭矩使繞其縱軸扭轉"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23488,7 +23488,7 @@ window.MOEX_QUESTIONS = [
       "6",
       "8"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23505,7 +23505,7 @@ window.MOEX_QUESTIONS = [
       "雙曲拋物面屋頂",
       "桁架系統"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23522,7 +23522,7 @@ window.MOEX_QUESTIONS = [
       "木材",
       "混凝土"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23539,7 +23539,7 @@ window.MOEX_QUESTIONS = [
       "0.5＜v＜1.0",
       "0.3＜v＜0.8"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23573,7 +23573,7 @@ window.MOEX_QUESTIONS = [
       "弱層為該層強度與該層設計層剪力的比值低於其上層比值80%者",
       "弱層為該層強度與該層設計層剪力的比值低於其上層比值60%者\n\n代號：80120\n頁次：8－7"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23624,7 +23624,7 @@ window.MOEX_QUESTIONS = [
       "(2/3)P",
       "P"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23641,7 +23641,7 @@ window.MOEX_QUESTIONS = [
       "C",
       "D\nP\nP\nA\nB\n5 m\n5 m\n5 m\n5 m\n\n代號：80120\n頁次：8－8"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23658,7 +23658,7 @@ window.MOEX_QUESTIONS = [
       "3 倍",
       "4 倍"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23675,7 +23675,7 @@ window.MOEX_QUESTIONS = [
       "0.7",
       "0.6"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23692,7 +23692,7 @@ window.MOEX_QUESTIONS = [
       "軸向強度由圍束材料之標稱降伏應力所決定",
       "圍束單元型式約可分為兩大類，其中最常見即為以砂漿或混凝土填充鋼材而成，另一類則\n為全鋼型式的圍束構材"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23709,7 +23709,7 @@ window.MOEX_QUESTIONS = [
       "半B 磚牆的面外受震抵抗行為較差",
       "磚牆的受震倒塌會造成生命安全的危害"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23862,7 +23862,7 @@ window.MOEX_QUESTIONS = [
       "耐震",
       "隔熱"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23879,7 +23879,7 @@ window.MOEX_QUESTIONS = [
       "0.08 mg/m3",
       "0.10 mg/m3"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23896,7 +23896,7 @@ window.MOEX_QUESTIONS = [
       "早強",
       "改良"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23913,7 +23913,7 @@ window.MOEX_QUESTIONS = [
       "制震構造是指在建築物主要構造體上裝置可吸收震動能量的設備，以減低建築物因地震所產生的\n震動或因強風所產生的建築物搖晃的一種構造",
       "免震構造是將水平方向自由度高的構材導入於剛性較高的建築物（大多都放置在基礎部分）的一\n種構造"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23930,7 +23930,7 @@ window.MOEX_QUESTIONS = [
       "百力達樁",
       "法蘭基樁"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23947,7 +23947,7 @@ window.MOEX_QUESTIONS = [
       "連續壁\nH",
       "型鋼\n①\n②\n③\n\n代號：3801\n頁次：9－3"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23981,7 +23981,7 @@ window.MOEX_QUESTIONS = [
       "斜口對接",
       "追掛對接"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -23998,7 +23998,7 @@ window.MOEX_QUESTIONS = [
       "相較於RC 構造，SRC 構造因多了鋼骨，其韌性略遜於RC 構造\nSRC",
       "構造因構件勁度大，受外力作用時所產生的變形及位移較小"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24015,7 +24015,7 @@ window.MOEX_QUESTIONS = [
       "增加聲音傳導至隔壁的可能性",
       "地震發生時增加牆面倒塌的可能性"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24032,7 +24032,7 @@ window.MOEX_QUESTIONS = [
       "施工困難失敗率高",
       "容易維護檢修"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24049,7 +24049,7 @@ window.MOEX_QUESTIONS = [
       "包覆型鋼骨鋼筋混凝土構材中之鋼骨及鋼筋均應有適當之混凝土保護層，且構材之主筋與鋼骨之\n間應保持適當之間距，以利混凝土之澆置及發揮鋼筋之握裹力",
       "鋼骨鋼筋混凝土構材應注意開孔對構材強度之影響，並應視需要予以適當之補強"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24066,7 +24066,7 @@ window.MOEX_QUESTIONS = [
       "在柱梁接頭的部位主筋應直接穿通過，但不得貫穿翼板",
       "如需在鋼骨斷面上穿孔、補強應先於工廠內施作完成\n\n代號：3801\n頁次：9－4"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24083,7 +24083,7 @@ window.MOEX_QUESTIONS = [
       "格板系統",
       "窗間牆系統"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24100,7 +24100,7 @@ window.MOEX_QUESTIONS = [
       "硫化聚合系二液型填縫劑施打的環境溫度越高，其工作時效越長",
       "矽質填縫劑對於鋁具有良好的接合性，但對鋼鐵的黏著效果較差"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24134,7 +24134,7 @@ window.MOEX_QUESTIONS = [
       "屋頂防水施工不能只鋪設平面，女兒牆、壓頂等也是重要的部分",
       "屋頂落水頭為防止異物阻塞故多採用立體式落水頭"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24151,7 +24151,7 @@ window.MOEX_QUESTIONS = [
       "構件②為貓道支撐架，方便維修屋架構材",
       "構件③為屋架剪刀撐，可抵抗地震水平作用力"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24168,7 +24168,7 @@ window.MOEX_QUESTIONS = [
       "拉伸試驗",
       "壓縮試驗"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24236,7 +24236,7 @@ window.MOEX_QUESTIONS = [
       "水平方向因橡膠特有的柔軟特性而可得到最大的變形",
       "積層橡膠常被用於下述用途：橋梁支撐、防振軸承、免震支承（大樓免震）"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24304,7 +24304,7 @@ window.MOEX_QUESTIONS = [
       "失光：呈現塗膜不光滑，原因之一為稀釋劑的選用不當",
       "砂皮：塗面有粗粒、不平滑，原因之一為木面有油漬或水分"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24321,7 +24321,7 @@ window.MOEX_QUESTIONS = [
       "由營造廠現場自行決定是否施作伸縮管",
       "留待將來有沉陷或變位時再處理"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24338,7 +24338,7 @@ window.MOEX_QUESTIONS = [
       "戶外阻擋及室內導引兩者兼施",
       "使用雙層牆面"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24372,7 +24372,7 @@ window.MOEX_QUESTIONS = [
       "隆起桿",
       "水壓計"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24389,7 +24389,7 @@ window.MOEX_QUESTIONS = [
       "水平支撐工法",
       "自立式垂直擋土工法"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24491,7 +24491,7 @@ window.MOEX_QUESTIONS = [
       "框架",
       "基礎"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24525,7 +24525,7 @@ window.MOEX_QUESTIONS = [
       "運輸存放",
       "吊裝組立"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24542,7 +24542,7 @@ window.MOEX_QUESTIONS = [
       "屋頂欄杆牆因不受承載力，故可單獨使用磚砌造",
       "鋼筋混凝土外牆開口部因有窗框支承，開口部不須再行任何補強"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24610,7 +24610,7 @@ window.MOEX_QUESTIONS = [
       "綠建材之限制性物質評定，是針對有害物質含量之限制規定",
       "綠建材之功能若國內無可符合之國家標準，得另提出適合之國際標準進行評定"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24644,7 +24644,7 @@ window.MOEX_QUESTIONS = [
       "強制式脈狀注入式可適用於黏性土及砂質土",
       "高壓噴射注入式不適用於砂質土"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24661,7 +24661,7 @@ window.MOEX_QUESTIONS = [
       "僅丁",
       "乙丙\n電梯機房\n電梯機房\n\n代號：3801\n頁次：9－9"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24797,7 +24797,7 @@ window.MOEX_QUESTIONS = [
       "監造人認為不合規定或承造人擅自施工，致必須修改、拆除、重建，經主管建築機關認定者，由\n承造人負賠償責任",
       "建築物非經領得使用執照，不准接水、接電及使用"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24814,7 +24814,7 @@ window.MOEX_QUESTIONS = [
       "工程設計",
       "氣候條件"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24848,7 +24848,7 @@ window.MOEX_QUESTIONS = [
       "直接成本愈低，間接成本愈低",
       "直接成本愈低，間接成本愈高"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24950,7 +24950,7 @@ window.MOEX_QUESTIONS = [
       "晴天時，若比較建築物東、西、南、北四向開口全日的採光情形，則以北向的變化最少，最為\n穩定",
       "選擇東西向的採光較南北向為佳"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24967,7 +24967,7 @@ window.MOEX_QUESTIONS = [
       "自然光燈管的色溫度約為2500 K",
       "以演色性指數（color rendering index, Ra）而言，鹵素燈泡比白色日光燈好"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -24984,7 +24984,7 @@ window.MOEX_QUESTIONS = [
       "照度的單位為lm / m2",
       "輝度的單位為lx / m2"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25001,7 +25001,7 @@ window.MOEX_QUESTIONS = [
       "8 dB",
       "代號：80140\n頁次：4－3"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25018,7 +25018,7 @@ window.MOEX_QUESTIONS = [
       "室內餘響時間與室內容積成正比",
       "室內餘響時間之量測時，背景噪音越低，量測越準確"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25035,7 +25035,7 @@ window.MOEX_QUESTIONS = [
       "相同的音樂廳，滿席時的餘響時間較空席時長",
       "室內空間的室容積愈大時，餘響時間愈長"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25052,7 +25052,7 @@ window.MOEX_QUESTIONS = [
       "使建築物遠離噪音源之所以有助於噪音防制，是因為聲音有隨距離衰減的特性",
       "矩形屋頂較圓弧形屋頂容易產生音焦點"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25069,7 +25069,7 @@ window.MOEX_QUESTIONS = [
       "感應式水龍頭每分鐘流量介於0.5 公升至9 公升之間",
       "蓮蓬頭每分鐘流量介於5 公升至10 公升之間"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25086,7 +25086,7 @@ window.MOEX_QUESTIONS = [
       "排水管之立管或橫管不得在排水之下流方向縮小其管徑",
       "建築物排水管之橫支管及橫主管管徑小於75 公釐時，其洩水坡度不得小於1/50"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25103,7 +25103,7 @@ window.MOEX_QUESTIONS = [
       "由於水急排出，或高層建築物最頂層之衛生器具，因強風導致封水交互震盪而破封之現象稱為\n背壓作用",
       "當排水時水流至立管，因管中原有空氣被吸出而導致破封現象稱為自行虹吸作用"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25120,7 +25120,7 @@ window.MOEX_QUESTIONS = [
       "自動灑水設備屬於初期滅火設備",
       "乾粉滅火器或設備的應用範圍通常可包括丙類（電氣）火災"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25137,7 +25137,7 @@ window.MOEX_QUESTIONS = [
       "防煙垂壁可減緩煙的擴散速度",
       "建築物內的安全避難空間可控制在負壓狀態以避免煙的侵入"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25154,7 +25154,7 @@ window.MOEX_QUESTIONS = [
       "除避難層之外，該樓層若有寢室，則樓梯需設置住宅用火災警報器",
       "已設置火警自動警報裝置之場所，可免設住宅用火災警報器"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25171,7 +25171,7 @@ window.MOEX_QUESTIONS = [
       "冰水管係指傳輸於冰水主機與冷卻水塔間之管線",
       "全熱交換器可利用排風將引入之新鮮空氣進行預冷及減濕以降低整體冷房負荷\n\n代號：80140\n頁次：4－4"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25188,7 +25188,7 @@ window.MOEX_QUESTIONS = [
       "冷房度時",
       "冷房效果"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25205,7 +25205,7 @@ window.MOEX_QUESTIONS = [
       "擴散型",
       "線型"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25239,7 +25239,7 @@ window.MOEX_QUESTIONS = [
       "電梯的數量考慮電梯平均出發間隔",
       "電梯的數量考慮電梯一周運轉時間"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25256,7 +25256,7 @@ window.MOEX_QUESTIONS = [
       "電流",
       "電阻"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25273,7 +25273,7 @@ window.MOEX_QUESTIONS = [
       "太陽光電發電設備輸出給台電公司的電能，是以直流電為主",
       "平屋頂裝設1 瓩的太陽光電發電設備約需10 m2 的設置面積"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25290,7 +25290,7 @@ window.MOEX_QUESTIONS = [
       "空調、照明、動力、插座設備等設備具有運轉狀態之監視功能",
       "可依用電需量，即時進行用電設備卸載"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25341,7 +25341,7 @@ window.MOEX_QUESTIONS = [
       "浴室扶手",
       "單邊式課桌椅"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25358,7 +25358,7 @@ window.MOEX_QUESTIONS = [
       "可見光穿透率",
       "遮蔽係數"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25375,7 +25375,7 @@ window.MOEX_QUESTIONS = [
       "設備使用年限愈久，年平均維護費越高",
       "設備的生命週期有時代劣化"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25494,7 +25494,7 @@ window.MOEX_QUESTIONS = [
       "法定停車空間之變更，免申請變更使用執照",
       "非供公眾使用建築物變更為供公眾使用，或原供公眾使用建築物變更為他種公眾使用時，直轄市、\n縣（市）（局）主管建築機關應檢查其構造、設備及室內裝修"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25511,7 +25511,7 @@ window.MOEX_QUESTIONS = [
       "經內政部指定地區",
       "實施區域計畫地區"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25545,7 +25545,7 @@ window.MOEX_QUESTIONS = [
       "分間牆",
       "瞭望臺"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25562,7 +25562,7 @@ window.MOEX_QUESTIONS = [
       "領有土木工程技師證書者",
       "領有建築工程管理乙級以上技術士證，並經參加內政部主辦之建築物室內設計訓練達一定時數者"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25579,7 +25579,7 @@ window.MOEX_QUESTIONS = [
       "30 日",
       "60 日"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25596,7 +25596,7 @@ window.MOEX_QUESTIONS = [
       "人民選用政府制定之標準圖樣申請建築時，得免由建築師設計及簽章",
       "原有農舍之修建、改建或增建面積在45 平方公尺以下之平房，得免申請建築執照"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25613,7 +25613,7 @@ window.MOEX_QUESTIONS = [
       "成立室內裝修公司",
       "建築材料商"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25630,7 +25630,7 @@ window.MOEX_QUESTIONS = [
       "3 年",
       "4 年\n\n代號：1801\n頁次：8－3"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25647,7 +25647,7 @@ window.MOEX_QUESTIONS = [
       "指導承包商施工方法",
       "監督營造業依照設計之圖說施工"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25664,7 +25664,7 @@ window.MOEX_QUESTIONS = [
       "基樁界線",
       "建築線"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25681,7 +25681,7 @@ window.MOEX_QUESTIONS = [
       "50",
       "60"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25715,7 +25715,7 @@ window.MOEX_QUESTIONS = [
       "3",
       "2"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25732,7 +25732,7 @@ window.MOEX_QUESTIONS = [
       "40",
       "30"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25749,7 +25749,7 @@ window.MOEX_QUESTIONS = [
       "老人住宅之居住單元超過10 戶或受服務之老人超過15 人者，應至少提供一處交誼室，其中一處\n交誼室之樓地板面積不得小於40 平方公尺，並應附設廁所",
       "老人住宅之臥室，居住人數不得超過2 人，其樓地板面積應為9 平方公尺以上"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25766,7 +25766,7 @@ window.MOEX_QUESTIONS = [
       "臨接建築線或鄰地境界線者，應自建築線或鄰地界線退後3 公尺以上建築",
       "教室之方位應適當，並應有適當之人工照明及遮陽設備"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25800,7 +25800,7 @@ window.MOEX_QUESTIONS = [
       "3",
       "2"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25817,7 +25817,7 @@ window.MOEX_QUESTIONS = [
       "長度大於20 公尺為5 公尺",
       "基地內以私設通路為進出道路之建築物總樓地板面積合計在1000 平方公尺以上者，通路寬度為6\n公尺"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25834,7 +25834,7 @@ window.MOEX_QUESTIONS = [
       "總樓地板面積之計算，每層陽臺、雨遮超過2 公尺者，應自其外緣扣除2 公尺作為中心線，計算\n該層樓地板面積",
       "二分之一以上透空之遮陽板，其深度在2 公尺以下者，得不計入容積總樓地板面積\n\n代號：1801\n頁次：8－4"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25851,7 +25851,7 @@ window.MOEX_QUESTIONS = [
       "20",
       "30"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25868,7 +25868,7 @@ window.MOEX_QUESTIONS = [
       "4 個",
       "5 個"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25902,7 +25902,7 @@ window.MOEX_QUESTIONS = [
       "決標",
       "履約"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25919,7 +25919,7 @@ window.MOEX_QUESTIONS = [
       "1000",
       "2000"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -25987,7 +25987,7 @@ window.MOEX_QUESTIONS = [
       "作業廠房之樓層淨高最小為2.3 公尺",
       "設有二座以上直通樓梯者，其樓梯口相互間之直線距離不得小於建築物區劃範圍對角線長度之半"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26004,7 +26004,7 @@ window.MOEX_QUESTIONS = [
       "社教場所",
       "社會福利設施"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26072,7 +26072,7 @@ window.MOEX_QUESTIONS = [
       "地上權人",
       "耕地三七五租約承租人"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26140,7 +26140,7 @@ window.MOEX_QUESTIONS = [
       "直轄市、縣（市）主管機關受理使用許可之申請後，除屬須送中央主管機關審議之填海造地案件\n者外，經審查符合受理要件者，應於審議前將其書圖文件於申請使用案件所在地鄉（鎮、市、區）\n公所公開展覽30 日及舉行公聽會",
       "前項公開展覽期間內，人民或團體得向主管機關提出意見。主管機關應於公開展覽期滿之日起15\n日內彙整人民或團體意見報請審議"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26191,7 +26191,7 @@ window.MOEX_QUESTIONS = [
       "X=1/2；Y=1/3",
       "X=1/3；Y=2/3"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26208,7 +26208,7 @@ window.MOEX_QUESTIONS = [
       "各國土功能分區及其分類申請使用許可，從事一定規模以上或性質特殊之土地使用，於經申請許\n可後，得變更原國土功能分區及其分類之使用原則",
       "國土功能分區及其分類之使用，得透過使用許可之申請，從事一定規模以上或性質特殊之土地使\n用，並於經許可後辦理功能分區及其分類之變更"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26259,7 +26259,7 @@ window.MOEX_QUESTIONS = [
       "非都市土地之丙種建築用地、戶外遊憩設施用地得容許作露營野餐設施，故可設置露營區",
       "非都市土地之丙種建築用地、林業用地得容許作露營野餐設施，故可設置露營區"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26293,7 +26293,7 @@ window.MOEX_QUESTIONS = [
       "古蹟保存用地由文化部負責訂定",
       "農牧及林業用地由行政院農業委員會負責訂定"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26327,7 +26327,7 @@ window.MOEX_QUESTIONS = [
       "欲從事風力發電設施之設置者，應檢附申請書，向中央主管機關申請核准，經核准區位許可者，\n應按個案情形核定許可期間，並核發區位許可證明文件",
       "欲從事風力發電設施之設置者，應檢附申請書，向直轄市、縣（市）目的事業主管機關申請，並\n核轉中央主管機關核准，並經核發區位許可證明文件後，始得設置\n\n代號：1801\n頁次：8－7"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26378,7 +26378,7 @@ window.MOEX_QUESTIONS = [
       "專任工程人員",
       "工程領班"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26412,7 +26412,7 @@ window.MOEX_QUESTIONS = [
       "都市計畫法",
       "區域計畫法"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26429,7 +26429,7 @@ window.MOEX_QUESTIONS = [
       "督察按圖施工、解決施工技術問題",
       "工地遇緊急異常狀況之通報"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26463,7 +26463,7 @@ window.MOEX_QUESTIONS = [
       "巨額採購",
       "小額採購"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26480,7 +26480,7 @@ window.MOEX_QUESTIONS = [
       "1/3",
       "1/2"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26497,7 +26497,7 @@ window.MOEX_QUESTIONS = [
       "7",
       "4"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26565,7 +26565,7 @@ window.MOEX_QUESTIONS = [
       "客房總數量651 間時，無障礙客房數量不得少於6 間",
       "客房總數量751 間時，無障礙客房數量不得少於8 間\n\n代號：1801\n頁次：8－8"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26582,7 +26582,7 @@ window.MOEX_QUESTIONS = [
       "昇降機設有點字之呼叫鈕前方30 公分處之地板，應作長度60 公分、寬度30 公分之不同材質處理，\n並不得妨礙輪椅使用者行進",
       "昇降機到達梯廳時，門開啟至關閉之時間不應多於5 秒鐘"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26599,7 +26599,7 @@ window.MOEX_QUESTIONS = [
       "90",
       "100"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26616,7 +26616,7 @@ window.MOEX_QUESTIONS = [
       "135",
       "150"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26650,7 +26650,7 @@ window.MOEX_QUESTIONS = [
       "住宅基本居住水準之一為居住面積達家戶人口平均每人最小居住樓地板面積之和",
       "住宅基本居住水準之一具備住宅重要設施設備項目及數量，係指大便器、洗面盆及浴缸或淋浴等\n衛生設備及其數量"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26684,7 +26684,7 @@ window.MOEX_QUESTIONS = [
       "經監辦單位核定",
       "經監造單位審查"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26718,7 +26718,7 @@ window.MOEX_QUESTIONS = [
       "工程圖樣：包括農舍平面圖、立面圖、剖面圖，其比例尺不小於200 分之1",
       "申請興建農舍之農業用地配置圖，其比例尺不小於1200 分之1"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26820,7 +26820,7 @@ window.MOEX_QUESTIONS = [
       "溫度變化時，靜不定結構的形狀會改變，其桿件內力也會改變",
       "溫度變化時，靜不定結構桿件會有應變及應力的改變"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26837,7 +26837,7 @@ window.MOEX_QUESTIONS = [
       "梁端彎矩的絕對值",
       "梁中點彎矩的絕對值"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26854,7 +26854,7 @@ window.MOEX_QUESTIONS = [
       "使內部柱子能均勻承擔垂直載重",
       "利用外伸穩定架與外圈桁架來提供設備層的局部較大載重"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26871,7 +26871,7 @@ window.MOEX_QUESTIONS = [
       "底部支點若無法抵抗水平推力，則其行為近似鉸接點",
       "雙鉸拱比三鉸拱之靜不定小"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26888,7 +26888,7 @@ window.MOEX_QUESTIONS = [
       "C",
       "D\nP\n\n代號：80120\n頁次：8－5"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26905,7 +26905,7 @@ window.MOEX_QUESTIONS = [
       "丁>甲>丙",
       "甲>丙>乙"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26922,7 +26922,7 @@ window.MOEX_QUESTIONS = [
       "鋼骨構造或加強磚構造",
       "鋼筋混凝土構造或鋼骨構造"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26956,7 +26956,7 @@ window.MOEX_QUESTIONS = [
       "④>①>②>③",
       "④>③>①>②"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26973,7 +26973,7 @@ window.MOEX_QUESTIONS = [
       "扭矩",
       "軸力"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -26990,7 +26990,7 @@ window.MOEX_QUESTIONS = [
       "混凝土於水中養護的強度比起空氣中養護者大",
       "混凝土的坍度與所使用的單位水量有關"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27007,7 +27007,7 @@ window.MOEX_QUESTIONS = [
       "危老條例適用對象不含主管機關指定之具有歷史、文化、藝術紀念價值者",
       "危老條例內容包含容積獎勵與放寬建蔽率及高度管制等辦法"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27024,7 +27024,7 @@ window.MOEX_QUESTIONS = [
       "280",
       "350"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27041,7 +27041,7 @@ window.MOEX_QUESTIONS = [
       "混凝土構造於火災時伴隨著水分的膨脹，有時將產生爆裂",
       "新拌混凝土之坍度，會隨空氣含量之增加而變大\n\n代號：80120\n頁次：8－6"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27058,7 +27058,7 @@ window.MOEX_QUESTIONS = [
       "兩鉸拱（two-hinge arch）系統",
       "三鉸拱（three-hinge arch）系統"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27075,7 +27075,7 @@ window.MOEX_QUESTIONS = [
       "地震時梁端部所受之應力較大，因此於梁上設置貫穿孔時，通常設於梁的中央區",
       "剪力牆週邊的柱及梁有圍束剪力牆的效果，因此於剪力牆週邊設置柱及梁可增加剪力牆之\n韌性"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27109,7 +27109,7 @@ window.MOEX_QUESTIONS = [
       "鋼料應選擇SM 材質且降伏強度（Fy）應高於抗拉強度（Fu）的80%",
       "將鄰接鋼柱之鋼梁本體翼板予以削減或鑽孔洞"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27143,7 +27143,7 @@ window.MOEX_QUESTIONS = [
       "450 kgf",
       "600 kgf\n\n代號：80120\n頁次：8－7"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27160,7 +27160,7 @@ window.MOEX_QUESTIONS = [
       "在梁構件可能發生塑鉸位置，壓力鋼筋量不得大於拉力鋼筋量之1/2",
       "梁端部之彎矩強度應為設計剪力強度之6/5 倍"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27194,7 +27194,7 @@ window.MOEX_QUESTIONS = [
       "2.731×107 mm4",
       "1.344×107 mm4"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27228,7 +27228,7 @@ window.MOEX_QUESTIONS = [
       "剪應力（shear stress）",
       "翹曲應力（warping stress）\n\n代號：80120\n頁次：8－8"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27245,7 +27245,7 @@ window.MOEX_QUESTIONS = [
       "單向折板沿折線方向之結構特性類似深梁",
       "相較於相同材料之平板，折板係透過彈性模數之增加來提高抗彎能力"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27279,7 +27279,7 @@ window.MOEX_QUESTIONS = [
       "主筋應置於頂部，兩支承端之箍筋間距應較中央部密集",
       "主筋應置於頂部，中央部之箍筋間距應較兩支承端密集"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27296,7 +27296,7 @@ window.MOEX_QUESTIONS = [
       "比較單樁與群樁之沉陷量時，若每一樁頭的載重皆相同，一般而言，群樁的沉陷量會比單\n樁大",
       "當基樁週邊地層沉陷，可能使樁表面受到負摩擦力，而考慮地震力、風力、衝擊力等短期\n載重情況時，可不計負摩擦力的影響"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27330,7 +27330,7 @@ window.MOEX_QUESTIONS = [
       "為了減少鋼筋混凝土造樓板所產生之長期變形，增加混凝土強度會比加厚樓板有效",
       "鋼筋混凝土梁於受壓側增加鋼筋量，有減少潛變變形量之效果"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27483,7 +27483,7 @@ window.MOEX_QUESTIONS = [
       "D13，12.7 mm",
       "D16，12.7 mm \nDD16，15.9 mm"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27500,7 +27500,7 @@ window.MOEX_QUESTIONS = [
       "開口的形狀若為長方形時容易造成應力集中及容易使梁產生龜裂的現象，因此開孔應儘可能越圓越佳",
       "補強筋以在孔的周圍設置斜向補強筋最為有效"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27517,7 +27517,7 @@ window.MOEX_QUESTIONS = [
       "雙層玻璃的缺點為無法清理因玻璃內外溫濕差而引起的結露現象",
       "鐵絲網玻璃中嵌鐵絲的性質形同於鋼筋混凝土材料中鋼筋的效果"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27534,7 +27534,7 @@ window.MOEX_QUESTIONS = [
       "Low-E 玻璃用於建築室內裝修時，亦屬於低逸散健康綠建材",
       "Low-E 玻璃屬於高技術產品，價格比一般玻璃高很多"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27551,7 +27551,7 @@ window.MOEX_QUESTIONS = [
       "填縫劑",
       "油性粉刷塗料"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27602,7 +27602,7 @@ window.MOEX_QUESTIONS = [
       "GL±40",
       "GL±100"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27653,7 +27653,7 @@ window.MOEX_QUESTIONS = [
       "受壓構材之主筋間淨距不得小於1.5 db，或粗粒料標稱最大粒徑之1.33 倍，亦不得小於4 cm",
       "除混凝土格柵版外，牆及版之主筋間距不得大於牆厚或版厚之3 倍，亦不得超過45 cm"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27670,7 +27670,7 @@ window.MOEX_QUESTIONS = [
       "工地銲接部位及其相鄰接兩側部分，為使完工後鋼材顏色一致可進行整體塗裝",
       "鋼材表面溫度在50℃以上時塗膜可能產生氣泡，故應停止施工"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27687,7 +27687,7 @@ window.MOEX_QUESTIONS = [
       "使用輸氣劑",
       "在工作性容許範圍內，應儘量增加水灰比"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27704,7 +27704,7 @@ window.MOEX_QUESTIONS = [
       "①③",
       "①④"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27738,7 +27738,7 @@ window.MOEX_QUESTIONS = [
       "圖中標示C 處",
       "圖中標示D 處"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27772,7 +27772,7 @@ window.MOEX_QUESTIONS = [
       "底油之主要功用在提供瀝青層與油毛氈之密著黏結",
       "瀝青使用時需加熱熔解，若施工後鍋內仍有殘留時亦不得隔日使用"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27806,7 +27806,7 @@ window.MOEX_QUESTIONS = [
       "為防止石材剝離，每3 m 或每樓層應設置承重繫件，每片石材至少需要2 個支撐點",
       "乾式工法之金屬支撐系統，其固定繫件應採用SUS 304 不銹鋼製造 \n\n代號：3801\n頁次：10－5"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27823,7 +27823,7 @@ window.MOEX_QUESTIONS = [
       "直橫料系統（Stick System）",
       "板系統（Panel System）"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27840,7 +27840,7 @@ window.MOEX_QUESTIONS = [
       "可增加耐震細部設計，抵抗較大地震",
       "可完全隱藏骨架，創造全平空間"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27857,7 +27857,7 @@ window.MOEX_QUESTIONS = [
       "塗膜由較多度數構成者為佳，不得有花斑、流痕、皺紋等現象，塗膜顏色應力求均勻，不得有刷\n痕存在",
       "每層塗膜必須在十分乾燥後，方可進行次一度之塗裝"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27874,7 +27874,7 @@ window.MOEX_QUESTIONS = [
       "每條安全母索應僅供一名勞工使用",
       "原則上安全母索得掛或繫結於護欄之杆件"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27891,7 +27891,7 @@ window.MOEX_QUESTIONS = [
       "昇降機只要人進得去無論用途就可供人搭乘",
       "個人住家用昇降機因非供公共使用故不必定期檢查"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27908,7 +27908,7 @@ window.MOEX_QUESTIONS = [
       "儘量選用同一機種之吊車",
       "可由2 人指揮吊抬作業"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27925,7 +27925,7 @@ window.MOEX_QUESTIONS = [
       "在屋頂蓋板與垂直面相接處之絕緣材料，須依實際情況做適度之切割，但在所有垂直面泛水處須\n留下6 mm 之距離",
       "在絕緣材料所有接合面，應有足夠之接合面積，但須注意勿使其變形，配合使用黏著劑，將絕緣\n材料黏附在樓板上"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27942,7 +27942,7 @@ window.MOEX_QUESTIONS = [
       "補強筋應跨越伸縮縫",
       "須在砂漿仍為塑性狀態且未固結前將接縫整平"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27959,7 +27959,7 @@ window.MOEX_QUESTIONS = [
       "打底水泥砂漿施作前混凝土軀體面未保持濕潤狀態",
       "面磚張貼後的敲壓不足導致水泥砂漿無法填滿背溝間的間隙 \n\n代號：3801 \n頁次：10－6"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -27993,7 +27993,7 @@ window.MOEX_QUESTIONS = [
       "建築物使用類組為B-3 組餐飲場所之廚房，其天花板及牆面之裝修材料以耐燃一級材料為限",
       "無窗戶居室者，區劃或分隔其居室之牆壁及門窗應以不燃材料建造"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28027,7 +28027,7 @@ window.MOEX_QUESTIONS = [
       "石膏版牆應避免受潮或水洗",
       "牆若有孔洞需要修補，可使用水泥砂漿材料加以填補"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28044,7 +28044,7 @@ window.MOEX_QUESTIONS = [
       "KT 板可事先在工廠預埋出線盒",
       "相同規模下，KT 板的板片數量可較少，工期較節省"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28078,7 +28078,7 @@ window.MOEX_QUESTIONS = [
       "預鑄混凝土帷幕牆可當作承重牆",
       "帷幕牆為現場溼式組裝施工"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28112,7 +28112,7 @@ window.MOEX_QUESTIONS = [
       "根據螺栓的墊圈是否鬆動來判斷",
       "根據螺栓表面是否有摩擦痕跡來判斷"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28146,7 +28146,7 @@ window.MOEX_QUESTIONS = [
       "⑤為角銲腳長（Leg of a Fillet Weld），意指角銲根部到趾部的距離",
       "⑦為角銲喉深（Throat of Fillet Weld），意指根部到銲面間的最大距離"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28163,7 +28163,7 @@ window.MOEX_QUESTIONS = [
       "剪力釘",
       "火藥植筋"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28197,7 +28197,7 @@ window.MOEX_QUESTIONS = [
       "搗實時，振動棒插入點之間距應約為45 cm",
       "搗實時，振動棒進入前層混凝土之深度應約為10 cm"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28231,7 +28231,7 @@ window.MOEX_QUESTIONS = [
       "PL：鋼管",
       "Z：Z 型鋼"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28248,7 +28248,7 @@ window.MOEX_QUESTIONS = [
       "平角撐",
       "斜柱"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28282,7 +28282,7 @@ window.MOEX_QUESTIONS = [
       "除非圖說上另有規定，凡室內部分均採用內部材料，其餘均採外露材料",
       "風管、水管管線及其他懸掛於樓板下之設備，須於防火被覆完成後，始得施作"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28299,7 +28299,7 @@ window.MOEX_QUESTIONS = [
       "地面鋪貼花崗石",
       "天花輕鋼架石膏板"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28316,7 +28316,7 @@ window.MOEX_QUESTIONS = [
       "為控制粉刷面之精準度及平整度，承包商應先做控制用粉刷灰誌，地坪配合洩水坡度，應考量做\n灰誌條，以控制品質",
       "表面粉光完成後應養護48 小時，以細水霧噴灑，使塗面濕潤，但不致飽和，表層即予乾置"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28350,7 +28350,7 @@ window.MOEX_QUESTIONS = [
       "耐旱",
       "容易維修"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28384,7 +28384,7 @@ window.MOEX_QUESTIONS = [
       "採連續基礎設計",
       "基礎底面加深挖除"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28401,7 +28401,7 @@ window.MOEX_QUESTIONS = [
       "在工地中，須禁止勞工使用2 公尺以上的合梯進行泥作、油漆等作業，應改為設置工作平台使其\n進行作業",
       "自地面高度3 公尺以上投下垃圾或其他容易飛散之物體時，應使用垃圾導管或其他防止飛散之有\n效設施 \n\n代號：3801 \n頁次：10－10"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28435,7 +28435,7 @@ window.MOEX_QUESTIONS = [
       "A→C→F",
       "A→C→G"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28452,7 +28452,7 @@ window.MOEX_QUESTIONS = [
       "進度曲線之反曲點發生於每日完成數量之高峰期",
       "當實際進度曲線超出容許上限，表示進度已經落後，須進行趕工措施"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28469,7 +28469,7 @@ window.MOEX_QUESTIONS = [
       "樁基礎之調查深度應為樁基礎底面以下至少4 倍樁直徑之深度",
       "同一基地之調查點數不得少於2 點"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28486,7 +28486,7 @@ window.MOEX_QUESTIONS = [
       "預先設置傾度盤、沉陷釘進行監控，一般角變量達1/200 為鄰損判定標準",
       "可利用托基工法、微型樁保護緊鄰之鄰房"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28605,7 +28605,7 @@ window.MOEX_QUESTIONS = [
       "確認明視工作桌面位置，使桌面獲得足夠照度，而降低桌面以外照度",
       "照明回路配線設計應垂直窗戶，以配合窗邊利用晝光而可以熄燈"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28639,7 +28639,7 @@ window.MOEX_QUESTIONS = [
       "暗適應所須的時間較明適應來得長",
       "採光之方向與光亮的多寡，會影響物體的立體感"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28656,7 +28656,7 @@ window.MOEX_QUESTIONS = [
       "石膏版平貼於混凝土壁面 \n6 mm",
       "石膏版背後留300 mm 空氣層"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28673,7 +28673,7 @@ window.MOEX_QUESTIONS = [
       "室內總吸音力增加，餘響時間變短，低音域餘響時間一般低於中音域餘響時間",
       "音樂廳的最佳餘響時間比演講廳長"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28690,7 +28690,7 @@ window.MOEX_QUESTIONS = [
       "音色",
       "音調 \n\n代號：80140 \n頁次：4－3"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28707,7 +28707,7 @@ window.MOEX_QUESTIONS = [
       "自來水直結方式",
       "泵直接給水方式"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28741,7 +28741,7 @@ window.MOEX_QUESTIONS = [
       "當毛髮、纖維等雜質附著於存水彎的溢水口時",
       "地板落水口等封水高度較大或使用頻率較高的器具"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28758,7 +28758,7 @@ window.MOEX_QUESTIONS = [
       "受水槽之牆壁與平頂應與其他結構物分開，並應保持至少30 公分之人員維修空間",
       "受水槽之進水管徑應大於50 mm"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28775,7 +28775,7 @@ window.MOEX_QUESTIONS = [
       "塑膠管",
       "陶管"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28792,7 +28792,7 @@ window.MOEX_QUESTIONS = [
       "每個居室均應設置火警探測器，並增設簡易式自動撒水設備",
       "除避難層外，各樓層應防火牆及防火設備分隔為兩個以上之防火區劃"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28826,7 +28826,7 @@ window.MOEX_QUESTIONS = [
       "南向立面",
       "屋頂水平面"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28843,7 +28843,7 @@ window.MOEX_QUESTIONS = [
       "低溫低壓（氣態）→高溫高壓（氣態）",
       "低溫高壓（液態）→高溫高壓（氣態）"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28860,7 +28860,7 @@ window.MOEX_QUESTIONS = [
       "空氣過濾器",
       "冰水盤管"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28894,7 +28894,7 @@ window.MOEX_QUESTIONS = [
       "避免採用屋頂水平天窗設計",
       "屋頂隔熱U 值應≦0.8 W/m2K"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28945,7 +28945,7 @@ window.MOEX_QUESTIONS = [
       "避雷針之突針應用直徑12 ㎜以上之銅棒製成，尖端成圓錐體",
       "突針之尖端在裝置完成後不得低於被保護物25 cm 以下 \n\n代號：80140\n頁次：4－4"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28962,7 +28962,7 @@ window.MOEX_QUESTIONS = [
       "儲冰式空調整體系統的設備占用空間較非儲冰式空調小",
       "儲冰式空調可抑制夏季尖峰時間的用電負載"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28979,7 +28979,7 @@ window.MOEX_QUESTIONS = [
       "照明燈具的配線應搭配分區開關，以因應不同的使用需求",
       "在挑高的空間欲維持相同的桌面照度，使用吸頂燈比懸吊式燈具節能"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -28996,7 +28996,7 @@ window.MOEX_QUESTIONS = [
       "照明功率密度（Lighting Power Density）愈低，表示愈節能",
       "頻繁開關螢光燈，會減少其使用壽命"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29013,7 +29013,7 @@ window.MOEX_QUESTIONS = [
       "研究指出臭氧層破壞的原因，是排放於大氣中的氟氯碳化物及鹵素氣體",
       "一旦臭氧濃度減少，平流層溫度失衡，隨之而來的氣候變化會影響地球生態環境"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29030,7 +29030,7 @@ window.MOEX_QUESTIONS = [
       "竹子快速生長且不虞匱乏，屬於再生綠建材",
       "透水率佳、耐久安全性高的透水磚屬於高性能綠建材"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29047,7 +29047,7 @@ window.MOEX_QUESTIONS = [
       "在「系統整合指標」的基本規定中，子系統均須整合於採同一通訊協定之整合平台",
       "「安全防災指標」不涵蓋門禁系統、停車管理、緊急求救等內容"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29064,7 +29064,7 @@ window.MOEX_QUESTIONS = [
       "②④⑤",
       "①③⑥"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29098,7 +29098,7 @@ window.MOEX_QUESTIONS = [
       "於地下停車場設置二氧化碳偵測設備，能發出警報或引導疏散",
       "門禁系統能與消防系統連動，在發生火災時能即時啟動消防通道和安全門"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29217,7 +29217,7 @@ window.MOEX_QUESTIONS = [
       "由建築物之起造人為召集人",
       "報請當地主管機關指定一人為召集人"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29234,7 +29234,7 @@ window.MOEX_QUESTIONS = [
       "按其專有部分及共用合計之面積比例",
       "基於社區自治精神，由管委會決定"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29251,7 +29251,7 @@ window.MOEX_QUESTIONS = [
       "於申請使用執照時併同檢附",
       "於辦理銷售前向地方主管機關完成報備"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29268,7 +29268,7 @@ window.MOEX_QUESTIONS = [
       "規劃、設計資格者",
       "施工、監造資格者"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29285,7 +29285,7 @@ window.MOEX_QUESTIONS = [
       "①②④",
       "①③④ \n\n代號：1801\n頁次：8－3"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29302,7 +29302,7 @@ window.MOEX_QUESTIONS = [
       "技術士",
       "監造人"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29336,7 +29336,7 @@ window.MOEX_QUESTIONS = [
       "申請開發基地之面積在10 公頃以下者，原始地形在坵塊圖上之平均坡度在40%以下之土地面積應\n占全區總面積30%或3 公頃以上",
       "保育區面積不得小於扣除不可開發區面積後之剩餘基地面積之40%。保育區面積之70%以上應維\n持原始之地形地貌，不得開發"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29353,7 +29353,7 @@ window.MOEX_QUESTIONS = [
       "室內出入口之門扇打開時，地面應平順不得設置門檻，且門框間之距離不得小於90 公分",
       "室內出入口之折疊門應以推開後，扣除折疊之門扇後之距離不得小於80 公分"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29387,7 +29387,7 @@ window.MOEX_QUESTIONS = [
       "殯葬用地：建蔽率百分之三十，容積率百分之一百二十",
       "特定目的事業用地：建蔽率百分之六十，容積率百分之一百八十"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29421,7 +29421,7 @@ window.MOEX_QUESTIONS = [
       "具有經濟價值，亟需辦理保存整建",
       "建築物未能與重大建設配合 \n\n代號：1801 \n頁次：8－4"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29438,7 +29438,7 @@ window.MOEX_QUESTIONS = [
       "直轄市、縣市主管機關應辦理國土保育地區或海洋資源地區之使用許可、許可變更及廢止之核定",
       "直轄市、縣市主管機關應辦理一般性土地使用管制規定之擬定"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29472,7 +29472,7 @@ window.MOEX_QUESTIONS = [
       "依非都市土地使用管制規則規定得為建築使用之土地，限作自用農舍或自用住宅使用",
       "於各種用地內申請建築自用農舍其高度不得超過3 層樓"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29489,7 +29489,7 @@ window.MOEX_QUESTIONS = [
       "5 家；實施者評定",
       "5 家；主管機關評定"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29540,7 +29540,7 @@ window.MOEX_QUESTIONS = [
       "公聽會、審議、審議核復、聽證",
       "公開展覽、審議、審議核復、聽證"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29557,7 +29557,7 @@ window.MOEX_QUESTIONS = [
       "200",
       "1100"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29574,7 +29574,7 @@ window.MOEX_QUESTIONS = [
       "供防空避難設備使用之樓層樓地板面積達200 平方公尺者，以兼作停車空間為限",
       "面積達240 平方公尺以上之防空避難設備，應設二處階梯式進出口，其中一處應通達戶外 \n\n代號：1801\n頁次：8－5"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29591,7 +29591,7 @@ window.MOEX_QUESTIONS = [
       "70",
       "80"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29608,7 +29608,7 @@ window.MOEX_QUESTIONS = [
       "處6 個月以下有期徒刑或拘役",
       "處1 年有期徒刑"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29625,7 +29625,7 @@ window.MOEX_QUESTIONS = [
       "汽車修理廠",
       "招待所"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29642,7 +29642,7 @@ window.MOEX_QUESTIONS = [
       "首都之主要計畫由行政院核定",
       "縣政府所在地及縣轄市之主要計畫由內政部核定"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29659,7 +29659,7 @@ window.MOEX_QUESTIONS = [
       "進口寬度至少75 公分，高度至少120 公分，且開口下端應距離樓地板面80 公分範圍內",
       "進口應設於面臨道路或寬度在4 公尺以上通路之各層外牆面"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29676,7 +29676,7 @@ window.MOEX_QUESTIONS = [
       "150 平方公尺",
       "200 平方公尺"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29710,7 +29710,7 @@ window.MOEX_QUESTIONS = [
       "30 平方公尺",
       "40 平方公尺"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29727,7 +29727,7 @@ window.MOEX_QUESTIONS = [
       "12 樓",
       "13 樓"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29778,7 +29778,7 @@ window.MOEX_QUESTIONS = [
       "2.5",
       "3.0"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29795,7 +29795,7 @@ window.MOEX_QUESTIONS = [
       "7 層",
       "8 層"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29829,7 +29829,7 @@ window.MOEX_QUESTIONS = [
       "2000",
       "3000"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29846,7 +29846,7 @@ window.MOEX_QUESTIONS = [
       "10",
       "20"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29897,7 +29897,7 @@ window.MOEX_QUESTIONS = [
       "緊急用昇降機間應設置排煙室",
       "昇降機道應每2 部昇降機以具有半小時以上防火時效之牆壁隔開"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29914,7 +29914,7 @@ window.MOEX_QUESTIONS = [
       "供建築物使用類組B-2 組使用之總樓地板面積達20,000 平方公尺以上之建築物",
       "供建築物使用類組B-2 組使用之總樓地板面積達30,000 平方公尺以上之建築物"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29948,7 +29948,7 @@ window.MOEX_QUESTIONS = [
       "800 平方公尺",
       "1000 平方公尺"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -29982,7 +29982,7 @@ window.MOEX_QUESTIONS = [
       "受破產宣告，尚未復權",
       "受停止執行業務處分累計滿5 年"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30016,7 +30016,7 @@ window.MOEX_QUESTIONS = [
       "受破產宣告，尚未復權",
       "受廢止開業證書之懲戒處分"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30033,7 +30033,7 @@ window.MOEX_QUESTIONS = [
       "經契約雙方同意並訂立仲裁協議後，依契約約定及仲裁法規定提付仲裁",
       "依契約或雙方合意之其他方式處理"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30067,7 +30067,7 @@ window.MOEX_QUESTIONS = [
       "9",
       "6"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30084,7 +30084,7 @@ window.MOEX_QUESTIONS = [
       "從事設計及施工業務者，專業設計及專業施工之技術人員各1 人以上",
       "從事設計及施工業務者，應由兼具專業設計及專業施工之技術人員身分2 人以上"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30101,7 +30101,7 @@ window.MOEX_QUESTIONS = [
       "6 層以下，非供公眾使用之建築物",
       "6 層以下，供公眾使用之建築物"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30118,7 +30118,7 @@ window.MOEX_QUESTIONS = [
       "①③④",
       "②③④"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30135,7 +30135,7 @@ window.MOEX_QUESTIONS = [
       "未依規定聘用一定比例之本國勞工者",
       "逾建築期限未申請展期者"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30169,7 +30169,7 @@ window.MOEX_QUESTIONS = [
       "5 萬元以上20 萬元以下",
       "5 萬元以上30 萬元以下 \n\n代號：1801 \n頁次：8－8"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30203,7 +30203,7 @@ window.MOEX_QUESTIONS = [
       "耐火板",
       "耐燃三級"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30254,7 +30254,7 @@ window.MOEX_QUESTIONS = [
       "屋頂",
       "分間牆"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30271,7 +30271,7 @@ window.MOEX_QUESTIONS = [
       "變更承造人",
       "變更租賃人"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30288,7 +30288,7 @@ window.MOEX_QUESTIONS = [
       "1500 平方公尺",
       "2000 平方公尺"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30305,7 +30305,7 @@ window.MOEX_QUESTIONS = [
       "固著於建築物構造體之天花板裝修",
       "活動隔屏、地毯之黏貼及擺設"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30322,7 +30322,7 @@ window.MOEX_QUESTIONS = [
       "室內裝修業",
       "室內裝潢人員"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30339,7 +30339,7 @@ window.MOEX_QUESTIONS = [
       "5 層樓集合住宅",
       "俱樂部"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30356,7 +30356,7 @@ window.MOEX_QUESTIONS = [
       "3 個輪椅觀眾席並排時，可僅由後方或單側進入該席",
       "4 個輪椅觀眾席並排時，應可由前後或左右側進入該席"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30373,7 +30373,7 @@ window.MOEX_QUESTIONS = [
       "60；80",
       "65；85"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30390,7 +30390,7 @@ window.MOEX_QUESTIONS = [
       "規則",
       "細則"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30441,7 +30441,7 @@ window.MOEX_QUESTIONS = [
       "評估機構為辦理新建住宅性能評估，應派員至現場勘查及實施必要之檢測",
       "執行既有住宅結構安全性能類別之評估人員，得為任職大學以上學校教授、副教授、助理教授經\n教育部審查合格，講授建築結構課程5 年以上"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30475,7 +30475,7 @@ window.MOEX_QUESTIONS = [
       "高度固定時，支點處之水平推力隨拱跨距增加而減少",
       "三鉸拱屬於靜定結構"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30492,7 +30492,7 @@ window.MOEX_QUESTIONS = [
       "圓筒狀薄膜有一斷面之曲率會為零",
       "雨傘為開放式薄膜結構"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30526,7 +30526,7 @@ window.MOEX_QUESTIONS = [
       "隨著大梁主筋的強度愈高，大梁主筋於柱內之錨定長度則愈長",
       "隨著柱的混凝土強度愈高，大梁主筋於柱內之錨定長度則愈短"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30577,7 +30577,7 @@ window.MOEX_QUESTIONS = [
       "傾角變位法可用於分析各種靜不定梁",
       "此法亦適用於解析桁架結構物"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30594,7 +30594,7 @@ window.MOEX_QUESTIONS = [
       "鋼骨鋼筋混凝土結構主構架之梁鋼筋與鋼柱連接可採用搭接",
       "鋼骨結構歸類為綠建材的概念主要是產製過程"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30611,7 +30611,7 @@ window.MOEX_QUESTIONS = [
       "對靜定結構，可增加其靜不定度",
       "塑性鉸不易發生，結構較穩定"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30628,7 +30628,7 @@ window.MOEX_QUESTIONS = [
       "鋼骨鋼筋混凝土結構不一定比鋼筋混凝土結構安全",
       "在一般建築鋼結構設計上，H 型鋼梁能承受拉力、壓力、彎矩、剪力及扭矩"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30645,7 +30645,7 @@ window.MOEX_QUESTIONS = [
       "低降伏鋼由於強度低及延展性高，可使用於金屬降伏阻尼器",
       "鋼材之彈性模數（modulus of elasticity）不會隨著強度提高而增大 \n\n代號：80120\n頁次：8－7"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30662,7 +30662,7 @@ window.MOEX_QUESTIONS = [
       "提高梁端之塑性轉角變形能力",
       "提高工作性"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30679,7 +30679,7 @@ window.MOEX_QUESTIONS = [
       "二元系統中的抗彎矩構架僅需單獨抵禦25%以下的設計地震力",
       "高度超過50 公尺之抗彎矩構架系統需以動力分析進行耐震設計，二元系統則不需要 \nVeu\nVs \nVy \nVd \nΔy \nΔw \nΔu \nD\nE\nV \nC\nB\nA\nO \n\n代號：80120 \n頁次：8－8"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30713,7 +30713,7 @@ window.MOEX_QUESTIONS = [
       "圖(c)係鋼筋混凝土斷面在極限狀態時混凝土之等效矩形應力",
       "圖(d)係木材斷面在線彈性階段之撓曲應力"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30730,7 +30730,7 @@ window.MOEX_QUESTIONS = [
       "1 次靜不定",
       "2 次靜不定"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30747,7 +30747,7 @@ window.MOEX_QUESTIONS = [
       "Pc",
       "Pd \nPa \nPb\nPc\nPd"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30866,7 +30866,7 @@ window.MOEX_QUESTIONS = [
       "氧化鎂板",
       "纖維水泥板 \n\n代號：3801 \n頁次：8－2"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30883,7 +30883,7 @@ window.MOEX_QUESTIONS = [
       "由於混凝土具酸性，因此可以防止內部鋼筋發生生鏽現象",
       "混凝土的中性化現象與澆置時混凝土之水灰比息息相關"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30900,7 +30900,7 @@ window.MOEX_QUESTIONS = [
       "除設計圖標示或經設計、監造人核可外，集成材構材不得任意切口、鑽孔",
       "集成材製品若合於規範，可當結構用構材使用"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30917,7 +30917,7 @@ window.MOEX_QUESTIONS = [
       "大型板構式工法可減少構件接合處防水處理的困擾",
       "構架式工法是在傳統鋼構柱梁中，安裝預鑄之板、牆構材"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30934,7 +30934,7 @@ window.MOEX_QUESTIONS = [
       "僅①②",
       "僅①③"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30951,7 +30951,7 @@ window.MOEX_QUESTIONS = [
       "大理石",
       "導盲磚"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -30968,7 +30968,7 @@ window.MOEX_QUESTIONS = [
       "一般廁所設有小便器者，應設置無障礙小便器，無障礙小便器應設置於廁所入口便捷之處",
       "馬桶側面牆壁裝置扶手時，應設置U 型扶手"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31019,7 +31019,7 @@ window.MOEX_QUESTIONS = [
       "相鄰的筏基坑以排水管連通時，地梁上部必須配置通氣管",
       "筏基坑內必須填充重物，如水、級配、劣質混凝土等，以抵抗土壓"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31036,7 +31036,7 @@ window.MOEX_QUESTIONS = [
       "①③",
       "②④"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31053,7 +31053,7 @@ window.MOEX_QUESTIONS = [
       "以負壓將雨水排出",
       "填縫劑不會曝曬於紫外線中"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31070,7 +31070,7 @@ window.MOEX_QUESTIONS = [
       "鋼骨腹板",
       "鋼骨翼板"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31087,7 +31087,7 @@ window.MOEX_QUESTIONS = [
       "出廠時塗料顏色",
       "用來區分鋼料的顏色 \n\n代號：3801\n頁次：8－3"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31104,7 +31104,7 @@ window.MOEX_QUESTIONS = [
       "配置立面的剪力牆須注意垂直方向的連續性",
       "高層建築剪力牆配置，應由下而上直通屋頂，若頂樓不設剪力牆，則整體的剪力牆會完全無效"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31121,7 +31121,7 @@ window.MOEX_QUESTIONS = [
       "以跨度1/13 到1/15 間為梁深，以不超過梁高的1/2 為梁寬",
       "以跨度1/19 到1/21 間為梁深，以不超過梁高的1/3 為梁寬"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31155,7 +31155,7 @@ window.MOEX_QUESTIONS = [
       "筏式基礎屬於深基礎",
       "沉箱基礎屬於深基礎"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31189,7 +31189,7 @@ window.MOEX_QUESTIONS = [
       "消能阻尼器可以斜撐的構造方式安置於大樓外牆框架結構上",
       "將隔震墊作為基礎隔震或中間層隔震，造價較低廉"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31206,7 +31206,7 @@ window.MOEX_QUESTIONS = [
       "②③",
       "②④"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31223,7 +31223,7 @@ window.MOEX_QUESTIONS = [
       "鷹架組立",
       "鋼筋綁紮"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31240,7 +31240,7 @@ window.MOEX_QUESTIONS = [
       "40",
       "45"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31308,7 +31308,7 @@ window.MOEX_QUESTIONS = [
       "PU 石化材料",
       "鋪地磚"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31342,7 +31342,7 @@ window.MOEX_QUESTIONS = [
       "鋼骨長度一半處",
       "鋼骨上任何位置均可 \n\n代號：3801\n頁次：8－5"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31359,7 +31359,7 @@ window.MOEX_QUESTIONS = [
       "減少浪費銲條",
       "防止銲道發生裂縫"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31393,7 +31393,7 @@ window.MOEX_QUESTIONS = [
       "搗實且灑水越多越好",
       "搗實且潤濕即可"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31427,7 +31427,7 @@ window.MOEX_QUESTIONS = [
       "出入口處應設置不燃性材料之門扉",
       "申請安全檢驗及使用合格證取得之各項事宜應由監造人辦理"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31444,7 +31444,7 @@ window.MOEX_QUESTIONS = [
       "安裝雙層板時，第二層之接縫應與第一層接縫對齊",
       "外露接縫、邊緣與角落應貼膠帶、填充及批土"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31461,7 +31461,7 @@ window.MOEX_QUESTIONS = [
       "坍度越大強度越好，但施工性較差",
       "坍度與施工性及強度都沒有關係"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31478,7 +31478,7 @@ window.MOEX_QUESTIONS = [
       "牆保護層至少應達20 mm",
       "版保護層至少應達10 mm"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31495,7 +31495,7 @@ window.MOEX_QUESTIONS = [
       "梁、托架、柱冠、托肩及柱頭版須與樓版同時澆置，且穿過施工縫之鋼筋須連續",
       "柱或牆之水平施工縫應於接合面加塗一層與混凝土相同水灰比之水泥砂漿，並在凝固硬化後澆置\n銜接混凝土"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31512,7 +31512,7 @@ window.MOEX_QUESTIONS = [
       "鋼骨建築柱內灌漿是為了達到防火時效",
       "鋼骨結構可減少水泥用量有利於廢棄物減量的綠建築指標 \n\n代號：3801 \n頁次：8－6"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31529,7 +31529,7 @@ window.MOEX_QUESTIONS = [
       "①③④",
       "①②④"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31563,7 +31563,7 @@ window.MOEX_QUESTIONS = [
       "密實土1：1.5",
       "軟土1：2"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31580,7 +31580,7 @@ window.MOEX_QUESTIONS = [
       "僅①②",
       "①②③"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31597,7 +31597,7 @@ window.MOEX_QUESTIONS = [
       "中間層為含蛭石多孔水泥板",
       "中間層為PU 發泡板"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31631,7 +31631,7 @@ window.MOEX_QUESTIONS = [
       "導盲磚是藉由觸覺達到引導之功能，並非唯一選擇",
       "公務機關內之視覺障礙引導設施須導引至廁所"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31665,7 +31665,7 @@ window.MOEX_QUESTIONS = [
       "自然排煙窗的構成材料必須合於不燃材料的規定",
       "污水處理設備須為耐水材料製作，施工上必須注意確保不漏水"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31682,7 +31682,7 @@ window.MOEX_QUESTIONS = [
       "最晚完成日期",
       "追加工期"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31733,7 +31733,7 @@ window.MOEX_QUESTIONS = [
       "統包團隊的施工單位",
       "主辦機關另行委任的監造單位"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31750,7 +31750,7 @@ window.MOEX_QUESTIONS = [
       "大梁",
       "柵梁"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31767,7 +31767,7 @@ window.MOEX_QUESTIONS = [
       "①③",
       "③④"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31784,7 +31784,7 @@ window.MOEX_QUESTIONS = [
       "③④",
       "①④"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31801,7 +31801,7 @@ window.MOEX_QUESTIONS = [
       "僅①②③",
       "①②③④"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31818,7 +31818,7 @@ window.MOEX_QUESTIONS = [
       "④②①③",
       "③④①②"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31835,7 +31835,7 @@ window.MOEX_QUESTIONS = [
       "取得使用執照時",
       "完成工程結算時"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31937,7 +31937,7 @@ window.MOEX_QUESTIONS = [
       "防止室內材料劣化",
       "增強熱由皮膚蒸散，以增進生理舒適"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31954,7 +31954,7 @@ window.MOEX_QUESTIONS = [
       "構造材料愈剛硬，構造重合頻率有愈低之趨勢",
       "構造材料產生聲橋作用能促使構造重合頻率降低"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31971,7 +31971,7 @@ window.MOEX_QUESTIONS = [
       "中心頻率等於上下切割頻率積之方根",
       "依1/1 八度音程中心頻率在250 Hz 之後是500 Hz"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -31988,7 +31988,7 @@ window.MOEX_QUESTIONS = [
       "最低處表示人耳最敏感的頻率位置",
       "往低頻率範圍音量增加表示聽感愈好"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32022,7 +32022,7 @@ window.MOEX_QUESTIONS = [
       "氧化槽由腐敗槽、曝氣槽、灑水濾床與地下滲透裝置等組成",
       "長時間曝氣方式，是加大曝氣槽容量以增加活性污泥滯留時間的方式"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32073,7 +32073,7 @@ window.MOEX_QUESTIONS = [
       "重力給水方式適用於一般建築",
       "加壓泵給水方式適用於高層建築"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32107,7 +32107,7 @@ window.MOEX_QUESTIONS = [
       "室內大型體育場、集會館，以及建物有大型挑空的場合，可有效利用大量防煙垂壁限制煙的擴散",
       "當火災發生時，可利用機械設備在火災區相鄰的區劃間製造壓力差，讓火災區形成負壓、非火災區形\n成正壓的方式，以限制煙的流動"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32124,7 +32124,7 @@ window.MOEX_QUESTIONS = [
       "高壓熔絲鏈開關又稱為一次斷路器（PCB），常用於屋外高壓分岐線的保護裝置",
       "高壓型之油斷路器（OCB）體積較空氣斷路器（ACB）小，多裝設於建築內部空間"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32141,7 +32141,7 @@ window.MOEX_QUESTIONS = [
       "為了方便排氣與回風而設置於室外的空調機",
       "專門過濾及冷卻外部空氣，並送入室內"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32158,7 +32158,7 @@ window.MOEX_QUESTIONS = [
       "軸流式出風口",
       "擴散式出風口"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32175,7 +32175,7 @@ window.MOEX_QUESTIONS = [
       "游泳池",
       "生鮮超市"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32209,7 +32209,7 @@ window.MOEX_QUESTIONS = [
       "3→4 之過程為膨脹閥，冷媒變成低壓液氣混合體",
       "4→1 之過程為蒸發器，冷媒藉由蒸發吸收空氣中之熱量 \nh"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32226,7 +32226,7 @@ window.MOEX_QUESTIONS = [
       "室內輝度比愈大，均齊度愈好",
       "輝度的單位為cd/m2 或nt"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32260,7 +32260,7 @@ window.MOEX_QUESTIONS = [
       "高壓鈉燈 \n40W",
       "螢光燈"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32294,7 +32294,7 @@ window.MOEX_QUESTIONS = [
       "②④",
       "①③"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32311,7 +32311,7 @@ window.MOEX_QUESTIONS = [
       "建築隔間輕量化",
       "所有管路明管化設計"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32345,7 +32345,7 @@ window.MOEX_QUESTIONS = [
       "採用不容易降溫的PVC 管或塑膠管之配管",
       "將熱水器安裝於室內，節省配管距離"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32379,7 +32379,7 @@ window.MOEX_QUESTIONS = [
       "房間內求助鈴應至少設置兩處",
       "房間內通路寬度及床間淨寬度不得小於90 公分"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32481,7 +32481,7 @@ window.MOEX_QUESTIONS = [
       "機械停車設備",
       "昇降機道"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32515,7 +32515,7 @@ window.MOEX_QUESTIONS = [
       "供地下通道使用，其總樓地板面積在1,500 平方公尺以上者，應按每1,500 平方公尺，以具有1 小\n時以上防火時效之構造或設備區劃",
       "給水管貫穿防火區劃時，貫穿部位與防火區劃合成之構造應具有1 小時以上之防火時效"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32566,7 +32566,7 @@ window.MOEX_QUESTIONS = [
       "在坵塊圖上，平均坡度超過30%者，不得配置建築物",
       "計算坡度之實測地形圖比例尺不得小於1/1200"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32600,7 +32600,7 @@ window.MOEX_QUESTIONS = [
       "不得超出原建築基地",
       "主要構造不得改變"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32617,7 +32617,7 @@ window.MOEX_QUESTIONS = [
       "②③④",
       "②③⑤"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32634,7 +32634,7 @@ window.MOEX_QUESTIONS = [
       "申請變更編定同意書",
       "土地使用計畫配置圖及位置圖 \n\n代號：1801\n頁次：6－3"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32651,7 +32651,7 @@ window.MOEX_QUESTIONS = [
       "分別通知承造人及專任工程人員修改",
       "分別通知起造人及承造人修改"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32668,7 +32668,7 @@ window.MOEX_QUESTIONS = [
       "至少應設置2 處緊急求助鈴",
       "馬桶前緣淨空間80 公分"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32685,7 +32685,7 @@ window.MOEX_QUESTIONS = [
       "查核建築材料之規格及品質",
       "指導施工技術"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32702,7 +32702,7 @@ window.MOEX_QUESTIONS = [
       "直通樓梯、走廊",
       "避難層出入口、避難層以外樓層出入口"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32719,7 +32719,7 @@ window.MOEX_QUESTIONS = [
       "開業建築師",
       "消防設備師"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32736,7 +32736,7 @@ window.MOEX_QUESTIONS = [
       "辦理雜項執照",
       "辦理室內裝修特別許可證"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32753,7 +32753,7 @@ window.MOEX_QUESTIONS = [
       "總樓地板面積在200 平方公尺以上之補習班即屬於供公眾使用建築物之範圍",
       "原供公眾使用建築物變更為他種公眾使用時，主管建築機關應檢查其構造、設備及室內裝修，免\n再檢討消防安全設備"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32770,7 +32770,7 @@ window.MOEX_QUESTIONS = [
       "送出基地之可移出容積得分次移出，而接受基地在可移入規定內，亦得分次移入不同送出基地之可移出\n容積",
       "接受基地於依法申請建築時，除容積率管制事項外，仍應符合土地使用分區管制及建築法規之規定"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32787,7 +32787,7 @@ window.MOEX_QUESTIONS = [
       "製作公聽會紀錄",
       "製作細部計畫及建築圖說"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32821,7 +32821,7 @@ window.MOEX_QUESTIONS = [
       "公有",
       "所有土地所有人共同所有"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32838,7 +32838,7 @@ window.MOEX_QUESTIONS = [
       "雜項執照",
       "使用執照"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32872,7 +32872,7 @@ window.MOEX_QUESTIONS = [
       "②③",
       "①②③"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32889,7 +32889,7 @@ window.MOEX_QUESTIONS = [
       "建蔽率40%，容積率160%",
       "建蔽率40%，容積率120%"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32923,7 +32923,7 @@ window.MOEX_QUESTIONS = [
       "違反專利法者",
       "因可歸責於廠商之事由，致延誤履約期限，情節重大者"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32974,7 +32974,7 @@ window.MOEX_QUESTIONS = [
       "其於山坡地保育區範圍外之農業區者，得變更編定為丙種建築用地",
       "其於風景區範圍內之農業區者，得變更編定為丁種建築用地"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -32991,7 +32991,7 @@ window.MOEX_QUESTIONS = [
       "得獨立使用，並得為約定專用部分",
       "不得獨立使用，並不得為約定專用部分"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33025,7 +33025,7 @@ window.MOEX_QUESTIONS = [
       "申請使用執照前",
       "建物移轉登記後"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33042,7 +33042,7 @@ window.MOEX_QUESTIONS = [
       "區分所有權人會議每年至少應召開定期會議一次",
       "發生重大事故有及時處理之必要者，經全體住戶請求，應召開臨時會議 \n\n代號：1801\n頁次：6－5"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33059,7 +33059,7 @@ window.MOEX_QUESTIONS = [
       "應由監造單位繪製竣工圖說明",
       "應由承包商繪製竣工圖說明"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33076,7 +33076,7 @@ window.MOEX_QUESTIONS = [
       "建築師不得為營造業承攬工程之保證人",
       "營造業聘用工地主任，不必經工地主任公會同意"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33093,7 +33093,7 @@ window.MOEX_QUESTIONS = [
       "將營造業登記證書交由他人使用經營營造業務者，處新臺幣100 萬元以上1,000 萬元以下罰鍰",
       "營造業未加入公會而經營營造業業務者，處新臺幣10 萬元以上100 萬元以下罰鍰"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33110,7 +33110,7 @@ window.MOEX_QUESTIONS = [
       "由約定專用部分之使用人負擔",
       "由管理負責人負擔"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33127,7 +33127,7 @@ window.MOEX_QUESTIONS = [
       "所有工程及財物採購應繳押標金",
       "依採購案之特性，廠商可於得標後，議價前補交押標金"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33161,7 +33161,7 @@ window.MOEX_QUESTIONS = [
       "保險公司之連帶保證保險單",
       "銀行之書面連帶保證"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33178,7 +33178,7 @@ window.MOEX_QUESTIONS = [
       "同一投標廠商就同一採購之投標，以一標為限。其有違反者，機關應不予開標或接受",
       "機關應指定以郵政信箱為唯一之投標送達場所"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33195,7 +33195,7 @@ window.MOEX_QUESTIONS = [
       "以合於招標文件規定之最有利標為得標廠商",
       "分項報價不分項決標之複數決標"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33229,7 +33229,7 @@ window.MOEX_QUESTIONS = [
       "驗收後不履行保固責任者",
       "因可歸責於廠商之事由，致延誤履約期限，情節重大者"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33246,7 +33246,7 @@ window.MOEX_QUESTIONS = [
       "主管機關",
       "監造單位"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33263,7 +33263,7 @@ window.MOEX_QUESTIONS = [
       "②③",
       "③④ \n\n代號：1801 \n頁次：6－6"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33280,7 +33280,7 @@ window.MOEX_QUESTIONS = [
       "製作施工規範超過一定頁數之服務費用",
       "超出工程契約規定施工期限所需增加之監造、專案管理及相關費用"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33297,7 +33297,7 @@ window.MOEX_QUESTIONS = [
       "參考表給付百分比已含申請候選證書費用",
       "參考表給付百分比已含申請標章之費用"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33331,7 +33331,7 @@ window.MOEX_QUESTIONS = [
       "統包工程",
       "聯合承攬工程"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33348,7 +33348,7 @@ window.MOEX_QUESTIONS = [
       "品管",
       "監造"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33365,7 +33365,7 @@ window.MOEX_QUESTIONS = [
       "規劃供住宅使用之公寓大樓在地面層應設置無障礙通路",
       "若規劃獨棟建築物，每棟各層皆為同一住宅單位，且第二層以上僅做住宅使用時，可以不設置無\n障礙設施，但在地面層仍需設置無障礙通路"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33399,7 +33399,7 @@ window.MOEX_QUESTIONS = [
       "無障礙通路應平整，因此室內外若產生0.4 公分高低差則應視為不符法規規定",
       "走廊中無開門之室內通路走廊完工後實際淨寬度至少應為120 公分"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33416,7 +33416,7 @@ window.MOEX_QUESTIONS = [
       "洗面盆前方及兩側設置扶手，扶手高於洗面盆邊緣1~3 公分",
       "鏡子之鏡面底端距離地板面不得大於90 公分"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33433,7 +33433,7 @@ window.MOEX_QUESTIONS = [
       "昇降機一般呼叫鈕前方60 公分處之地板，應作30 公分×60 公分之不同材質處理",
       "無障礙昇降機的引導標誌應該延續與不中斷，並且在平行行進方向的牆上設置"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33467,7 +33467,7 @@ window.MOEX_QUESTIONS = [
       "①④",
       "②④"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33569,7 +33569,7 @@ window.MOEX_QUESTIONS = [
       "8",
       "10"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33586,7 +33586,7 @@ window.MOEX_QUESTIONS = [
       "梁支承位置的下方",
       "梁支承位置的上方 \nL \nB \nA \nEI \nq0 \nL \nB \nA \nE \nP \n(b) \n(a) \n\n代號：80120 \n頁次：8－4"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33603,7 +33603,7 @@ window.MOEX_QUESTIONS = [
       "鋼材之含碳量與彈性模數（E 值）無關",
       "抗拉強度與降伏強度比值較大的鋼材，一般而言，其塑性變形能力較小"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33620,7 +33620,7 @@ window.MOEX_QUESTIONS = [
       "依據現行建築物基礎構造設計規範，群樁之整體支承力為各單樁端點支承力之總和",
       "當設計側向力大於樁基礎之容許側向支承時，可另行打設斜樁，以承受部分側向力"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33637,7 +33637,7 @@ window.MOEX_QUESTIONS = [
       "作用為減低建築物之水平振動週期，避免與地盤發生共振",
       "通常需要額外搭配消能裝置使用，以減少水平位移"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33654,7 +33654,7 @@ window.MOEX_QUESTIONS = [
       "1",
       "2"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33671,7 +33671,7 @@ window.MOEX_QUESTIONS = [
       "回歸期為475 年的風力",
       "回歸期為2500 年的風力 \nH\nEIc \nEIc \nEIb \n\n代號：80120\n頁次：8－5"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33688,7 +33688,7 @@ window.MOEX_QUESTIONS = [
       "ad 和be",
       "ae 和ce"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33705,7 +33705,7 @@ window.MOEX_QUESTIONS = [
       "殘餘應力為內力",
       "殘餘應力會影響斷面強度"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33756,7 +33756,7 @@ window.MOEX_QUESTIONS = [
       "1,200,000",
       "1,360,000 \ne \nd \nc \nb \na \n6tf \nG\nF \nE \nD\nC \nB \nA\n3m \n3m \n3m \n4m\n4m\n4m\na \nb \n2L \n2P \n4AE \n\n代號：80120 \n頁次：8－6"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33790,7 +33790,7 @@ window.MOEX_QUESTIONS = [
       "2EI\nPL3",
       "3EI\nPL3"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33807,7 +33807,7 @@ window.MOEX_QUESTIONS = [
       "24",
       "30 \nP \nE,I \nL/2 \nL/2 \nP \nB \nA \n6m \n6m \n8m \n6kN \nB \nC \nA \nB \nA \nE \nF \nG \nC \nD \n4m \n4m \n4m \n4m \n4m \n3kN \n6kN \n\n代號：80120\n頁次：8－7"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33841,7 +33841,7 @@ window.MOEX_QUESTIONS = [
       "C 點",
       "D 點"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33858,7 +33858,7 @@ window.MOEX_QUESTIONS = [
       "共有3 個零桿件",
       "共有2 個承受壓力桿件"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33875,7 +33875,7 @@ window.MOEX_QUESTIONS = [
       "0.75(1.4D+1.7L±1.87E)",
       "0.9D±E"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33892,7 +33892,7 @@ window.MOEX_QUESTIONS = [
       "5.5",
       "7.0"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33926,7 +33926,7 @@ window.MOEX_QUESTIONS = [
       "剪力",
       "扭力"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33960,7 +33960,7 @@ window.MOEX_QUESTIONS = [
       "書庫",
       "教室"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -33977,7 +33977,7 @@ window.MOEX_QUESTIONS = [
       "兩棟建築皆有使用高性能混凝土做柱內灌漿",
       "兩棟建築皆設有抗風阻尼器"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34011,7 +34011,7 @@ window.MOEX_QUESTIONS = [
       "水平慣性力傳遞路徑佳",
       "結構贅餘度高 \na \nb \nc \nd"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34164,7 +34164,7 @@ window.MOEX_QUESTIONS = [
       "室外氣膜層",
       "室內氣膜層"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34181,7 +34181,7 @@ window.MOEX_QUESTIONS = [
       "比重較大者，材料強度也較大",
       "含水率增加者，強度也較大"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34198,7 +34198,7 @@ window.MOEX_QUESTIONS = [
       "現行「綠建材設計技術規範」的適用範圍為：供公眾使用之建築物，及經內政部認定有必要之非\n供公眾使用之建築物",
       "現行「綠建材標章」由內政部營建署核發"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34215,7 +34215,7 @@ window.MOEX_QUESTIONS = [
       "RC 固定梁",
       "金屬版固定件（metal plate strap anchors）"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34232,7 +34232,7 @@ window.MOEX_QUESTIONS = [
       "「外牆結構」必須處理外牆的防水與隔熱",
       "RC 梁柱結構的「外牆結構」通常是RC 牆"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34249,7 +34249,7 @@ window.MOEX_QUESTIONS = [
       "向外推開門",
       "水平推拉門"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34300,7 +34300,7 @@ window.MOEX_QUESTIONS = [
       "扶手水平延伸，不得突出於走道上",
       "中間連續扶手，於平台處得不需水平延伸"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34317,7 +34317,7 @@ window.MOEX_QUESTIONS = [
       "1/10",
       "1/15 \n\n代號：3801\n頁次：10－3"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34334,7 +34334,7 @@ window.MOEX_QUESTIONS = [
       "斗砌牆一般較不耐震",
       "平板磚所框築之內部空心部分常以灰漿加碎石填充"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34351,7 +34351,7 @@ window.MOEX_QUESTIONS = [
       "室外無障礙通路與建築物主要通路不同時，必須於主要通路入口處標示無障礙通路之方向",
       "無遮蓋戶外通路應考慮排水，可往路拱兩邊排水"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34368,7 +34368,7 @@ window.MOEX_QUESTIONS = [
       "鋁擠型的外型（profile）與表面塗裝（finish）",
       "鋁擠型的內部防水與排水系統設計"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34385,7 +34385,7 @@ window.MOEX_QUESTIONS = [
       "鋼板樁",
       "鋼軌樁"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34419,7 +34419,7 @@ window.MOEX_QUESTIONS = [
       "穿過屋頂或露台樓版之管線應施作止水板以免漏水",
       "樓版內埋設管路配管之淨間距不得小於2 倍管徑，管之外徑不得大於版厚之1/3"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34436,7 +34436,7 @@ window.MOEX_QUESTIONS = [
       "鋼梁與鋼浪板之間的銲接結合力",
       "鋼梁剪力榫與樓版混凝土所產生的結合力"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34453,7 +34453,7 @@ window.MOEX_QUESTIONS = [
       "平面鋼桁架可組構成立體桁架系列",
       "芬克式（Fink）鋼桁架比中柱式（king post）鋼桁架適合大跨度應用"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34470,7 +34470,7 @@ window.MOEX_QUESTIONS = [
       "如②的做法，於中間層安裝隔震裝置，不能達到良好隔震效果",
       "隔震裝置須做適當的防火包覆"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34504,7 +34504,7 @@ window.MOEX_QUESTIONS = [
       "地鉸鏈",
       "吊軌與滾輪"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34538,7 +34538,7 @@ window.MOEX_QUESTIONS = [
       "載貨用及病床用昇降機之無礙人員安全者，每一車廂在同一樓層所設之昇降路出入口，得超過\n一處",
       "非油壓電梯昇降機機坑應裝置緩衝器"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34555,7 +34555,7 @@ window.MOEX_QUESTIONS = [
       "天花板內梁底留設空間，應足夠讓風管通過",
       "施工時照明器具、電線管等，避免與風管直接接觸"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34606,7 +34606,7 @@ window.MOEX_QUESTIONS = [
       "固定座椅席在1001 個至1250 個者，其輪椅觀眾席位不得少於10 個",
       "2000 個固定座椅席位以上者，超過部分每增加250 個席位，應再增加1 個輪椅觀眾席位 \n挖掘溝槽 \n樹木根系 \n碎石透水層"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34623,7 +34623,7 @@ window.MOEX_QUESTIONS = [
       "縮短工期",
       "減少二次施工"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34657,7 +34657,7 @@ window.MOEX_QUESTIONS = [
       "確認地下水位之高程",
       "決定建築物之容積率"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34691,7 +34691,7 @@ window.MOEX_QUESTIONS = [
       "乾式工法因不填縫，故在外牆防水上不利，無法克服",
       "乾式工法因不採用砂漿填滿石材與外牆之間的縫隙，所以可以避免產生白華"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34708,7 +34708,7 @@ window.MOEX_QUESTIONS = [
       "設置基樁之沉降觀測點",
       "逆打鋼支柱裝設應變計"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34759,7 +34759,7 @@ window.MOEX_QUESTIONS = [
       "3",
       "4"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34793,7 +34793,7 @@ window.MOEX_QUESTIONS = [
       "距柱心1.5 m 之範圍內設置第一條，設置之面積以不大於36 m2 為原則",
       "距柱心2.5 m 之範圍內設置第一條，設置之面積以不大於36 m2 為原則"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34810,7 +34810,7 @@ window.MOEX_QUESTIONS = [
       "75",
       "100"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34827,7 +34827,7 @@ window.MOEX_QUESTIONS = [
       "鋼筋混凝土構造會造成大量的碳排放",
       "鋼筋與混凝土有相同的抗壓與抗張力"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34844,7 +34844,7 @@ window.MOEX_QUESTIONS = [
       "採用細骨材",
       "混凝土加水 \n雙重壁 \n內防水 \n排水管導流 \n滲水 \n內防水 \n連續壁 基礎RC 結構 \n雙重壁 \n內防水 \n排水管導流 \n滲水 \n內防水 \n連續壁 基礎RC 結構\n雙重壁 \n內防水 \n排水管導流 \n滲水 \n內防水 \n連續壁 基礎RC 結構\n雙重壁 \n內防水 \n排水管導流 \n滲水 \n內防水 \n連續壁 基礎RC 結構 \n\n代號：3801\n頁次：10－9"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34878,7 +34878,7 @@ window.MOEX_QUESTIONS = [
       "做90 度彎鉤",
       "做束筋方式使用"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34912,7 +34912,7 @@ window.MOEX_QUESTIONS = [
       "主要鋼筋配置在中層",
       "主要鋼筋配置在下層"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34929,7 +34929,7 @@ window.MOEX_QUESTIONS = [
       "6",
       "7"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34946,7 +34946,7 @@ window.MOEX_QUESTIONS = [
       "施工前鋼料表面之有礙附著之雜質均應先清除",
       "輕鋼架隔間之上座板若固定於須施作防火被覆之構材上時，應先銲接於該構材上並塗防銹漆後，\n再施作防火被覆"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34963,7 +34963,7 @@ window.MOEX_QUESTIONS = [
       "1,000 mm",
       "1,200 mm"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34980,7 +34980,7 @@ window.MOEX_QUESTIONS = [
       "機廂內至少一側牆面應設置扶手",
       "昇降機廂內之點字標示『★』，表示為屋頂層"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -34997,7 +34997,7 @@ window.MOEX_QUESTIONS = [
       "100",
       "90"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35014,7 +35014,7 @@ window.MOEX_QUESTIONS = [
       "2.5 m",
       "3.0 m \n15 cmRC\n管道間維修孔\n60A 防火門 \n特別安全梯 \n排\n煙\n室\n \n15 cmRC\n管道間維修孔\n60A 防火門 \n安全梯 \n15 cmRC\n設備箱體12 cm 厚\n 管道間維修孔\n 60A 防火門 \n安全梯\n15 cmRC\n供行動不便者使用安全梯 \n\n代號：3801 \n頁次：10－10"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35031,7 +35031,7 @@ window.MOEX_QUESTIONS = [
       "試驗壓力不得小於10 kg/cm2；或該管路通水後所需承受最高水壓的1.2 倍，並須保持30 分鐘無滲\n漏現象，始為合格",
       "試驗壓力不得小於5 kg/cm2；或該管路通水後所需承受最高水壓的1.2 倍，並須保持60 分鐘無滲\n漏現象，始為合格"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35048,7 +35048,7 @@ window.MOEX_QUESTIONS = [
       "24 小時累積雨量達130 mm 以上",
       "24 小時累積雨量達200 mm 以上"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35099,7 +35099,7 @@ window.MOEX_QUESTIONS = [
       "③②②①",
       "①②③②"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35116,7 +35116,7 @@ window.MOEX_QUESTIONS = [
       "①③②",
       "①②②"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35133,7 +35133,7 @@ window.MOEX_QUESTIONS = [
       "監造單位核定後",
       "修正契約總價表，報經主辦機關核定後"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35150,7 +35150,7 @@ window.MOEX_QUESTIONS = [
       "承商提出，監造單位同意",
       "應經主辦機關同意"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35184,7 +35184,7 @@ window.MOEX_QUESTIONS = [
       "營造業專任工程人員",
       "監造建築師"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35201,7 +35201,7 @@ window.MOEX_QUESTIONS = [
       "監驗人員",
       "會驗人員"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35218,7 +35218,7 @@ window.MOEX_QUESTIONS = [
       "②③②",
       "①②②"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35235,7 +35235,7 @@ window.MOEX_QUESTIONS = [
       "監造是抽查施工廠商已完成或部分完成的工作",
       "監工是由建築師指導施工廠商的人員工作"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35269,7 +35269,7 @@ window.MOEX_QUESTIONS = [
       "便於工程結構設計之準確性",
       "便於工程數量計算之準確性"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35354,7 +35354,7 @@ window.MOEX_QUESTIONS = [
       "乙苯",
       "乙烯"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35371,7 +35371,7 @@ window.MOEX_QUESTIONS = [
       "理論上同緯度的兩地點之日照時數相同",
       "臺北盆地的可照時數比日照時數來得少"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35388,7 +35388,7 @@ window.MOEX_QUESTIONS = [
       "密閉空氣層中插入吸音材是為了減少構造重合（coincidence）頻率的影響",
       "隔音構造的共振控制段具有提高低頻附近隔音量效果"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35405,7 +35405,7 @@ window.MOEX_QUESTIONS = [
       "80 dB",
       "83 dB"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35422,7 +35422,7 @@ window.MOEX_QUESTIONS = [
       "各音響器材之頻率特性應力求頻率分布設定在常使用範圍內",
       "室內作吸音處理，以降低餘響時間"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35439,7 +35439,7 @@ window.MOEX_QUESTIONS = [
       "音壓級的單位為dB",
       "音功率級的單位為dB"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35456,7 +35456,7 @@ window.MOEX_QUESTIONS = [
       "污水濃度指標SS 是以水中含有的浮游物質的濃度來表示，單位為ppm",
       "DO 為水中溶氧量指標，排水中的DO 含量愈小，自然淨化作用愈強 \n\n代號：80140 \n頁次：4－3"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35473,7 +35473,7 @@ window.MOEX_QUESTIONS = [
       "辦公室每人每日用水量100～120 l",
       "一般建築物之受水槽容量常取每日用水量之1/2 倍來設計"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35524,7 +35524,7 @@ window.MOEX_QUESTIONS = [
       "外牆露出式配管",
       "樓梯間內配管"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35541,7 +35541,7 @@ window.MOEX_QUESTIONS = [
       "②③",
       "①② \nD③④"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35558,7 +35558,7 @@ window.MOEX_QUESTIONS = [
       "一棟建築物有2 台以上之瓦斯漏氣受信總機時，應具有相互連絡通話之功能",
       "瓦斯漏氣探測器不得設置於出風口1.5 m 以內之場所"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35592,7 +35592,7 @@ window.MOEX_QUESTIONS = [
       "電熱器",
       "滾筒式洗衣機"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35609,7 +35609,7 @@ window.MOEX_QUESTIONS = [
       "VRV",
       "輻射冷暖房"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35626,7 +35626,7 @@ window.MOEX_QUESTIONS = [
       "冰水泵",
       "空氣濾網"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35643,7 +35643,7 @@ window.MOEX_QUESTIONS = [
       "普通混凝土",
       "木材"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35711,7 +35711,7 @@ window.MOEX_QUESTIONS = [
       "室內牆壁顏色",
       "燈管壽命 \n\n代號：80140\n頁次：4－4"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35728,7 +35728,7 @@ window.MOEX_QUESTIONS = [
       "向上光通量占40～60%，向下光通量占10～40%",
       "向下光通量占10～40%，向上光通量占60～90%"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35762,7 +35762,7 @@ window.MOEX_QUESTIONS = [
       "從事低對比工作所需之照度低於高對比視覺工作之需要",
       "走道空間比辦公空間需要之照度較低"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35796,7 +35796,7 @@ window.MOEX_QUESTIONS = [
       "照明設備控制種類",
       "燈具種類"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35847,7 +35847,7 @@ window.MOEX_QUESTIONS = [
       "固定銀幕仰視能見度容許範圍為：席位之水平視線與觀看銀幕中心視線之夾角≦30°",
       "單一輪椅觀眾席位寬度不得小於90 cm；有多個輪椅觀眾席位時，每個空間寬度不得小於75 cm"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -35881,7 +35881,7 @@ window.MOEX_QUESTIONS = [
       "儲冰槽",
       "空調箱 \n橫拉窗\na \n固定窗\nA \n橫拉窗\na"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36000,7 +36000,7 @@ window.MOEX_QUESTIONS = [
       "依核定人數以每人0.75 平方公尺計算整體規劃附建",
       "防空避難室的規定已全面取消"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36034,7 +36034,7 @@ window.MOEX_QUESTIONS = [
       "資源化磚類建材包括陶、瓷、磚、瓦等需經窯燒之建材，其廢料混合攙配之總和使用比率須等於\n或超過單一廢料攙配比率",
       "建築物戶外地面扣除車道、汽車出入緩衝空間、消防車輛救災活動空間及無須鋪設地面材料部分，\n其地面材料之綠建材使用率應達5%以上"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36068,7 +36068,7 @@ window.MOEX_QUESTIONS = [
       "經內政部指定地區",
       "供公眾使用及公有建築物"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36085,7 +36085,7 @@ window.MOEX_QUESTIONS = [
       "水庫區",
       "國家公園區"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36102,7 +36102,7 @@ window.MOEX_QUESTIONS = [
       "咖啡廳",
       "補習班"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36119,7 +36119,7 @@ window.MOEX_QUESTIONS = [
       "建築物之改建應請領建造執照，修建應請領雜項執照",
       "整建係指改建、修建更新地區內建築物或充實其設備，並改進區內公共設施 \n\n代號：1801\n頁次：8－3"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36136,7 +36136,7 @@ window.MOEX_QUESTIONS = [
       "音響設備與結構工程",
       "庭園植栽與消防工程"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36153,7 +36153,7 @@ window.MOEX_QUESTIONS = [
       "設計人",
       "監造人"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36170,7 +36170,7 @@ window.MOEX_QUESTIONS = [
       "未依照核定工程圖樣及說明書施工者",
       "供公眾使用建築物公共安全檢查簽證內容不實者"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36187,7 +36187,7 @@ window.MOEX_QUESTIONS = [
       "分別通知承造人及起造人修改",
       "分別通知承造人及起造人修改，同時申報主管建築機關處理"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36221,7 +36221,7 @@ window.MOEX_QUESTIONS = [
       "應與委託人於事前約定工作酬金後方可進行服務，並事後補訂書面契約確認工作範圍",
       "應與委託人於事前約定工作範圍後方可進行服務，並於事後確認工作酬金"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36272,7 +36272,7 @@ window.MOEX_QUESTIONS = [
       "開業建築師",
       "公證機構之公證人員 \n\n代號：1801 \n頁次：8－4"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36289,7 +36289,7 @@ window.MOEX_QUESTIONS = [
       "應於60 天完成，情形特殊者，得予延長45 天為限",
       "應於30 天完成，情形特殊者，得予延長30 天為限"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36306,7 +36306,7 @@ window.MOEX_QUESTIONS = [
       "綠地",
       "兒童遊樂場"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36323,7 +36323,7 @@ window.MOEX_QUESTIONS = [
       "私有都巿計畫公共設施保留地",
       "已開闢之都巿計畫公共設施用地"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36340,7 +36340,7 @@ window.MOEX_QUESTIONS = [
       "都市更新之案件於審議時任何人民或團體僅得於審議後以書面向主管機關提出意見",
       "舉辦公聽會時，應邀請相關人等參加，並以傳單周知更新單元內門牌戶"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36357,7 +36357,7 @@ window.MOEX_QUESTIONS = [
       "2/3，Y：3/4 \nX",
       "2/3，Y：3/5"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36374,7 +36374,7 @@ window.MOEX_QUESTIONS = [
       "強制拆除費用由土地或地上物所有人、使用人或管理人負擔",
       "罰鍰經限期繳納而逾期不繳納者，可以移送法院強制執行 \n\n代號：1801\n頁次：8－5"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36391,7 +36391,7 @@ window.MOEX_QUESTIONS = [
       "古蹟保存用地由文化部會同建築管理、地政機關訂定",
       "生態保護、國土保安用地由行政院農業委員會會同建築管理、地政機關訂定"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36425,7 +36425,7 @@ window.MOEX_QUESTIONS = [
       "變更原開發計畫核准之主要公共設施、公用設備或必要性服務設施",
       "原核准開發計畫土地使用配置變更之面積已達原核准開發面積之1/3 或大於1 公頃以上"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36459,7 +36459,7 @@ window.MOEX_QUESTIONS = [
       "非都市土地特定農業區可以申請興建集村農舍",
       "申請興建農舍的農業用地，其農舍用地面積不得超過該農業用地面積的5%"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36476,7 +36476,7 @@ window.MOEX_QUESTIONS = [
       "共用",
       "專有"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36493,7 +36493,7 @@ window.MOEX_QUESTIONS = [
       "約定共用部分，指公寓大廈共用部分經約定供特定區分所有權人使用者",
       "公寓大廈內業經取得停車空間建築物所有權者亦稱為住戶 \n\n代號：1801 \n頁次：8－6"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36527,7 +36527,7 @@ window.MOEX_QUESTIONS = [
       "全體住戶",
       "管理委員會"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36544,7 +36544,7 @@ window.MOEX_QUESTIONS = [
       "共同壁雙方之區分所有權人共同負擔",
       "管理委員會決議負擔方式"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36561,7 +36561,7 @@ window.MOEX_QUESTIONS = [
       "由管理委員互推一人",
       "由起造人擔任"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36578,7 +36578,7 @@ window.MOEX_QUESTIONS = [
       "空調",
       "庭園景觀"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36595,7 +36595,7 @@ window.MOEX_QUESTIONS = [
       "將營造業登記證書或承攬工程手冊交由他人使用經營營造業業務者",
       "停業期間再行承攬工程者"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36663,7 +36663,7 @@ window.MOEX_QUESTIONS = [
       "非巨額工程採購，履約進度落後15%，且日數達10 日",
       "已完成履約但逾履約期限10%以下，且未超過10 日 \n\n代號：1801\n頁次：8－7"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36680,7 +36680,7 @@ window.MOEX_QUESTIONS = [
       "承包商",
       "主辦工程單位"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36697,7 +36697,7 @@ window.MOEX_QUESTIONS = [
       "①③④",
       "①②④"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36714,7 +36714,7 @@ window.MOEX_QUESTIONS = [
       "採購申訴審議委員會委員組成，由該管地方法院聘請社會賢達之公正人士擔任",
       "採購申訴審議委員會委員組成其中由政府高級人員派兼人數不得超過全體委員人數五分之一"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36731,7 +36731,7 @@ window.MOEX_QUESTIONS = [
       "①③④",
       "①②④"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36782,7 +36782,7 @@ window.MOEX_QUESTIONS = [
       "財務狀況",
       "員工薪資待遇"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36816,7 +36816,7 @@ window.MOEX_QUESTIONS = [
       "重要分包廠商及設備製造商資格之審查",
       "營建剩餘土石方處理方案之建議"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36850,7 +36850,7 @@ window.MOEX_QUESTIONS = [
       "施工",
       "品質督導 \n\n代號：1801 \n頁次：8－8"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36884,7 +36884,7 @@ window.MOEX_QUESTIONS = [
       "＝150，Y＝150，Z＝50 \nX",
       "＝180，Y＝150，Z＝30"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36901,7 +36901,7 @@ window.MOEX_QUESTIONS = [
       "②④",
       "①③④"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36918,7 +36918,7 @@ window.MOEX_QUESTIONS = [
       "供行動不便者使用之坡道，高低差21 公分時，其坡度最大不得超過1：10",
       "供行動不便者使用之汽車停車位寬度應在3.3 公尺以上"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36935,7 +36935,7 @@ window.MOEX_QUESTIONS = [
       "多個觀眾席，每個席位寬度不得小於85 公分",
       "建築物設有55 個固定座椅席位者，應設置輪椅觀眾席位1 個"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -36952,7 +36952,7 @@ window.MOEX_QUESTIONS = [
       "單一車位之長度為220 公分，寬度為200 公分",
       "停車位地面上應設置無障礙停車位標誌，標誌圖設計尺寸為60 公分×60 公分"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37054,7 +37054,7 @@ window.MOEX_QUESTIONS = [
       "1",
       "1\n− \nD2"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37071,7 +37071,7 @@ window.MOEX_QUESTIONS = [
       "指非金屬材料在長時間載重下，雖然載重未增加，變形卻不斷增加的現象",
       "脆性材料與韌性材料若能適當組合，仍可組成韌性構件，例如鋼筋混凝土"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37088,7 +37088,7 @@ window.MOEX_QUESTIONS = [
       "二次靜不定",
       "三次靜不定"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37105,7 +37105,7 @@ window.MOEX_QUESTIONS = [
       "4 個",
       "5 個"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37122,7 +37122,7 @@ window.MOEX_QUESTIONS = [
       "強柱弱梁設計與短柱現象有直接關聯",
       "窗台與柱之間切割隔離縫，可消除短柱現象"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37139,7 +37139,7 @@ window.MOEX_QUESTIONS = [
       "3",
       "4"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37156,7 +37156,7 @@ window.MOEX_QUESTIONS = [
       "混凝土中水灰比愈高則潛變量愈大",
       "混凝土中水灰比愈低則潛變量愈大"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37224,7 +37224,7 @@ window.MOEX_QUESTIONS = [
       "5",
       "6 \n建築物基本振動週期\n水平譜加速度係數"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37258,7 +37258,7 @@ window.MOEX_QUESTIONS = [
       "18",
       "12"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37275,7 +37275,7 @@ window.MOEX_QUESTIONS = [
       "4",
       "6"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37292,7 +37292,7 @@ window.MOEX_QUESTIONS = [
       "5",
       "3.6 \nB \nC \nA \n6 kN \n10 m \n12 m \nA \nB \n6 m \n4 m \n5 kN \n8 m \n8 m\n8 m\n8 m\nE \nH \nG \nF \n6 m \nA \nB \nC \nD \n12 k\n3 m \n3 m \n3 m \n10 kN\nA \nB \nC \nD \nE \nF \nG \nJ \nK \nL \nI \nH \n6@4 m=24 m\n\n代號：80120 \n頁次：7－6 \n \nl\nl\nl"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37309,7 +37309,7 @@ window.MOEX_QUESTIONS = [
       "構架①中的a 點彎矩大於構架②中的b 點彎矩",
       "構架①中的a 點水平位移大於構架②中的b 點水平位移"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37343,7 +37343,7 @@ window.MOEX_QUESTIONS = [
       "20",
       "25"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37377,7 +37377,7 @@ window.MOEX_QUESTIONS = [
       "塑性非線性法",
       "塑性線性法"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37394,7 +37394,7 @@ window.MOEX_QUESTIONS = [
       "未通過釘孔的延性破壞",
       "孔徑要比螺栓直徑大1.5 mm"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37411,7 +37411,7 @@ window.MOEX_QUESTIONS = [
       "1/3",
       "1/2"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37445,7 +37445,7 @@ window.MOEX_QUESTIONS = [
       "現行建築物耐震設計規範要求建築物於設計地震下結構體應保持在彈性限度內",
       "抗彎矩構架系統之中高層建築物，在地震中柱軸力所產生的變化，一般而言中柱比角隅柱小"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37462,7 +37462,7 @@ window.MOEX_QUESTIONS = [
       "長細比較小的構材，因為挫屈的影響，其容許壓應力較小",
       "韌性抗彎矩構架為了提高其韌性，對於可能產生塑鉸之柱或梁，應採用寬厚比較小的構材"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37496,7 +37496,7 @@ window.MOEX_QUESTIONS = [
       "剪力強度",
       "扭矩強度"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37530,7 +37530,7 @@ window.MOEX_QUESTIONS = [
       "高層建築若採用制震裝置，可抑制地震及風力所產生的振動",
       "採用中間層隔震的結構，考慮火災的發生，必須於隔震裝置施以耐火被覆 \n6 m \n6 m \n6 m \n8 m\n8 m\n8 m\n15 kN\nA \nB \nC \nD \nE \nF \nG"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37683,7 +37683,7 @@ window.MOEX_QUESTIONS = [
       "抗可視光線的透過率",
       "抗音的穿透率"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37700,7 +37700,7 @@ window.MOEX_QUESTIONS = [
       "過度加水",
       "搗實不足"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37717,7 +37717,7 @@ window.MOEX_QUESTIONS = [
       "香蕉水",
       "蒸餾水"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37734,7 +37734,7 @@ window.MOEX_QUESTIONS = [
       "預力混凝土構造較RC 構造之直接成本高，耐久性較差",
       "施用於短跨度構造時，較不合乎經濟性"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37751,7 +37751,7 @@ window.MOEX_QUESTIONS = [
       "圖中標示C 處樓版",
       "圖中標示D 處樓版"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37768,7 +37768,7 @@ window.MOEX_QUESTIONS = [
       "W03",
       "W04 \n構\n造\n大\n樣\nW01 \nW02 \nW03 \nW04 \n厚度dx\n[m] \n熱阻係數\nl/kx \n[m.K/W]\n外氣膜\n磁磚\n水泥砂漿\n鋼筋混凝土\n水泥砂漿\n內氣膜\n外氣膜\n覆土50CM 以上\n不織布排水版\n防水層\n水泥砂漿\nRC\n水泥砂漿\n內氣膜\n外氣膜\n磁磚\n水泥砂漿\n輕質混凝土\n水泥砂漿\n內氣膜\n外氣膜\n玻璃\n空氣層\n玻璃\n內氣膜\n玻璃磚\n玻\n璃\n磚\n牆\n----"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37819,7 +37819,7 @@ window.MOEX_QUESTIONS = [
       "淤泥再生陶粒具有30%的孔隙率吸水性高，配合景觀施作有利基地保水功能",
       "採用輕隔間有利於廢棄物減量的綠建築指標"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37836,7 +37836,7 @@ window.MOEX_QUESTIONS = [
       "加強高樓部分之結構系統，減輕低樓層之結構系統",
       "減少低樓層的梁柱系統 \n大梁\n樓版\n穿孔位置\n2h"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37853,7 +37853,7 @@ window.MOEX_QUESTIONS = [
       "跨度5 m 以上之木屋架須為桁架結構，使其各構材分別承受軸心拉力或壓力",
       "木構造建築物之簷高不得超過14 m，並不得超過四層樓。但供居住用途之木構造建築物，結構安\n全經中央主管建築機關審核認可者，簷高得不受限制"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37870,7 +37870,7 @@ window.MOEX_QUESTIONS = [
       "窗戶台度增加補強筋植入柱內可減少短柱效應",
       "短柱效應主要因施工品質不良所引起"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37887,7 +37887,7 @@ window.MOEX_QUESTIONS = [
       "西式木構住宅",
       "2×4 構築住宅\n室內側 \n陽台側 \n鋁門窗框 \n磚砌門檻 \n保護混凝土5cmTH \n水泥崁補 \n塞水路 \n塗膜防水層 \n室內側 \n陽台側 \n鋁門窗框\n水泥崁補 \n塞水路 \n塗膜防水層 \n貼面磚 \n室內側 \n陽台側 \n鋁門窗框 \n貼面磚 \n水泥崁補 \n塞水路 \n塗膜防水層 \n室內側 \n陽台側 \n鋁門窗框\n水泥崁補 \n塞水路 \n貼面磚 \n塗膜防水層 \n編竹\n木柱\n下塗\n中塗\n上塗\n木地檻 \n\n \n代號：3801\n頁次：12－5"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37904,7 +37904,7 @@ window.MOEX_QUESTIONS = [
       "①①①",
       "①①①"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37921,7 +37921,7 @@ window.MOEX_QUESTIONS = [
       "①①①①",
       "①①①①"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37955,7 +37955,7 @@ window.MOEX_QUESTIONS = [
       "構件耐久性佳",
       "涵蓋的空間彈性大"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -37989,7 +37989,7 @@ window.MOEX_QUESTIONS = [
       "15 m",
       "無限制"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38023,7 +38023,7 @@ window.MOEX_QUESTIONS = [
       "木構造若使用防蟻處理材，其橫向接合處或縱向接合處之加工部分無須再作防蟻藥劑處理",
       "設置防蟻之被覆金屬版，以防止白蟻由地面侵入"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38074,7 +38074,7 @@ window.MOEX_QUESTIONS = [
       "具有鋼構造的韌性，混凝土承載壓力防止鋼骨挫屈更增加了構造的剛性",
       "接合部因鋼筋配筋，澆置混凝土時較容易發生填充不良問題"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38091,7 +38091,7 @@ window.MOEX_QUESTIONS = [
       "部位3",
       "部位4"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38108,7 +38108,7 @@ window.MOEX_QUESTIONS = [
       "以感知器讓人員及早避難",
       "以避難指示標示指引人員避難"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38125,7 +38125,7 @@ window.MOEX_QUESTIONS = [
       "將透明玻璃門、牆採用強化玻璃，有助於防範撞傷",
       "外牆裝修磁磚脫落，與後方的黏貼材料有關，與磁磚本身無關"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38193,7 +38193,7 @@ window.MOEX_QUESTIONS = [
       "乙丙",
       "甲乙"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38210,7 +38210,7 @@ window.MOEX_QUESTIONS = [
       "A",
       "C"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38244,7 +38244,7 @@ window.MOEX_QUESTIONS = [
       "蛇紋石（Serpentinite）是呈綠色的大理石，質地緻密堅實有光澤，但因容易吸水破裂，所以不宜用\n於外裝",
       "花崗石為水成岩，耐久耐磨，故常用於室內廚房檯面"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38261,7 +38261,7 @@ window.MOEX_QUESTIONS = [
       "平拱兩端磚塊應砌入開口邊緣線兩側，其傾斜度與拱肩水平線成60 度",
       "砌築平拱時，其底部一定要保持絕對水平才能達到平拱的功能"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38295,7 +38295,7 @@ window.MOEX_QUESTIONS = [
       "防火塗料（防火漆）是另一種高效的防火材，除耐火性外，兼具一般塗料之裝飾性、工藝性和耐\n久性",
       "以混凝土包覆鋼柱，也是常用的鋼構防火手段"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38329,7 +38329,7 @@ window.MOEX_QUESTIONS = [
       "防水層如已確實做好，導水與排水措施是一種預防的輔助措施",
       "導水與排水設施如確實施作完善，防水層是可有可無的項目 \n結構基礎 \n地下管線\nA\nB\nC\nD\n\n \n代號：3801\n頁次：12－9"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38346,7 +38346,7 @@ window.MOEX_QUESTIONS = [
       "僅①",
       "僅①"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38397,7 +38397,7 @@ window.MOEX_QUESTIONS = [
       "模板支柱或支撐架應採用適當之墊板、墊座等妥為固定，以防止混凝土施工過程產生沈陷，導致\n意外",
       "混凝土澆置時，人員、機具在模板上活動之甬道，不可設置於鋼筋上"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38414,7 +38414,7 @@ window.MOEX_QUESTIONS = [
       "U 型",
       "X 型"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38448,7 +38448,7 @@ window.MOEX_QUESTIONS = [
       "連續壁",
       "人工擋土柱"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38516,7 +38516,7 @@ window.MOEX_QUESTIONS = [
       "①①①①",
       "①①①①"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38533,7 +38533,7 @@ window.MOEX_QUESTIONS = [
       "發現石材暗裂必須即時更換石材",
       "採用無填縫（Open Joint）施工，可避免填縫材老化之污染問題發生"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38550,7 +38550,7 @@ window.MOEX_QUESTIONS = [
       "①室外消防栓箱 ①室內消防栓箱 ①水霧頭 ①手提滅火器",
       "①室外消防栓箱 ①室內消防栓箱 ①手提滅火器 ⑤水霧頭"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38601,7 +38601,7 @@ window.MOEX_QUESTIONS = [
       "控管施工廠商採行之工作程序",
       "負責工地之施工安全及品管"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38635,7 +38635,7 @@ window.MOEX_QUESTIONS = [
       "建築師秉其專業之高度，與主管機關相同，負責三級品管",
       "與承包商休戚與共，共同負責一級品管"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38669,7 +38669,7 @@ window.MOEX_QUESTIONS = [
       "傳統大木師傅身兼設計與施工，可說與今日之統包相仿",
       "統包制使業主將設計與施工責任歸屬單一化，有利於成本與時間之管控"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38720,7 +38720,7 @@ window.MOEX_QUESTIONS = [
       "僅①①①",
       "僅①①①"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38754,7 +38754,7 @@ window.MOEX_QUESTIONS = [
       "單價",
       "規格"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38771,7 +38771,7 @@ window.MOEX_QUESTIONS = [
       "水準點",
       "地層面"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38788,7 +38788,7 @@ window.MOEX_QUESTIONS = [
       "牆面最高，其次為地坪，平頂最低",
       "地坪最高，平頂與牆面則是相同"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38805,7 +38805,7 @@ window.MOEX_QUESTIONS = [
       "B 廠的品控優於A 廠",
       "無法判定"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38822,7 +38822,7 @@ window.MOEX_QUESTIONS = [
       "由建築師委託材料廠商繪製，施工單位施作",
       "由施工單位繪製，經建築師核可業主備查後施作"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38856,7 +38856,7 @@ window.MOEX_QUESTIONS = [
       "真空試驗",
       "滲透檢驗"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38941,7 +38941,7 @@ window.MOEX_QUESTIONS = [
       "二甲苯",
       "苯乙烯"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -38992,7 +38992,7 @@ window.MOEX_QUESTIONS = [
       "氣溫是影響聲音傳播的因素之一",
       "聲音傳播透過固體表面放射是傳播途徑之一"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39009,7 +39009,7 @@ window.MOEX_QUESTIONS = [
       "空調出風口設置消音箱，降低背景噪音",
       "於觀眾席上方吊掛吸音體"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39026,7 +39026,7 @@ window.MOEX_QUESTIONS = [
       "單層牆壁之聲音透過損失會隨壁體之單位面積重量增加而變大",
       "正常人之聽力，其可聽頻率範圍在20 Hz～20K Hz 之間 \n中午14 時 \n晚上22 時 \n20% \n20%\n\n 代號：80140 \n頁次：4－3"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39094,7 +39094,7 @@ window.MOEX_QUESTIONS = [
       "設置溢流口與開放式排水口空間",
       "受水槽應設置人孔，方便日常維修"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39111,7 +39111,7 @@ window.MOEX_QUESTIONS = [
       "單回路受電",
       "雙回路受電"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39128,7 +39128,7 @@ window.MOEX_QUESTIONS = [
       "利於維護與清潔之需",
       "排除浴廁及衛生器具產生之味道"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39145,7 +39145,7 @@ window.MOEX_QUESTIONS = [
       "進相電容器",
       "電磁式安定器"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39162,7 +39162,7 @@ window.MOEX_QUESTIONS = [
       "需要對應於建築物的防火區劃",
       "當排煙設備啟動時，連動停止空調換氣設備之運轉"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39179,7 +39179,7 @@ window.MOEX_QUESTIONS = [
       "FCU 空調系統",
       "VRV 空調系統"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39196,7 +39196,7 @@ window.MOEX_QUESTIONS = [
       "相等容量之吸收式冷凍機較其他型式冷凍機，所占空間較大",
       "若能利用廢熱時，可考慮採用吸收式冷凍機"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39230,7 +39230,7 @@ window.MOEX_QUESTIONS = [
       "T2>T4>T1>T3",
       "T2>Tl>T4>T3"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39264,7 +39264,7 @@ window.MOEX_QUESTIONS = [
       "空調箱",
       "冰水盤管"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39281,7 +39281,7 @@ window.MOEX_QUESTIONS = [
       "燈管不閃爍",
       "產生較大噪音"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39298,7 +39298,7 @@ window.MOEX_QUESTIONS = [
       "20",
       "22"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39315,7 +39315,7 @@ window.MOEX_QUESTIONS = [
       "局部照明",
       "分區全面照明"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39332,7 +39332,7 @@ window.MOEX_QUESTIONS = [
       "色溫度升高時由冷色逐漸轉為暖色",
       "鈉燈之光色偏藍"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39349,7 +39349,7 @@ window.MOEX_QUESTIONS = [
       "拆除之固體廢棄物",
       "施工之排放水"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39366,7 +39366,7 @@ window.MOEX_QUESTIONS = [
       "0.15",
       "1.5"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39383,7 +39383,7 @@ window.MOEX_QUESTIONS = [
       "透過小生物物種提升作為本指標評估依據",
       "指標基準值是依照基地條件所屬類型而有所不同"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39417,7 +39417,7 @@ window.MOEX_QUESTIONS = [
       "以灑水或噴霧冷卻處理之鋪面或路面",
       "透水鋪面"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39451,7 +39451,7 @@ window.MOEX_QUESTIONS = [
       "15",
       "20 \nT3 \nT4 \n(AHU) \nT2 \nT1"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39604,7 +39604,7 @@ window.MOEX_QUESTIONS = [
       "甲：不得小於1/10,000 \n乙：不得小於1/1,500",
       "甲：不得小於1/5,000 \n乙：不得小於1/1,500"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39621,7 +39621,7 @@ window.MOEX_QUESTIONS = [
       "190",
       "200"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39638,7 +39638,7 @@ window.MOEX_QUESTIONS = [
       "變更立面窗戶尺寸",
       "變更昇降機位置"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39655,7 +39655,7 @@ window.MOEX_QUESTIONS = [
       "①④",
       "③⑤"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39689,7 +39689,7 @@ window.MOEX_QUESTIONS = [
       "觀眾席外面二側之走廊",
       "觀眾席外面後側之走廊"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39706,7 +39706,7 @@ window.MOEX_QUESTIONS = [
       "建築技術規則「建築構造編」",
       "建築技術規則「建築設計施工編」"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39757,7 +39757,7 @@ window.MOEX_QUESTIONS = [
       "L2+L3+L4+L5+L6",
       "L2+L4+L6"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39774,7 +39774,7 @@ window.MOEX_QUESTIONS = [
       "辦公室",
       "員工餐廳、廚房"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39791,7 +39791,7 @@ window.MOEX_QUESTIONS = [
       "補習班教室",
       "一般辦公室"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39808,7 +39808,7 @@ window.MOEX_QUESTIONS = [
       "原領室內裝修審核合格文件",
       "其他經內政部指定文件"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39825,7 +39825,7 @@ window.MOEX_QUESTIONS = [
       "400",
       "500"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39842,7 +39842,7 @@ window.MOEX_QUESTIONS = [
       "通達特別安全梯之最小寬度不得小於4 m",
       "連接之外牆及開設之門窗至少具有一小時以上防火時效"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39859,7 +39859,7 @@ window.MOEX_QUESTIONS = [
       "300",
       "500"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39876,7 +39876,7 @@ window.MOEX_QUESTIONS = [
       "具一小時以上防火時效及半小時以上阻熱性能之防火門",
       "免具防火時效的不燃材料門"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39944,7 +39944,7 @@ window.MOEX_QUESTIONS = [
       "高層建築物防災中心的外牆及防火門",
       "高層建築物區劃分隔設有燃氣設備空間的牆壁與防火門窗"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39961,7 +39961,7 @@ window.MOEX_QUESTIONS = [
       "④⑥",
       "⑤⑥"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -39978,7 +39978,7 @@ window.MOEX_QUESTIONS = [
       "地下室最大開挖率為基地面積之75%",
       "出入口緩衝空間最小為寬6 m，長12 m"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40012,7 +40012,7 @@ window.MOEX_QUESTIONS = [
       "3 m2，一小時防火時效",
       "3 m2，半小時防火時效"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40046,7 +40046,7 @@ window.MOEX_QUESTIONS = [
       "1,500",
       "2,000"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40063,7 +40063,7 @@ window.MOEX_QUESTIONS = [
       "地下通道之天花板淨高不得小於3 m，但有防煙壁、廣告物之處除外",
       "地下通道末端，不與其他地下通道相連者，應設出入口通達地面道路或永久空地"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40080,7 +40080,7 @@ window.MOEX_QUESTIONS = [
       "15",
       "25"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40097,7 +40097,7 @@ window.MOEX_QUESTIONS = [
       "地區性之公共設施用地",
       "主要上下水道系統 \n\n \n代號：1801\n頁次：8－5"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40131,7 +40131,7 @@ window.MOEX_QUESTIONS = [
       "1 年",
       "6 個月"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40148,7 +40148,7 @@ window.MOEX_QUESTIONS = [
       "②③④",
       "①④⑤"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40165,7 +40165,7 @@ window.MOEX_QUESTIONS = [
       "③④⑤",
       "①③④"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40182,7 +40182,7 @@ window.MOEX_QUESTIONS = [
       "都市計畫公共設施保留地",
       "都市計畫表明應予保存或經主管機關認定有保存價值之建築所定著之土地"
     ],
-    "answer": 2,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40199,7 +40199,7 @@ window.MOEX_QUESTIONS = [
       "實施者已取得更新單元內，全體私有土地及私有合法建築物所有權人同意者，至少公開展覽15 日",
       "採整建，維護方式辦理之更新單元，已取得全體私有土地及私有合法建築物所有權人同意者，得\n免舉辦公聽會"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40233,7 +40233,7 @@ window.MOEX_QUESTIONS = [
       "工業區以外位於依法核准設廠用地範圍內，為丁種建築用地所包圍或夾雜土地，經工業主管機關\n審查認定得合併供工業使用者，得申請變更編定為丁種建築用地",
       "山坡地保育區領有工廠登記證者，經工業主管機關審查認定得供工業使用者，得申請變更編定為\n丙種建築用地"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40250,7 +40250,7 @@ window.MOEX_QUESTIONS = [
       "五股工業區",
       "屏東農業科技園區"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40284,7 +40284,7 @@ window.MOEX_QUESTIONS = [
       "夾雜地維持原使用分區及原使用地類別",
       "面積超過基地開發面積1/10 \n\n 代號：1801 \n頁次：8－6"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40318,7 +40318,7 @@ window.MOEX_QUESTIONS = [
       "礦業、窯業、交通、水利用地",
       "遊憩、古蹟保存、生態保護、國土保安、殯葬用地"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40335,7 +40335,7 @@ window.MOEX_QUESTIONS = [
       "四萬元以上，二十萬元以下",
       "三十萬元以上，五十萬元以下"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40352,7 +40352,7 @@ window.MOEX_QUESTIONS = [
       "應有區分所有權人1/2 及其區分所有權比例2/3 以上",
       "應有區分所有權人2/3 以上及其區分所有權比例合計2/3 以上"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40369,7 +40369,7 @@ window.MOEX_QUESTIONS = [
       "5",
       "6"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40386,7 +40386,7 @@ window.MOEX_QUESTIONS = [
       "3",
       "4"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40420,7 +40420,7 @@ window.MOEX_QUESTIONS = [
       "①②⑤",
       "①②③"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40454,7 +40454,7 @@ window.MOEX_QUESTIONS = [
       "機關辦理工程驗收時，主（會）計單位不須會同監辦",
       "避免國外廠商參加，盡量使開標作業單純化"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40471,7 +40471,7 @@ window.MOEX_QUESTIONS = [
       "公共工程委員會",
       "公平交易委員會"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40505,7 +40505,7 @@ window.MOEX_QUESTIONS = [
       "③④",
       "①②"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40522,7 +40522,7 @@ window.MOEX_QUESTIONS = [
       "技師事務所可提供規劃、設計、監造服務",
       "技術服務依法令應由專門職業及技術人員或法定機構提供者，不得由其他人員或機構提供"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40539,7 +40539,7 @@ window.MOEX_QUESTIONS = [
       "違反轉包規定並依規定刊登於政府採購公報者，於1 年內不得參加投標或作為決標對象或分包廠商",
       "得標廠商違反轉包規定，機關得解除契約、終止契約、沒收保證金、損害賠償 \n\n \n代號：1801\n頁次：8－7"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40556,7 +40556,7 @@ window.MOEX_QUESTIONS = [
       "災後工程",
       "優質工程"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40573,7 +40573,7 @@ window.MOEX_QUESTIONS = [
       "丙種建築用地",
       "丁種建築用地"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40590,7 +40590,7 @@ window.MOEX_QUESTIONS = [
       "財物之承租",
       "土地之出租"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40607,7 +40607,7 @@ window.MOEX_QUESTIONS = [
       "經內政部都市計畫委員會審議通過後，得移轉至同一直轄市、縣（市）之其他主要計畫地區",
       "容積一經移轉，古蹟保存用地之管制，不得任意解除"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40624,7 +40624,7 @@ window.MOEX_QUESTIONS = [
       "測量及鑽探費",
       "差旅公務費用"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40641,7 +40641,7 @@ window.MOEX_QUESTIONS = [
       "三",
       "四"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40658,7 +40658,7 @@ window.MOEX_QUESTIONS = [
       "35%",
       "25%"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40692,7 +40692,7 @@ window.MOEX_QUESTIONS = [
       "採購申訴審議判斷，視同法院判決",
       "採購申訴審議委員會應於收受申訴書之次日起40 日內完成審議"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40709,7 +40709,7 @@ window.MOEX_QUESTIONS = [
       "3/4",
       "4/5"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40726,7 +40726,7 @@ window.MOEX_QUESTIONS = [
       "坡道兩側應設扶手，單道扶手上緣高75 cm，雙道扶手上緣高65 cm 及85 cm",
       "坡道既設有護欄，即可免設高度5 cm 以上之防護緣"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40743,7 +40743,7 @@ window.MOEX_QUESTIONS = [
       "公寓大廈起造人或建築業者，非經領得使用執照，不得辦理銷售",
       "起造人就公寓大廈領得使用執照3 年內，設置公共基金 \n\n 代號：1801 \n頁次：8－8"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40760,7 +40760,7 @@ window.MOEX_QUESTIONS = [
       "為利古蹟、歷史建築及聚落之修復及再利用，有關其建築管理、土地使用及消防安全等事項，不\n受都市計畫法、建築法、消防法及其相關法規全部或一部分之限制",
       "私有古蹟、歷史建築及聚落之管理維護、修復再利用所需經費，主管機關得酌予補助"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40777,7 +40777,7 @@ window.MOEX_QUESTIONS = [
       "特別景觀區內得為溫泉水源之利用",
       "公有土地內設置之生態保護區，得為採集標本"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40794,7 +40794,7 @@ window.MOEX_QUESTIONS = [
       "都市計畫法",
       "建築法"
     ],
-    "answer": 0,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40811,7 +40811,7 @@ window.MOEX_QUESTIONS = [
       "毀損古蹟之全部、一部或其附屬設施，處5 年以下有期徒刑、拘役或科或併科新臺幣20 萬元以上\n100 萬元以下罰金",
       "私有歷史建築、聚落、文化景觀及其所定著土地，免徵房屋稅及地價稅"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40828,7 +40828,7 @@ window.MOEX_QUESTIONS = [
       "農舍用地內通路之任一側應增設寬度1.5 m 以上之人行步道通達各棟農舍",
       "應設置之公共設施，公園綠地以每棟6 m2 計算"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40879,7 +40879,7 @@ window.MOEX_QUESTIONS = [
       "屬於規定法規之施行事項或就法規另行補充解釋者稱之「細則」，如區域計畫法施行細則",
       "屬於規定機關組織、處務準據者稱之「規程」，如營造業組織規程"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40964,7 +40964,7 @@ window.MOEX_QUESTIONS = [
       "極限強度（ultimate strength）",
       "破裂強度（fracture strength）"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -40981,7 +40981,7 @@ window.MOEX_QUESTIONS = [
       "a=b=c",
       "c>a>b"
     ],
-    "answer": 1,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -41015,7 +41015,7 @@ window.MOEX_QUESTIONS = [
       "3.9",
       "5.2"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -41032,7 +41032,7 @@ window.MOEX_QUESTIONS = [
       "約在D 點之塑性段中央點附近",
       "約在E 點之塑性段終點附近"
     ],
-    "answer": 3,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -41066,7 +41066,7 @@ window.MOEX_QUESTIONS = [
       "6",
       "8"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -41117,7 +41117,7 @@ window.MOEX_QUESTIONS = [
       "P/2",
       "4P \n \n \n地震側力 \n位移 \nO \nA \nB \nC \nD\nE\nA\nB\nC\nD\nO\nE\nW\nW\nW\nW\nW \n3 m \n6@3 m=18 m \n2 m \nEI\n2EI\n3 m \n\n \n代號：80120\n頁次：8－5"
     ],
-    "answer": 3,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -41134,7 +41134,7 @@ window.MOEX_QUESTIONS = [
       "2 P 向右上方45°",
       "2 P 向左下方45°"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -41151,7 +41151,7 @@ window.MOEX_QUESTIONS = [
       "5 L",
       "10 L"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -41185,7 +41185,7 @@ window.MOEX_QUESTIONS = [
       "Kd>Ka>Kc",
       "Kb>Kd>Kc"
     ],
-    "answer": 1,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -41236,7 +41236,7 @@ window.MOEX_QUESTIONS = [
       "a、b",
       "b、c"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -41270,7 +41270,7 @@ window.MOEX_QUESTIONS = [
       "5",
       "10"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -41287,7 +41287,7 @@ window.MOEX_QUESTIONS = [
       "距端點L/4",
       "均勻內力矩分布"
     ],
-    "answer": 0,
+    "answer": 1,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -41304,7 +41304,7 @@ window.MOEX_QUESTIONS = [
       "混凝土抗壓強度愈大者，中性化速度愈緩慢",
       "混凝土規定抗壓強度\n'cf 為混凝土28 日齡期之試驗極限強度"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -41321,7 +41321,7 @@ window.MOEX_QUESTIONS = [
       "破壞包絡面之橫斷面略呈正方形",
       "破壞包絡面之橫斷面略呈四分之一圓形"
     ],
-    "answer": 0,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -41338,7 +41338,7 @@ window.MOEX_QUESTIONS = [
       "柱的抗彎強度要比梁的抗彎強度大",
       "梁的抗彎強度要比柱的抗彎強度大"
     ],
-    "answer": 3,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -41355,7 +41355,7 @@ window.MOEX_QUESTIONS = [
       "0.005",
       "0.05"
     ],
-    "answer": 2,
+    "answer": 0,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -41372,7 +41372,7 @@ window.MOEX_QUESTIONS = [
       "梁剪力",
       "梁彎矩"
     ],
-    "answer": 2,
+    "answer": 3,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -41389,7 +41389,7 @@ window.MOEX_QUESTIONS = [
       "提高抗拉強度",
       "提高側向勁度"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
@@ -41423,7 +41423,7 @@ window.MOEX_QUESTIONS = [
       "增加抵禦側力之結構系統",
       "施工工期加長"
     ],
-    "answer": 1,
+    "answer": 2,
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
