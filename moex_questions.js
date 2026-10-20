@@ -15,7 +15,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-construction-10",
@@ -32,7 +37,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-construction-11",
@@ -49,7 +59,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-construction-12",
@@ -66,7 +81,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-construction-13",
@@ -83,7 +103,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-construction-14",
@@ -100,7 +125,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-construction-15",
@@ -117,7 +147,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "114-construction-16",
@@ -134,7 +169,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "114-construction-17",
@@ -151,7 +191,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "114-construction-18",
@@ -168,7 +213,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "114-construction-19",
@@ -185,7 +235,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "114-construction-2",
@@ -202,7 +257,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-construction-20",
@@ -219,7 +279,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "114-construction-21",
@@ -236,7 +301,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "114-construction-22",
@@ -253,7 +323,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "114-construction-23",
@@ -270,7 +345,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "114-construction-24",
@@ -287,7 +367,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-construction-25",
@@ -304,7 +389,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-construction-26",
@@ -321,7 +411,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-construction-27",
@@ -338,7 +433,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-construction-28",
@@ -355,7 +455,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-construction-29",
@@ -372,7 +477,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-construction-3",
@@ -389,7 +499,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-construction-30",
@@ -406,7 +521,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-construction-31",
@@ -423,7 +543,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-construction-32",
@@ -440,7 +565,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-construction-33",
@@ -457,7 +587,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-construction-34",
@@ -474,7 +609,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-construction-35",
@@ -491,7 +631,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-construction-36",
@@ -508,7 +653,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-construction-37",
@@ -525,7 +675,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-construction-38",
@@ -542,7 +697,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-construction-39",
@@ -559,7 +719,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-construction-4",
@@ -576,7 +741,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-construction-41",
@@ -593,7 +763,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-construction-42",
@@ -610,7 +785,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-construction-43",
@@ -627,7 +807,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-construction-44",
@@ -644,7 +829,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-construction-45",
@@ -661,7 +851,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-construction-46",
@@ -678,7 +873,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-construction-47",
@@ -695,7 +895,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-construction-48",
@@ -712,7 +917,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "114-construction-5",
@@ -729,7 +939,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-construction-50",
@@ -746,7 +961,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "114-construction-51",
@@ -763,7 +983,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "114-construction-52",
@@ -780,7 +1005,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "114-construction-53",
@@ -797,7 +1027,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "114-construction-54",
@@ -814,7 +1049,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "114-construction-55",
@@ -831,7 +1071,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "114-construction-56",
@@ -848,7 +1093,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "114-construction-57",
@@ -865,7 +1115,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "114-construction-58",
@@ -916,7 +1171,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-construction-60",
@@ -1018,7 +1278,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "114-construction-66",
@@ -1035,7 +1300,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "114-construction-67",
@@ -1052,7 +1322,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "114-construction-68",
@@ -1069,7 +1344,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "114-construction-69",
@@ -1086,7 +1366,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "114-construction-7",
@@ -1103,7 +1388,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-construction-70",
@@ -1120,7 +1410,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "114-construction-71",
@@ -1137,7 +1432,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "114-construction-72",
@@ -1154,7 +1454,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "114-construction-73",
@@ -1171,7 +1476,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "114-construction-74",
@@ -1188,7 +1498,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "114-construction-75",
@@ -1205,7 +1520,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "114-construction-76",
@@ -1222,7 +1542,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "114-construction-77",
@@ -1239,7 +1564,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "114-construction-78",
@@ -1256,7 +1586,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "114-construction-79",
@@ -1273,7 +1608,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "114-construction-8",
@@ -1290,7 +1630,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-construction-80",
@@ -1307,7 +1652,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "114-construction-9",
@@ -1324,7 +1674,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築構造與施工"
+    "source": "114_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2025-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-environment-1",
@@ -1341,7 +1696,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築環境控制"
+    "source": "114_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2025-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-environment-10",
@@ -1528,7 +1888,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築環境控制"
+    "source": "114_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2025-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-environment-20",
@@ -1647,7 +2012,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築環境控制"
+    "source": "114_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2025-environment-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-environment-27",
@@ -1664,7 +2034,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築環境控制"
+    "source": "114_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2025-environment-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-environment-28",
@@ -1681,7 +2056,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築環境控制"
+    "source": "114_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2025-environment-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-environment-29",
@@ -1698,7 +2078,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築環境控制"
+    "source": "114_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2025-environment-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-environment-3",
@@ -1715,7 +2100,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築環境控制"
+    "source": "114_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2025-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-environment-30",
@@ -1732,7 +2122,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築環境控制"
+    "source": "114_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2025-environment-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-environment-31",
@@ -1749,7 +2144,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築環境控制"
+    "source": "114_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2025-environment-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-environment-32",
@@ -1766,7 +2166,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築環境控制"
+    "source": "114_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2025-environment-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-environment-33",
@@ -1783,7 +2188,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築環境控制"
+    "source": "114_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2025-environment-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-environment-34",
@@ -1902,7 +2312,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築環境控制"
+    "source": "114_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2025-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-environment-40",
@@ -1936,7 +2351,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築環境控制"
+    "source": "114_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2025-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-environment-6",
@@ -1953,7 +2373,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築環境控制"
+    "source": "114_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2025-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-environment-7",
@@ -1970,7 +2395,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築環境控制"
+    "source": "114_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2025-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-environment-8",
@@ -1987,7 +2417,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築環境控制"
+    "source": "114_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2025-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-environment-9",
@@ -2004,7 +2439,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築環境控制"
+    "source": "114_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2025-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-law-1",
@@ -2021,7 +2461,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-law-10",
@@ -2038,7 +2483,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-law-11",
@@ -2055,7 +2505,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-law-12",
@@ -2072,7 +2527,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-law-13",
@@ -2089,7 +2549,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-law-14",
@@ -2106,7 +2571,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-law-15",
@@ -2123,7 +2593,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-law-16",
@@ -2140,7 +2615,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-law-17",
@@ -2157,7 +2637,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-law-18",
@@ -2174,7 +2659,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-law-19",
@@ -2208,7 +2698,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-law-20",
@@ -2395,7 +2890,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-law-30",
@@ -2412,7 +2912,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-law-31",
@@ -2429,7 +2934,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-law-32",
@@ -2446,7 +2956,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-law-33",
@@ -2463,7 +2978,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-law-34",
@@ -2480,7 +3000,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-law-35",
@@ -2497,7 +3022,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-law-36",
@@ -2514,7 +3044,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-law-37",
@@ -2531,7 +3066,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-law-38",
@@ -2548,7 +3088,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-law-39",
@@ -2565,7 +3110,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-law-4",
@@ -2582,7 +3132,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-law-40",
@@ -2599,7 +3154,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-law-41",
@@ -2616,7 +3176,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-law-42",
@@ -2633,7 +3198,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-law-43",
@@ -2650,7 +3220,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-law-44",
@@ -2667,7 +3242,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-law-45",
@@ -2684,7 +3264,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-law-46",
@@ -2701,7 +3286,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-law-47",
@@ -2718,7 +3308,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-law-48",
@@ -2735,7 +3330,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-law-49",
@@ -2752,7 +3352,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-law-5",
@@ -2769,7 +3374,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-law-50",
@@ -2786,7 +3396,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-law-51",
@@ -2803,7 +3418,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-law-52",
@@ -2820,7 +3440,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-law-53",
@@ -2837,7 +3462,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-law-54",
@@ -2854,7 +3484,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-law-55",
@@ -2871,7 +3506,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-law-56",
@@ -2888,7 +3528,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-law-57",
@@ -2905,7 +3550,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-law-58",
@@ -2922,7 +3572,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-law-59",
@@ -2939,7 +3594,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-law-6",
@@ -2956,7 +3616,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-law-60",
@@ -2973,7 +3638,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-law-61",
@@ -2990,7 +3660,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-law-62",
@@ -3007,7 +3682,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-law-63",
@@ -3024,7 +3704,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "114-law-64",
@@ -3041,7 +3726,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "114-law-65",
@@ -3058,7 +3748,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "114-law-66",
@@ -3075,7 +3770,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "114-law-67",
@@ -3092,7 +3792,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "114-law-68",
@@ -3109,7 +3814,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "114-law-69",
@@ -3126,7 +3836,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "114-law-7",
@@ -3143,7 +3858,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-law-70",
@@ -3160,7 +3880,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "114-law-71",
@@ -3177,7 +3902,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "114-law-72",
@@ -3330,7 +4060,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-law-80",
@@ -3364,7 +4099,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_營建法規與實務"
+    "source": "114_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2025-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-structure-1",
@@ -3381,7 +4121,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-structure-10",
@@ -3398,7 +4143,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "114-structure-11",
@@ -3415,7 +4165,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "114-structure-12",
@@ -3432,7 +4187,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "114-structure-13",
@@ -3449,7 +4209,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "114-structure-14",
@@ -3466,7 +4231,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "114-structure-15",
@@ -3483,7 +4253,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "114-structure-17",
@@ -3500,7 +4275,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-structure-18",
@@ -3517,7 +4297,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-structure-19",
@@ -3534,7 +4319,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "114-structure-2",
@@ -3551,7 +4341,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "114-structure-20",
@@ -3568,7 +4363,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-structure-21",
@@ -3585,7 +4385,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-structure-22",
@@ -3602,7 +4407,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-structure-23",
@@ -3619,7 +4429,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "114-structure-26",
@@ -3636,7 +4451,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-structure-27",
@@ -3653,7 +4473,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "114-structure-28",
@@ -3670,7 +4495,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "114-structure-29",
@@ -3687,7 +4517,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "114-structure-3",
@@ -3704,7 +4539,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-structure-30",
@@ -3721,7 +4561,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "114-structure-31",
@@ -3738,7 +4583,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "114-structure-32",
@@ -3755,7 +4605,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "114-structure-33",
@@ -3772,7 +4627,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "114-structure-34",
@@ -3891,7 +4751,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-structure-40",
@@ -3925,7 +4790,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-structure-6",
@@ -3942,7 +4812,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-structure-7",
@@ -3959,7 +4834,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-structure-8",
@@ -3976,7 +4856,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "114-structure-9",
@@ -3993,7 +4878,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "114_建築結構"
+    "source": "114_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2025-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-construction-1",
@@ -4010,7 +4900,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "113-construction-10",
@@ -4027,7 +4922,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-construction-11",
@@ -4044,7 +4944,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-construction-12",
@@ -4061,7 +4966,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-construction-13",
@@ -4078,7 +4988,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-construction-14",
@@ -4095,7 +5010,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-construction-15",
@@ -4112,7 +5032,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-construction-16",
@@ -4129,7 +5054,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-construction-17",
@@ -4146,7 +5076,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-construction-18",
@@ -4163,7 +5098,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-construction-19",
@@ -4180,7 +5120,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-construction-2",
@@ -4197,7 +5142,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "113-construction-20",
@@ -4214,7 +5164,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-construction-21",
@@ -4231,7 +5186,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-construction-22",
@@ -4248,7 +5208,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-construction-23",
@@ -4265,7 +5230,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-construction-24",
@@ -4282,7 +5252,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-construction-25",
@@ -4299,7 +5274,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-construction-26",
@@ -4316,7 +5296,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "113-construction-27",
@@ -4333,7 +5318,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "113-construction-28",
@@ -4350,7 +5340,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "113-construction-29",
@@ -4367,7 +5362,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "113-construction-3",
@@ -4384,7 +5384,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "113-construction-30",
@@ -4401,7 +5406,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "113-construction-31",
@@ -4418,7 +5428,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "113-construction-32",
@@ -4435,7 +5450,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "113-construction-33",
@@ -4452,7 +5472,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-construction-34",
@@ -4469,7 +5494,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-construction-35",
@@ -4486,7 +5516,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-construction-36",
@@ -4503,7 +5538,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-construction-37",
@@ -4520,7 +5560,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-construction-38",
@@ -4537,7 +5582,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-construction-39",
@@ -4554,7 +5604,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-construction-4",
@@ -4571,7 +5626,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "113-construction-40",
@@ -4588,7 +5648,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-construction-41",
@@ -4605,7 +5670,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-construction-42",
@@ -4622,7 +5692,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "113-construction-43",
@@ -4639,7 +5714,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "113-construction-44",
@@ -4656,7 +5736,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "113-construction-45",
@@ -4673,7 +5758,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "113-construction-46",
@@ -4690,7 +5780,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "113-construction-47",
@@ -4707,7 +5802,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "113-construction-48",
@@ -4724,7 +5824,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "113-construction-49",
@@ -4741,7 +5846,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "113-construction-5",
@@ -4758,7 +5868,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "113-construction-50",
@@ -4775,7 +5890,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "113-construction-51",
@@ -4792,7 +5912,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "113-construction-52",
@@ -4809,7 +5934,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "113-construction-53",
@@ -4826,7 +5956,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "113-construction-54",
@@ -4843,7 +5978,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "113-construction-56",
@@ -4860,7 +6000,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "113-construction-57",
@@ -4877,7 +6022,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "113-construction-58",
@@ -4894,7 +6044,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "113-construction-59",
@@ -4911,7 +6066,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "113-construction-60",
@@ -4928,7 +6088,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "113-construction-61",
@@ -4945,7 +6110,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "113-construction-62",
@@ -4962,7 +6132,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "113-construction-63",
@@ -4979,7 +6154,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "113-construction-64",
@@ -4996,7 +6176,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "113-construction-65",
@@ -5013,7 +6198,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "113-construction-66",
@@ -5030,7 +6220,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "113-construction-67",
@@ -5047,7 +6242,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "113-construction-68",
@@ -5064,7 +6264,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "113-construction-69",
@@ -5081,7 +6286,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "113-construction-7",
@@ -5098,7 +6308,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-construction-70",
@@ -5115,7 +6330,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "113-construction-71",
@@ -5132,7 +6352,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "113-construction-72",
@@ -5149,7 +6374,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "113-construction-73",
@@ -5166,7 +6396,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "113-construction-74",
@@ -5183,7 +6418,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "113-construction-75",
@@ -5200,7 +6440,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "113-construction-76",
@@ -5217,7 +6462,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "113-construction-77",
@@ -5234,7 +6484,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "113-construction-78",
@@ -5251,7 +6506,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "113-construction-79",
@@ -5268,7 +6528,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "113-construction-8",
@@ -5285,7 +6550,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-construction-80",
@@ -5302,7 +6572,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "113-construction-9",
@@ -5319,7 +6594,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築構造與施工"
+    "source": "113_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2024-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-environment-1",
@@ -5336,7 +6616,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築環境控制"
+    "source": "113_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2024-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "113-environment-10",
@@ -5404,7 +6689,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築環境控制"
+    "source": "113_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2024-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-environment-14",
@@ -5421,7 +6711,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築環境控制"
+    "source": "113_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2024-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-environment-15",
@@ -5438,7 +6733,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築環境控制"
+    "source": "113_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2024-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-environment-16",
@@ -5455,7 +6755,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築環境控制"
+    "source": "113_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2024-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-environment-17",
@@ -5472,7 +6777,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築環境控制"
+    "source": "113_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2024-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-environment-18",
@@ -5489,7 +6799,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築環境控制"
+    "source": "113_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2024-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-environment-19",
@@ -5506,7 +6821,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築環境控制"
+    "source": "113_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2024-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-environment-2",
@@ -5523,7 +6843,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築環境控制"
+    "source": "113_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2024-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "113-environment-20",
@@ -5540,7 +6865,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築環境控制"
+    "source": "113_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2024-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-environment-21",
@@ -5557,7 +6887,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築環境控制"
+    "source": "113_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2024-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "113-environment-22",
@@ -5574,7 +6909,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築環境控制"
+    "source": "113_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2024-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "113-environment-24",
@@ -5591,7 +6931,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築環境控制"
+    "source": "113_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2024-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "113-environment-25",
@@ -5608,7 +6953,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築環境控制"
+    "source": "113_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2024-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "113-environment-26",
@@ -5693,7 +7043,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築環境控制"
+    "source": "113_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2024-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "113-environment-30",
@@ -5999,7 +7354,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "113-law-10",
@@ -6016,7 +7376,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "113-law-11",
@@ -6033,7 +7398,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-law-12",
@@ -6050,7 +7420,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-law-13",
@@ -6067,7 +7442,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-law-14",
@@ -6084,7 +7464,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-law-15",
@@ -6101,7 +7486,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-law-16",
@@ -6118,7 +7508,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-law-17",
@@ -6135,7 +7530,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-law-18",
@@ -6152,7 +7552,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-law-19",
@@ -6169,7 +7574,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-law-2",
@@ -6186,7 +7596,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "113-law-20",
@@ -6203,7 +7618,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-law-21",
@@ -6220,7 +7640,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-law-22",
@@ -6237,7 +7662,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-law-23",
@@ -6254,7 +7684,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-law-24",
@@ -6271,7 +7706,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-law-25",
@@ -6288,7 +7728,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-law-26",
@@ -6305,7 +7750,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-law-27",
@@ -6322,7 +7772,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-law-28",
@@ -6339,7 +7794,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-law-29",
@@ -6356,7 +7816,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-law-3",
@@ -6373,7 +7838,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "113-law-30",
@@ -6390,7 +7860,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-law-31",
@@ -6560,7 +8035,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "113-law-40",
@@ -6577,7 +8057,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-law-41",
@@ -6594,7 +8079,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-law-42",
@@ -6611,7 +8101,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-law-43",
@@ -6628,7 +8123,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-law-44",
@@ -6645,7 +8145,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-law-45",
@@ -6662,7 +8167,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-law-46",
@@ -6679,7 +8189,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-law-47",
@@ -6696,7 +8211,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-law-48",
@@ -6747,7 +8267,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "113-law-50",
@@ -6917,7 +8442,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "113-law-6",
@@ -6934,7 +8464,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "113-law-60",
@@ -6951,7 +8486,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "113-law-61",
@@ -6968,7 +8508,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "113-law-62",
@@ -6985,7 +8530,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "113-law-63",
@@ -7002,7 +8552,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "113-law-64",
@@ -7019,7 +8574,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "113-law-65",
@@ -7036,7 +8596,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "113-law-66",
@@ -7053,7 +8618,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "113-law-67",
@@ -7070,7 +8640,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "113-law-68",
@@ -7087,7 +8662,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "113-law-69",
@@ -7104,7 +8684,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "113-law-7",
@@ -7121,7 +8706,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "113-law-70",
@@ -7138,7 +8728,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "113-law-71",
@@ -7155,7 +8750,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "113-law-72",
@@ -7172,7 +8772,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "113-law-73",
@@ -7189,7 +8794,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "113-law-74",
@@ -7206,7 +8816,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "113-law-75",
@@ -7223,7 +8838,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "113-law-76",
@@ -7240,7 +8860,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "113-law-77",
@@ -7257,7 +8882,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "113-law-78",
@@ -7274,7 +8904,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "113-law-79",
@@ -7291,7 +8926,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "113-law-8",
@@ -7308,7 +8948,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "113-law-80",
@@ -7325,7 +8970,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "113-law-9",
@@ -7342,7 +8992,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_營建法規與實務"
+    "source": "113_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2024-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "113-structure-1",
@@ -7359,7 +9014,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-structure-11",
@@ -7376,7 +9036,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-structure-12",
@@ -7393,7 +9058,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-structure-13",
@@ -7410,7 +9080,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-structure-14",
@@ -7427,7 +9102,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "113-structure-15",
@@ -7444,7 +9124,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "113-structure-16",
@@ -7461,7 +9146,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "113-structure-17",
@@ -7478,7 +9168,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "113-structure-18",
@@ -7495,7 +9190,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "113-structure-19",
@@ -7512,7 +9212,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "113-structure-2",
@@ -7529,7 +9234,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-structure-20",
@@ -7546,7 +9256,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "113-structure-22",
@@ -7563,7 +9278,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-structure-23",
@@ -7580,7 +9300,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-structure-24",
@@ -7597,7 +9322,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-structure-25",
@@ -7614,7 +9344,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "113-structure-26",
@@ -7631,7 +9366,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "113-structure-27",
@@ -7648,7 +9388,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "113-structure-28",
@@ -7665,7 +9410,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "113-structure-29",
@@ -7682,7 +9432,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "113-structure-3",
@@ -7699,7 +9454,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-structure-30",
@@ -7716,7 +9476,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "113-structure-31",
@@ -7733,7 +9498,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "113-structure-32",
@@ -7750,7 +9520,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "113-structure-33",
@@ -7767,7 +9542,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "113-structure-34",
@@ -7784,7 +9564,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "113-structure-35",
@@ -7801,7 +9586,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "113-structure-36",
@@ -7818,7 +9608,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "113-structure-37",
@@ -7835,7 +9630,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "113-structure-38",
@@ -7852,7 +9652,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "113-structure-39",
@@ -7869,7 +9674,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "113-structure-4",
@@ -7886,7 +9696,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-structure-40",
@@ -7903,7 +9718,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "113-structure-5",
@@ -7920,7 +9740,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-structure-6",
@@ -7937,7 +9762,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "113-structure-7",
@@ -7954,7 +9784,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-structure-8",
@@ -7971,7 +9806,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "113-structure-9",
@@ -7988,7 +9828,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "113_建築結構"
+    "source": "113_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2024-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-construction-1",
@@ -8005,7 +9850,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-construction-10",
@@ -8022,7 +9872,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-construction-11",
@@ -8039,7 +9894,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-construction-12",
@@ -8056,7 +9916,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-construction-13",
@@ -8073,7 +9938,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-construction-14",
@@ -8090,7 +9960,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-construction-15",
@@ -8107,7 +9982,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-construction-16",
@@ -8124,7 +10004,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-construction-17",
@@ -8141,7 +10026,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-construction-18",
@@ -8158,7 +10048,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-construction-19",
@@ -8175,7 +10070,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-construction-2",
@@ -8192,7 +10092,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-construction-20",
@@ -8209,7 +10114,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-construction-21",
@@ -8226,7 +10136,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-construction-22",
@@ -8243,7 +10158,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-construction-23",
@@ -8260,7 +10180,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-construction-24",
@@ -8277,7 +10202,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-construction-25",
@@ -8294,7 +10224,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-construction-26",
@@ -8311,7 +10246,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-construction-27",
@@ -8328,7 +10268,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-construction-28",
@@ -8345,7 +10290,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-construction-29",
@@ -8362,7 +10312,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-construction-3",
@@ -8379,7 +10334,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-construction-30",
@@ -8396,7 +10356,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-construction-31",
@@ -8413,7 +10378,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-construction-32",
@@ -8430,7 +10400,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-construction-33",
@@ -8447,7 +10422,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-construction-34",
@@ -8464,7 +10444,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-construction-35",
@@ -8481,7 +10466,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-construction-36",
@@ -8498,7 +10488,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-construction-37",
@@ -8515,7 +10510,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-construction-38",
@@ -8532,7 +10532,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-construction-39",
@@ -8549,7 +10554,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-construction-4",
@@ -8566,7 +10576,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-construction-40",
@@ -8583,7 +10598,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-construction-41",
@@ -8600,7 +10620,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-construction-42",
@@ -8617,7 +10642,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-construction-43",
@@ -8634,7 +10664,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-construction-44",
@@ -8651,7 +10686,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-construction-45",
@@ -8668,7 +10708,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-construction-46",
@@ -8685,7 +10730,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "112-construction-47",
@@ -8702,7 +10752,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "112-construction-48",
@@ -8719,7 +10774,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "112-construction-49",
@@ -8736,7 +10796,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "112-construction-5",
@@ -8753,7 +10818,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-construction-50",
@@ -8770,7 +10840,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "112-construction-51",
@@ -8787,7 +10862,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "112-construction-52",
@@ -8804,7 +10884,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "112-construction-53",
@@ -8821,7 +10906,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "112-construction-54",
@@ -8838,7 +10928,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "112-construction-55",
@@ -8855,7 +10950,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "112-construction-56",
@@ -8872,7 +10972,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "112-construction-57",
@@ -8889,7 +10994,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "112-construction-58",
@@ -8906,7 +11016,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "112-construction-6",
@@ -8923,7 +11038,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-construction-60",
@@ -8940,7 +11060,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-construction-61",
@@ -8957,7 +11082,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-construction-62",
@@ -8974,7 +11104,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-construction-63",
@@ -8991,7 +11126,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-construction-64",
@@ -9008,7 +11148,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "112-construction-65",
@@ -9025,7 +11170,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "112-construction-66",
@@ -9042,7 +11192,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "112-construction-67",
@@ -9059,7 +11214,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "112-construction-68",
@@ -9076,7 +11236,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "112-construction-69",
@@ -9093,7 +11258,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "112-construction-7",
@@ -9110,7 +11280,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-construction-70",
@@ -9127,7 +11302,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "112-construction-71",
@@ -9144,7 +11324,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "112-construction-72",
@@ -9161,7 +11346,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "112-construction-73",
@@ -9178,7 +11368,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "112-construction-74",
@@ -9195,7 +11390,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "112-construction-75",
@@ -9212,7 +11412,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "112-construction-76",
@@ -9229,7 +11434,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "112-construction-77",
@@ -9246,7 +11456,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "112-construction-78",
@@ -9263,7 +11478,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "112-construction-8",
@@ -9280,7 +11500,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-construction-9",
@@ -9297,7 +11522,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築構造與施工"
+    "source": "112_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2023-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-environment-1",
@@ -9314,7 +11544,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-environment-10",
@@ -9399,7 +11634,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-environment-15",
@@ -9416,7 +11656,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-environment-16",
@@ -9433,7 +11678,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-environment-17",
@@ -9450,7 +11700,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-environment-18",
@@ -9467,7 +11722,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-environment-19",
@@ -9484,7 +11744,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-environment-2",
@@ -9501,7 +11766,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-environment-20",
@@ -9518,7 +11788,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-environment-21",
@@ -9535,7 +11810,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-environment-22",
@@ -9552,7 +11832,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-environment-23",
@@ -9569,7 +11854,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-environment-24",
@@ -9586,7 +11876,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-environment-25",
@@ -9603,7 +11898,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-environment-26",
@@ -9620,7 +11920,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-environment-27",
@@ -9637,7 +11942,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-environment-28",
@@ -9654,7 +11964,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-environment-29",
@@ -9671,7 +11986,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-environment-3",
@@ -9688,7 +12008,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-environment-30",
@@ -9705,7 +12030,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-environment-31",
@@ -9722,7 +12052,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-environment-32",
@@ -9739,7 +12074,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-environment-33",
@@ -9756,7 +12096,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-environment-34",
@@ -9773,7 +12118,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-environment-35",
@@ -9790,7 +12140,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-environment-36",
@@ -9807,7 +12162,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-environment-37",
@@ -9824,7 +12184,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-environment-38",
@@ -9841,7 +12206,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-environment-39",
@@ -9858,7 +12228,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-environment-4",
@@ -9875,7 +12250,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-environment-40",
@@ -9892,7 +12272,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築環境控制"
+    "source": "112_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2023-environment-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-environment-5",
@@ -9994,7 +12379,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-law-10",
@@ -10011,7 +12401,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-law-11",
@@ -10028,7 +12423,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-law-12",
@@ -10045,7 +12445,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-law-13",
@@ -10062,7 +12467,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-law-14",
@@ -10079,7 +12489,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-law-15",
@@ -10096,7 +12511,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-law-16",
@@ -10113,7 +12533,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-law-17",
@@ -10130,7 +12555,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-law-18",
@@ -10147,7 +12577,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-law-19",
@@ -10164,7 +12599,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-law-2",
@@ -10181,7 +12621,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-law-20",
@@ -10198,7 +12643,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-law-21",
@@ -10215,7 +12665,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-law-22",
@@ -10232,7 +12687,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-law-23",
@@ -10249,7 +12709,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-law-24",
@@ -10266,7 +12731,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-law-25",
@@ -10283,7 +12753,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-law-26",
@@ -10300,7 +12775,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-law-27",
@@ -10317,7 +12797,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-law-28",
@@ -10334,7 +12819,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-law-29",
@@ -10351,7 +12841,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-law-3",
@@ -10368,7 +12863,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-law-30",
@@ -10385,7 +12885,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-law-31",
@@ -10402,7 +12907,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-law-32",
@@ -10419,7 +12929,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-law-33",
@@ -10436,7 +12951,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-law-34",
@@ -10453,7 +12973,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-law-35",
@@ -10470,7 +12995,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-law-36",
@@ -10487,7 +13017,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-law-37",
@@ -10504,7 +13039,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-law-38",
@@ -10521,7 +13061,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-law-39",
@@ -10538,7 +13083,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-law-4",
@@ -10555,7 +13105,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-law-40",
@@ -10572,7 +13127,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-law-41",
@@ -10589,7 +13149,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-law-42",
@@ -10742,7 +13307,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-law-50",
@@ -10912,7 +13482,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "112-law-6",
@@ -10929,7 +13504,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-law-60",
@@ -10946,7 +13526,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "112-law-61",
@@ -10963,7 +13548,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "112-law-62",
@@ -10980,7 +13570,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "112-law-63",
@@ -10997,7 +13592,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "112-law-64",
@@ -11014,7 +13614,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "112-law-65",
@@ -11031,7 +13636,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "112-law-66",
@@ -11048,7 +13658,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "112-law-67",
@@ -11065,7 +13680,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "112-law-68",
@@ -11082,7 +13702,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "112-law-69",
@@ -11099,7 +13724,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "112-law-7",
@@ -11116,7 +13746,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-law-70",
@@ -11133,7 +13768,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-law-71",
@@ -11150,7 +13790,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-law-72",
@@ -11167,7 +13812,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-law-73",
@@ -11184,7 +13834,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-law-74",
@@ -11201,7 +13856,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-law-75",
@@ -11218,7 +13878,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-law-76",
@@ -11235,7 +13900,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-law-77",
@@ -11252,7 +13922,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-law-78",
@@ -11269,7 +13944,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-law-79",
@@ -11286,7 +13966,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-law-8",
@@ -11303,7 +13988,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-law-80",
@@ -11320,7 +14010,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-law-9",
@@ -11337,7 +14032,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_營建法規與實務"
+    "source": "112_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2023-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "112-structure-1",
@@ -11354,7 +14054,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-structure-10",
@@ -11371,7 +14076,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-structure-11",
@@ -11388,7 +14098,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-structure-12",
@@ -11405,7 +14120,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-structure-13",
@@ -11422,7 +14142,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-structure-14",
@@ -11439,7 +14164,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-structure-15",
@@ -11456,7 +14186,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-structure-16",
@@ -11473,7 +14208,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-structure-17",
@@ -11490,7 +14230,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-structure-18",
@@ -11507,7 +14252,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "112-structure-19",
@@ -11524,7 +14274,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-structure-2",
@@ -11541,7 +14296,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-structure-20",
@@ -11558,7 +14318,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-structure-21",
@@ -11575,7 +14340,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-structure-22",
@@ -11592,7 +14362,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "112-structure-24",
@@ -11609,7 +14384,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "112-structure-25",
@@ -11626,7 +14406,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "112-structure-26",
@@ -11643,7 +14428,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "112-structure-27",
@@ -11660,7 +14450,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "112-structure-3",
@@ -11677,7 +14472,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-structure-31",
@@ -11694,7 +14494,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-structure-32",
@@ -11711,7 +14516,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-structure-33",
@@ -11728,7 +14538,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-structure-34",
@@ -11745,7 +14560,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-structure-35",
@@ -11762,7 +14582,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-structure-36",
@@ -11779,7 +14604,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-structure-37",
@@ -11796,7 +14626,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-structure-38",
@@ -11813,7 +14648,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-structure-39",
@@ -11830,7 +14670,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-structure-4",
@@ -11847,7 +14692,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-structure-40",
@@ -11864,7 +14714,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "112-structure-5",
@@ -11881,7 +14736,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "112-structure-6",
@@ -11898,7 +14758,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-structure-7",
@@ -11915,7 +14780,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-structure-8",
@@ -11932,7 +14802,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "112-structure-9",
@@ -11949,7 +14824,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "112_建築結構"
+    "source": "112_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2023-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-construction-1",
@@ -11966,7 +14846,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "111-construction-10",
@@ -11983,7 +14868,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "111-construction-11",
@@ -12068,7 +14958,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "111-construction-16",
@@ -12153,7 +15048,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "111-construction-20",
@@ -12187,7 +15087,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-construction-22",
@@ -12204,7 +15109,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-construction-23",
@@ -12221,7 +15131,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-construction-24",
@@ -12238,7 +15153,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-construction-25",
@@ -12255,7 +15175,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-construction-26",
@@ -12272,7 +15197,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-construction-27",
@@ -12289,7 +15219,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-construction-28",
@@ -12306,7 +15241,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-construction-29",
@@ -12323,7 +15263,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-construction-3",
@@ -12340,7 +15285,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "111-construction-30",
@@ -12357,7 +15307,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-construction-31",
@@ -12374,7 +15329,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-construction-32",
@@ -12391,7 +15351,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-construction-33",
@@ -12408,7 +15373,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-construction-34",
@@ -12425,7 +15395,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-construction-35",
@@ -12442,7 +15417,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-construction-36",
@@ -12459,7 +15439,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-construction-37",
@@ -12476,7 +15461,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-construction-38",
@@ -12493,7 +15483,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-construction-39",
@@ -12510,7 +15505,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-construction-4",
@@ -12527,7 +15527,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "111-construction-40",
@@ -12544,7 +15549,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-construction-41",
@@ -12561,7 +15571,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-construction-42",
@@ -12578,7 +15593,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-construction-43",
@@ -12595,7 +15615,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-construction-44",
@@ -12612,7 +15637,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "111-construction-45",
@@ -12629,7 +15659,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "111-construction-46",
@@ -12646,7 +15681,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "111-construction-47",
@@ -12663,7 +15703,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "111-construction-48",
@@ -12680,7 +15725,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "111-construction-49",
@@ -12697,7 +15747,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "111-construction-5",
@@ -12714,7 +15769,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "111-construction-50",
@@ -12731,7 +15791,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "111-construction-51",
@@ -12748,7 +15813,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "111-construction-53",
@@ -12765,7 +15835,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "111-construction-54",
@@ -12782,7 +15857,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "111-construction-55",
@@ -12799,7 +15879,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "111-construction-56",
@@ -12816,7 +15901,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "111-construction-57",
@@ -12833,7 +15923,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "111-construction-58",
@@ -12850,7 +15945,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "111-construction-59",
@@ -12867,7 +15967,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "111-construction-6",
@@ -12884,7 +15989,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "111-construction-60",
@@ -12901,7 +16011,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "111-construction-61",
@@ -12918,7 +16033,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "111-construction-62",
@@ -12935,7 +16055,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "111-construction-63",
@@ -12952,7 +16077,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "111-construction-64",
@@ -12969,7 +16099,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "111-construction-65",
@@ -12986,7 +16121,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "111-construction-66",
@@ -13003,7 +16143,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "111-construction-67",
@@ -13020,7 +16165,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "111-construction-68",
@@ -13037,7 +16187,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-construction-7",
@@ -13054,7 +16209,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "111-construction-70",
@@ -13071,7 +16231,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-construction-71",
@@ -13088,7 +16253,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-construction-72",
@@ -13105,7 +16275,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-construction-73",
@@ -13122,7 +16297,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-construction-74",
@@ -13139,7 +16319,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-construction-75",
@@ -13156,7 +16341,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "111-construction-76",
@@ -13173,7 +16363,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-construction-77",
@@ -13190,7 +16385,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-construction-78",
@@ -13207,7 +16407,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-construction-79",
@@ -13224,7 +16429,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-construction-8",
@@ -13241,7 +16451,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "111-construction-80",
@@ -13258,7 +16473,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築構造與施工"
+    "source": "111_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2022-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "111-construction-9",
@@ -13292,7 +16512,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "111-environment-10",
@@ -13309,7 +16534,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-environment-11",
@@ -13326,7 +16556,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-environment-12",
@@ -13343,7 +16578,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-environment-13",
@@ -13360,7 +16600,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-environment-14",
@@ -13377,7 +16622,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-environment-15",
@@ -13394,7 +16644,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-environment-16",
@@ -13411,7 +16666,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-environment-17",
@@ -13428,7 +16688,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-environment-18",
@@ -13445,7 +16710,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-environment-19",
@@ -13462,7 +16732,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-environment-2",
@@ -13479,7 +16754,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "111-environment-20",
@@ -13496,7 +16776,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-environment-21",
@@ -13513,7 +16798,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-environment-22",
@@ -13530,7 +16820,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-environment-23",
@@ -13547,7 +16842,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-environment-24",
@@ -13564,7 +16864,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-environment-25",
@@ -13581,7 +16886,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-environment-26",
@@ -13598,7 +16908,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-environment-27",
@@ -13615,7 +16930,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-environment-28",
@@ -13632,7 +16952,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-environment-29",
@@ -13649,7 +16974,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-environment-3",
@@ -13666,7 +16996,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "111-environment-30",
@@ -13683,7 +17018,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-environment-31",
@@ -13700,7 +17040,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-environment-32",
@@ -13717,7 +17062,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-environment-33",
@@ -13734,7 +17084,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-environment-34",
@@ -13751,7 +17106,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-environment-35",
@@ -13768,7 +17128,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-environment-36",
@@ -13785,7 +17150,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-environment-37",
@@ -13802,7 +17172,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-environment-38",
@@ -13819,7 +17194,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-environment-39",
@@ -13836,7 +17216,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-environment-4",
@@ -13853,7 +17238,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "111-environment-5",
@@ -13870,7 +17260,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-environment-6",
@@ -13887,7 +17282,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-environment-7",
@@ -13904,7 +17304,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-environment-8",
@@ -13921,7 +17326,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-environment-9",
@@ -13938,7 +17348,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築環境控制"
+    "source": "111_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2022-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-law-1",
@@ -13955,7 +17370,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "111-law-10",
@@ -13972,7 +17392,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-law-11",
@@ -13989,7 +17414,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-law-12",
@@ -14006,7 +17436,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-law-13",
@@ -14023,7 +17458,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-law-14",
@@ -14040,7 +17480,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-law-15",
@@ -14057,7 +17502,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-law-16",
@@ -14074,7 +17524,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-law-17",
@@ -14091,7 +17546,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-law-18",
@@ -14108,7 +17568,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-law-19",
@@ -14125,7 +17590,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-law-2",
@@ -14142,7 +17612,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "111-law-20",
@@ -14159,7 +17634,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-law-21",
@@ -14176,7 +17656,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-law-22",
@@ -14193,7 +17678,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-law-23",
@@ -14210,7 +17700,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-law-24",
@@ -14329,7 +17824,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "111-law-30",
@@ -14516,7 +18016,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "111-law-40",
@@ -14686,7 +18191,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "111-law-50",
@@ -14788,7 +18298,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-law-56",
@@ -14805,7 +18320,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-law-57",
@@ -14822,7 +18342,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-law-58",
@@ -14839,7 +18364,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-law-59",
@@ -14856,7 +18386,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-law-6",
@@ -14873,7 +18408,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "111-law-60",
@@ -14890,7 +18430,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-law-61",
@@ -14907,7 +18452,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-law-62",
@@ -14924,7 +18474,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "111-law-63",
@@ -14941,7 +18496,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "111-law-64",
@@ -14958,7 +18518,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "111-law-65",
@@ -14975,7 +18540,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "111-law-66",
@@ -14992,7 +18562,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "111-law-67",
@@ -15009,7 +18584,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "111-law-68",
@@ -15026,7 +18606,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "111-law-69",
@@ -15043,7 +18628,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "111-law-7",
@@ -15060,7 +18650,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "111-law-70",
@@ -15077,7 +18672,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "111-law-71",
@@ -15094,7 +18694,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "111-law-72",
@@ -15111,7 +18716,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "111-law-73",
@@ -15128,7 +18738,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "111-law-74",
@@ -15145,7 +18760,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "111-law-75",
@@ -15162,7 +18782,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "111-law-76",
@@ -15179,7 +18804,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "111-law-77",
@@ -15196,7 +18826,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "111-law-78",
@@ -15213,7 +18848,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "111-law-79",
@@ -15230,7 +18870,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "111-law-8",
@@ -15247,7 +18892,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-law-80",
@@ -15264,7 +18914,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "111-law-9",
@@ -15281,7 +18936,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_營建法規與實務"
+    "source": "111_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2022-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-structure-1",
@@ -15298,7 +18958,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-structure-10",
@@ -15315,7 +18980,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-structure-11",
@@ -15332,7 +19002,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-structure-12",
@@ -15349,7 +19024,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-structure-13",
@@ -15366,7 +19046,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-structure-14",
@@ -15383,7 +19068,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-structure-15",
@@ -15400,7 +19090,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-structure-16",
@@ -15417,7 +19112,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-structure-17",
@@ -15434,7 +19134,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-structure-18",
@@ -15451,7 +19156,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-structure-19",
@@ -15468,7 +19178,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "111-structure-2",
@@ -15485,7 +19200,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-structure-21",
@@ -15502,7 +19222,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "111-structure-22",
@@ -15519,7 +19244,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "111-structure-23",
@@ -15536,7 +19266,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "111-structure-24",
@@ -15553,7 +19288,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "111-structure-25",
@@ -15570,7 +19310,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "111-structure-26",
@@ -15587,7 +19332,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "111-structure-27",
@@ -15604,7 +19354,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "111-structure-28",
@@ -15621,7 +19376,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "111-structure-29",
@@ -15638,7 +19398,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "111-structure-3",
@@ -15655,7 +19420,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-structure-30",
@@ -15672,7 +19442,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "111-structure-31",
@@ -15689,7 +19464,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "111-structure-32",
@@ -15706,7 +19486,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "111-structure-33",
@@ -15723,7 +19508,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "111-structure-34",
@@ -15740,7 +19530,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-structure-35",
@@ -15757,7 +19552,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-structure-36",
@@ -15774,7 +19574,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-structure-37",
@@ -15791,7 +19596,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-structure-38",
@@ -15808,7 +19618,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-structure-39",
@@ -15825,7 +19640,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-structure-4",
@@ -15842,7 +19662,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-structure-40",
@@ -15859,7 +19684,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "111-structure-5",
@@ -15876,7 +19706,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-structure-6",
@@ -15893,7 +19728,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-structure-7",
@@ -15910,7 +19750,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "111-structure-8",
@@ -15927,7 +19772,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "111-structure-9",
@@ -15944,7 +19794,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "111_建築結構"
+    "source": "111_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2022-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "110-construction-1",
@@ -15961,7 +19816,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "110-construction-10",
@@ -15978,7 +19838,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-construction-11",
@@ -15995,7 +19860,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-construction-12",
@@ -16012,7 +19882,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-construction-13",
@@ -16029,7 +19904,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-construction-14",
@@ -16046,7 +19926,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-construction-15",
@@ -16148,7 +20033,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "110-construction-20",
@@ -16284,7 +20174,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-construction-29",
@@ -16301,7 +20196,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-construction-3",
@@ -16318,7 +20218,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "110-construction-30",
@@ -16335,7 +20240,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-construction-31",
@@ -16352,7 +20262,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-construction-32",
@@ -16369,7 +20284,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-construction-33",
@@ -16386,7 +20306,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-construction-34",
@@ -16403,7 +20328,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-construction-35",
@@ -16420,7 +20350,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-construction-36",
@@ -16437,7 +20372,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-construction-37",
@@ -16454,7 +20394,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-construction-38",
@@ -16471,7 +20416,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-construction-39",
@@ -16488,7 +20438,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-construction-4",
@@ -16505,7 +20460,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "110-construction-40",
@@ -16522,7 +20482,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-construction-41",
@@ -16539,7 +20504,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-construction-42",
@@ -16556,7 +20526,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-construction-43",
@@ -16573,7 +20548,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-construction-44",
@@ -16590,7 +20570,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "110-construction-45",
@@ -16607,7 +20592,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "110-construction-46",
@@ -16624,7 +20614,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "110-construction-47",
@@ -16641,7 +20636,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "110-construction-48",
@@ -16658,7 +20658,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "110-construction-5",
@@ -16675,7 +20680,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "110-construction-50",
@@ -16692,7 +20702,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "110-construction-51",
@@ -16709,7 +20724,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "110-construction-52",
@@ -16726,7 +20746,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "110-construction-53",
@@ -16743,7 +20768,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "110-construction-55",
@@ -16760,7 +20790,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "110-construction-56",
@@ -16845,7 +20880,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "110-construction-60",
@@ -16947,7 +20987,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "110-construction-66",
@@ -16964,7 +21009,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "110-construction-67",
@@ -16981,7 +21031,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "110-construction-68",
@@ -16998,7 +21053,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "110-construction-7",
@@ -17015,7 +21075,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-construction-70",
@@ -17032,7 +21097,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "110-construction-71",
@@ -17202,7 +21272,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-construction-80",
@@ -17236,7 +21311,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築構造與施工"
+    "source": "110_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2021-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-environment-1",
@@ -17253,7 +21333,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "110-environment-10",
@@ -17270,7 +21355,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-environment-11",
@@ -17287,7 +21377,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-environment-12",
@@ -17304,7 +21399,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-environment-13",
@@ -17321,7 +21421,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-environment-14",
@@ -17338,7 +21443,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-environment-15",
@@ -17355,7 +21465,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "110-environment-16",
@@ -17372,7 +21487,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "110-environment-17",
@@ -17389,7 +21509,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "110-environment-18",
@@ -17406,7 +21531,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "110-environment-19",
@@ -17423,7 +21553,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "110-environment-2",
@@ -17440,7 +21575,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "110-environment-21",
@@ -17457,7 +21597,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "110-environment-22",
@@ -17474,7 +21619,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "110-environment-23",
@@ -17491,7 +21641,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "110-environment-24",
@@ -17508,7 +21663,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "110-environment-25",
@@ -17525,7 +21685,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "110-environment-26",
@@ -17542,7 +21707,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "110-environment-27",
@@ -17559,7 +21729,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-environment-28",
@@ -17576,7 +21751,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-environment-29",
@@ -17593,7 +21773,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-environment-3",
@@ -17610,7 +21795,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-environment-30",
@@ -17627,7 +21817,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-environment-31",
@@ -17644,7 +21839,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-environment-32",
@@ -17661,7 +21861,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-environment-33",
@@ -17678,7 +21883,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-environment-34",
@@ -17695,7 +21905,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-environment-35",
@@ -17712,7 +21927,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-environment-36",
@@ -17729,7 +21949,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-environment-37",
@@ -17746,7 +21971,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-environment-38",
@@ -17763,7 +21993,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-environment-39",
@@ -17780,7 +22015,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-environment-4",
@@ -17797,7 +22037,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-environment-40",
@@ -17814,7 +22059,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-environment-5",
@@ -17831,7 +22081,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-environment-6",
@@ -17848,7 +22103,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-environment-7",
@@ -17865,7 +22125,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-environment-8",
@@ -17882,7 +22147,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-environment-9",
@@ -17899,7 +22169,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築環境控制"
+    "source": "110_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2021-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "110-law-1",
@@ -18562,7 +22837,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_營建法規與實務"
+    "source": "110_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2021-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-law-45",
@@ -18579,7 +22859,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_營建法規與實務"
+    "source": "110_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2021-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-law-46",
@@ -18596,7 +22881,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_營建法規與實務"
+    "source": "110_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2021-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-law-47",
@@ -18613,7 +22903,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_營建法規與實務"
+    "source": "110_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2021-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-law-48",
@@ -18630,7 +22925,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_營建法規與實務"
+    "source": "110_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2021-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-law-49",
@@ -18647,7 +22947,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_營建法規與實務"
+    "source": "110_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2021-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-law-5",
@@ -18681,7 +22986,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_營建法規與實務"
+    "source": "110_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2021-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-law-51",
@@ -18698,7 +23008,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_營建法規與實務"
+    "source": "110_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2021-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-law-52",
@@ -18919,7 +23234,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_營建法規與實務"
+    "source": "110_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2021-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "110-law-64",
@@ -18936,7 +23256,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_營建法規與實務"
+    "source": "110_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2021-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "110-law-65",
@@ -18953,7 +23278,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_營建法規與實務"
+    "source": "110_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2021-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "110-law-66",
@@ -18970,7 +23300,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_營建法規與實務"
+    "source": "110_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2021-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "110-law-67",
@@ -18987,7 +23322,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_營建法規與實務"
+    "source": "110_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2021-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "110-law-68",
@@ -19004,7 +23344,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_營建法規與實務"
+    "source": "110_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2021-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "110-law-69",
@@ -19021,7 +23366,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_營建法規與實務"
+    "source": "110_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2021-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "110-law-7",
@@ -19055,7 +23405,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_營建法規與實務"
+    "source": "110_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2021-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "110-law-71",
@@ -19072,7 +23427,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_營建法規與實務"
+    "source": "110_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2021-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "110-law-72",
@@ -19089,7 +23449,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_營建法規與實務"
+    "source": "110_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2021-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "110-law-73",
@@ -19276,7 +23641,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "110-structure-10",
@@ -19293,7 +23663,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "110-structure-11",
@@ -19310,7 +23685,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "110-structure-12",
@@ -19327,7 +23707,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "110-structure-13",
@@ -19344,7 +23729,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-structure-14",
@@ -19361,7 +23751,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-structure-15",
@@ -19378,7 +23773,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-structure-16",
@@ -19395,7 +23795,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-structure-17",
@@ -19412,7 +23817,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-structure-18",
@@ -19429,7 +23839,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-structure-19",
@@ -19446,7 +23861,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "110-structure-2",
@@ -19480,7 +23900,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-structure-21",
@@ -19497,7 +23922,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-structure-22",
@@ -19514,7 +23944,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-structure-23",
@@ -19531,7 +23966,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-structure-24",
@@ -19548,7 +23988,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-structure-25",
@@ -19565,7 +24010,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-structure-26",
@@ -19582,7 +24032,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-structure-27",
@@ -19599,7 +24054,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "110-structure-28",
@@ -19616,7 +24076,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "110-structure-29",
@@ -19633,7 +24098,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "110-structure-3",
@@ -19667,7 +24137,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "110-structure-31",
@@ -19684,7 +24159,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "110-structure-32",
@@ -19701,7 +24181,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "110-structure-34",
@@ -19718,7 +24203,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "110-structure-35",
@@ -19735,7 +24225,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "110-structure-36",
@@ -19752,7 +24247,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "110-structure-37",
@@ -19769,7 +24269,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "110-structure-38",
@@ -19786,7 +24291,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "110-structure-39",
@@ -19803,7 +24313,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "110-structure-4",
@@ -19837,7 +24352,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "110-structure-5",
@@ -19922,7 +24442,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "110_建築結構"
+    "source": "110_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2021-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-construction-1",
@@ -19939,7 +24464,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "109-construction-10",
@@ -19956,7 +24486,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-construction-11",
@@ -19973,7 +24508,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-construction-12",
@@ -19990,7 +24530,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-construction-13",
@@ -20007,7 +24552,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-construction-14",
@@ -20024,7 +24574,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-construction-15",
@@ -20041,7 +24596,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-construction-16",
@@ -20058,7 +24618,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-construction-17",
@@ -20075,7 +24640,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-construction-18",
@@ -20092,7 +24662,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-construction-19",
@@ -20109,7 +24684,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-construction-20",
@@ -20126,7 +24706,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-construction-21",
@@ -20143,7 +24728,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-construction-22",
@@ -20160,7 +24750,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-construction-23",
@@ -20177,7 +24772,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-construction-24",
@@ -20194,7 +24794,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-construction-25",
@@ -20211,7 +24816,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-construction-26",
@@ -20228,7 +24838,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-construction-27",
@@ -20245,7 +24860,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-construction-28",
@@ -20262,7 +24882,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-construction-29",
@@ -20279,7 +24904,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-construction-3",
@@ -20296,7 +24926,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "109-construction-30",
@@ -20313,7 +24948,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-construction-31",
@@ -20330,7 +24970,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-construction-32",
@@ -20347,7 +24992,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-construction-33",
@@ -20364,7 +25014,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-construction-34",
@@ -20381,7 +25036,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-construction-35",
@@ -20398,7 +25058,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-construction-36",
@@ -20415,7 +25080,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-construction-37",
@@ -20432,7 +25102,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-construction-38",
@@ -20449,7 +25124,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-construction-39",
@@ -20466,7 +25146,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-construction-4",
@@ -20483,7 +25168,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-construction-40",
@@ -20500,7 +25190,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-construction-41",
@@ -20517,7 +25212,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-construction-42",
@@ -20534,7 +25234,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-construction-43",
@@ -20551,7 +25256,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "109-construction-44",
@@ -20568,7 +25278,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "109-construction-46",
@@ -20585,7 +25300,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "109-construction-47",
@@ -20602,7 +25322,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "109-construction-5",
@@ -20619,7 +25344,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-construction-50",
@@ -20636,7 +25366,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "109-construction-51",
@@ -20653,7 +25388,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "109-construction-52",
@@ -20670,7 +25410,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "109-construction-53",
@@ -20687,7 +25432,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "109-construction-54",
@@ -20704,7 +25454,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "109-construction-55",
@@ -20721,7 +25476,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "109-construction-56",
@@ -20738,7 +25498,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "109-construction-57",
@@ -20755,7 +25520,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "109-construction-58",
@@ -20772,7 +25542,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "109-construction-59",
@@ -20789,7 +25564,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "109-construction-6",
@@ -20806,7 +25586,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-construction-60",
@@ -20823,7 +25608,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "109-construction-61",
@@ -20840,7 +25630,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "109-construction-62",
@@ -20857,7 +25652,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "109-construction-63",
@@ -20874,7 +25674,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "109-construction-64",
@@ -20891,7 +25696,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "109-construction-65",
@@ -20908,7 +25718,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "109-construction-66",
@@ -20925,7 +25740,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "109-construction-67",
@@ -20942,7 +25762,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "109-construction-68",
@@ -20959,7 +25784,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "109-construction-69",
@@ -20976,7 +25806,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "109-construction-7",
@@ -20993,7 +25828,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-construction-70",
@@ -21010,7 +25850,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "109-construction-71",
@@ -21027,7 +25872,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "109-construction-72",
@@ -21044,7 +25894,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "109-construction-73",
@@ -21061,7 +25916,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "109-construction-74",
@@ -21078,7 +25938,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "109-construction-75",
@@ -21095,7 +25960,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "109-construction-76",
@@ -21112,7 +25982,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "109-construction-77",
@@ -21129,7 +26004,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "109-construction-78",
@@ -21146,7 +26026,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "109-construction-79",
@@ -21163,7 +26048,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "109-construction-8",
@@ -21180,7 +26070,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-construction-80",
@@ -21197,7 +26092,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "109-construction-9",
@@ -21214,7 +26114,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築構造與施工"
+    "source": "109_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2020-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-environment-1",
@@ -21231,7 +26136,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "109-environment-10",
@@ -21248,7 +26158,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-environment-11",
@@ -21265,7 +26180,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-environment-12",
@@ -21282,7 +26202,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-environment-13",
@@ -21299,7 +26224,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-environment-14",
@@ -21316,7 +26246,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-environment-15",
@@ -21333,7 +26268,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-environment-16",
@@ -21350,7 +26290,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-environment-17",
@@ -21367,7 +26312,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-environment-18",
@@ -21384,7 +26334,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-environment-19",
@@ -21401,7 +26356,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-environment-2",
@@ -21418,7 +26378,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "109-environment-20",
@@ -21435,7 +26400,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-environment-21",
@@ -21452,7 +26422,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-environment-22",
@@ -21469,7 +26444,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-environment-23",
@@ -21486,7 +26466,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-environment-24",
@@ -21503,7 +26488,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-environment-25",
@@ -21520,7 +26510,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-environment-26",
@@ -21537,7 +26532,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-environment-27",
@@ -21554,7 +26554,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-environment-28",
@@ -21571,7 +26576,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-environment-29",
@@ -21588,7 +26598,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-environment-3",
@@ -21605,7 +26620,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "109-environment-30",
@@ -21622,7 +26642,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-environment-31",
@@ -21639,7 +26664,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-environment-32",
@@ -21656,7 +26686,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-environment-33",
@@ -21673,7 +26708,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-environment-34",
@@ -21690,7 +26730,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-environment-35",
@@ -21707,7 +26752,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-environment-36",
@@ -21724,7 +26774,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-environment-37",
@@ -21741,7 +26796,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-environment-38",
@@ -21758,7 +26818,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-environment-39",
@@ -21775,7 +26840,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-environment-4",
@@ -21792,7 +26862,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "109-environment-40",
@@ -21809,7 +26884,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-environment-5",
@@ -21826,7 +26906,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-environment-6",
@@ -21843,7 +26928,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-environment-7",
@@ -21860,7 +26950,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-environment-8",
@@ -21877,7 +26972,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築環境控制"
+    "source": "109_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2020-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-law-1",
@@ -21911,7 +27011,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-law-11",
@@ -21928,7 +27033,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-law-12",
@@ -21945,7 +27055,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-law-13",
@@ -21962,7 +27077,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-law-14",
@@ -21979,7 +27099,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-law-15",
@@ -21996,7 +27121,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-law-16",
@@ -22013,7 +27143,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-law-17",
@@ -22030,7 +27165,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-law-18",
@@ -22047,7 +27187,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-law-19",
@@ -22064,7 +27209,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-law-2",
@@ -22098,7 +27248,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-law-21",
@@ -22115,7 +27270,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-law-22",
@@ -22132,7 +27292,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-law-23",
@@ -22149,7 +27314,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-law-24",
@@ -22166,7 +27336,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-law-25",
@@ -22183,7 +27358,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-law-26",
@@ -22200,7 +27380,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-law-27",
@@ -22217,7 +27402,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-law-28",
@@ -22234,7 +27424,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-law-29",
@@ -22251,7 +27446,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-law-3",
@@ -22285,7 +27485,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-law-31",
@@ -22302,7 +27507,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-law-32",
@@ -22319,7 +27529,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-law-33",
@@ -22336,7 +27551,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-law-34",
@@ -22353,7 +27573,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-law-35",
@@ -22370,7 +27595,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-law-36",
@@ -22387,7 +27617,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-law-37",
@@ -22404,7 +27639,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-law-38",
@@ -22421,7 +27661,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-law-39",
@@ -22438,7 +27683,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-law-4",
@@ -22472,7 +27722,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-law-41",
@@ -22829,7 +28084,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "109-law-61",
@@ -22846,7 +28106,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "109-law-62",
@@ -22863,7 +28128,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "109-law-63",
@@ -22880,7 +28150,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "109-law-64",
@@ -22897,7 +28172,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "109-law-65",
@@ -22914,7 +28194,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "109-law-66",
@@ -22931,7 +28216,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "109-law-67",
@@ -22948,7 +28238,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "109-law-68",
@@ -22965,7 +28260,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "109-law-69",
@@ -23220,7 +28520,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_營建法規與實務"
+    "source": "109_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2020-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-structure-10",
@@ -23237,7 +28542,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-structure-11",
@@ -23254,7 +28564,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-structure-12",
@@ -23271,7 +28586,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "109-structure-13",
@@ -23288,7 +28608,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-structure-14",
@@ -23305,7 +28630,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-structure-15",
@@ -23322,7 +28652,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "109-structure-17",
@@ -23339,7 +28674,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-structure-18",
@@ -23356,7 +28696,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-structure-2",
@@ -23373,7 +28718,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-structure-20",
@@ -23390,7 +28740,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-structure-21",
@@ -23407,7 +28762,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-structure-22",
@@ -23424,7 +28784,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-structure-23",
@@ -23441,7 +28806,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "109-structure-24",
@@ -23458,7 +28828,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "109-structure-25",
@@ -23475,7 +28850,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "109-structure-26",
@@ -23492,7 +28872,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "109-structure-27",
@@ -23509,7 +28894,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "109-structure-28",
@@ -23526,7 +28916,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "109-structure-29",
@@ -23543,7 +28938,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "109-structure-3",
@@ -23560,7 +28960,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-structure-30",
@@ -23577,7 +28982,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "109-structure-31",
@@ -23594,7 +29004,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "109-structure-32",
@@ -23611,7 +29026,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "109-structure-33",
@@ -23628,7 +29048,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "109-structure-34",
@@ -23645,7 +29070,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "109-structure-35",
@@ -23747,7 +29177,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-structure-40",
@@ -23781,7 +29216,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-structure-6",
@@ -23798,7 +29238,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-structure-7",
@@ -23815,7 +29260,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "109-structure-8",
@@ -23832,7 +29282,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "109_建築結構"
+    "source": "109_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2020-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-construction-11",
@@ -23849,7 +29304,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-construction-13",
@@ -23866,7 +29326,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-construction-15",
@@ -23883,7 +29348,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-construction-16",
@@ -23900,7 +29370,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-construction-17",
@@ -23917,7 +29392,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-construction-18",
@@ -23934,7 +29414,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-construction-19",
@@ -23951,7 +29436,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-construction-2",
@@ -23968,7 +29458,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-construction-21",
@@ -23985,7 +29480,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-construction-23",
@@ -24002,7 +29502,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-construction-24",
@@ -24019,7 +29524,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-construction-25",
@@ -24036,7 +29546,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-construction-26",
@@ -24053,7 +29568,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-construction-27",
@@ -24070,7 +29590,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-construction-28",
@@ -24087,7 +29612,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-construction-29",
@@ -24104,7 +29634,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-construction-3",
@@ -24121,7 +29656,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-construction-30",
@@ -24138,7 +29678,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-construction-31",
@@ -24155,7 +29700,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-construction-34",
@@ -24172,7 +29722,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-construction-35",
@@ -24189,7 +29744,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-construction-36",
@@ -24206,7 +29766,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-construction-37",
@@ -24223,7 +29788,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-construction-38",
@@ -24240,7 +29810,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-construction-39",
@@ -24257,7 +29832,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-construction-4",
@@ -24274,7 +29854,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-construction-40",
@@ -24291,7 +29876,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-construction-41",
@@ -24308,7 +29898,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-construction-43",
@@ -24325,7 +29920,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-construction-44",
@@ -24342,7 +29942,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-construction-45",
@@ -24359,7 +29964,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-construction-46",
@@ -24376,7 +29986,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-construction-47",
@@ -24393,7 +30008,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-construction-48",
@@ -24410,7 +30030,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-construction-5",
@@ -24427,7 +30052,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-construction-52",
@@ -24444,7 +30074,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-construction-54",
@@ -24461,7 +30096,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-construction-56",
@@ -24478,7 +30118,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-construction-59",
@@ -24495,7 +30140,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-construction-6",
@@ -24512,7 +30162,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-construction-60",
@@ -24529,7 +30184,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-construction-61",
@@ -24546,7 +30206,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-construction-62",
@@ -24563,7 +30228,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-construction-63",
@@ -24580,7 +30250,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-construction-64",
@@ -24597,7 +30272,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-construction-65",
@@ -24614,7 +30294,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-construction-66",
@@ -24631,7 +30316,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-construction-68",
@@ -24648,7 +30338,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-construction-69",
@@ -24665,7 +30360,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-construction-7",
@@ -24682,7 +30382,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-construction-70",
@@ -24699,7 +30404,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "108-construction-71",
@@ -24716,7 +30426,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "108-construction-72",
@@ -24733,7 +30448,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "108-construction-73",
@@ -24750,7 +30470,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "108-construction-74",
@@ -24767,7 +30492,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "108-construction-75",
@@ -24784,7 +30514,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-construction-76",
@@ -24801,7 +30536,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "108-construction-77",
@@ -24818,7 +30558,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "108-construction-78",
@@ -24835,7 +30580,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "108-construction-79",
@@ -24852,7 +30602,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "108-construction-8",
@@ -24869,7 +30624,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-construction-80",
@@ -24886,7 +30646,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-construction-9",
@@ -24903,7 +30668,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築構造與施工"
+    "source": "108_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2019-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-environment-1",
@@ -24920,7 +30690,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築環境控制"
+    "source": "108_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2019-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-environment-10",
@@ -24937,7 +30712,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築環境控制"
+    "source": "108_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2019-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-environment-12",
@@ -24954,7 +30734,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築環境控制"
+    "source": "108_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2019-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-environment-13",
@@ -24971,7 +30756,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築環境控制"
+    "source": "108_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2019-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-environment-14",
@@ -24988,7 +30778,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築環境控制"
+    "source": "108_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2019-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-environment-15",
@@ -25005,7 +30800,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築環境控制"
+    "source": "108_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2019-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-environment-16",
@@ -25243,7 +31043,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築環境控制"
+    "source": "108_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2019-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-environment-31",
@@ -25396,7 +31201,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築環境控制"
+    "source": "108_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2019-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-environment-7",
@@ -25413,7 +31223,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築環境控制"
+    "source": "108_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2019-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-environment-9",
@@ -25430,7 +31245,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築環境控制"
+    "source": "108_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2019-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-law-1",
@@ -25447,7 +31267,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-law-10",
@@ -25464,7 +31289,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-law-11",
@@ -25481,7 +31311,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-law-12",
@@ -25498,7 +31333,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-law-13",
@@ -25515,7 +31355,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-law-14",
@@ -25532,7 +31377,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-law-15",
@@ -25549,7 +31399,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-law-16",
@@ -25566,7 +31421,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-law-17",
@@ -25583,7 +31443,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-law-18",
@@ -25600,7 +31465,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-law-19",
@@ -25617,7 +31487,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-law-20",
@@ -25634,7 +31509,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-law-21",
@@ -25651,7 +31531,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-law-22",
@@ -25668,7 +31553,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-law-24",
@@ -25685,7 +31575,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-law-25",
@@ -25702,7 +31597,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-law-26",
@@ -25719,7 +31619,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-law-27",
@@ -25736,7 +31641,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-law-28",
@@ -25753,7 +31663,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-law-29",
@@ -25770,7 +31685,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-law-3",
@@ -25787,7 +31707,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-law-30",
@@ -25804,7 +31729,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-law-31",
@@ -25821,7 +31751,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-law-32",
@@ -25838,7 +31773,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-law-33",
@@ -25855,7 +31795,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-law-34",
@@ -25872,7 +31817,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-law-35",
@@ -25889,7 +31839,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-law-36",
@@ -25906,7 +31861,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-law-37",
@@ -25923,7 +31883,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-law-38",
@@ -25940,7 +31905,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-law-39",
@@ -25957,7 +31927,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-law-4",
@@ -25974,7 +31949,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-law-40",
@@ -25991,7 +31971,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-law-41",
@@ -26008,7 +31993,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-law-42",
@@ -26025,7 +32015,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-law-43",
@@ -26042,7 +32037,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-law-44",
@@ -26059,7 +32059,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-law-45",
@@ -26076,7 +32081,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-law-46",
@@ -26093,7 +32103,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-law-47",
@@ -26110,7 +32125,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-law-48",
@@ -26127,7 +32147,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-law-49",
@@ -26144,7 +32169,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-law-5",
@@ -26161,7 +32191,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-law-50",
@@ -26178,7 +32213,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-law-51",
@@ -26195,7 +32235,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-law-52",
@@ -26212,7 +32257,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-law-53",
@@ -26229,7 +32279,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-law-54",
@@ -26348,7 +32403,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-law-60",
@@ -26365,7 +32425,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-law-61",
@@ -26382,7 +32447,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-law-62",
@@ -26399,7 +32469,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-law-63",
@@ -26416,7 +32491,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-law-64",
@@ -26433,7 +32513,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-law-65",
@@ -26450,7 +32535,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-law-66",
@@ -26467,7 +32557,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-law-67",
@@ -26484,7 +32579,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-law-68",
@@ -26501,7 +32601,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-law-69",
@@ -26518,7 +32623,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-law-7",
@@ -26535,7 +32645,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-law-70",
@@ -26552,7 +32667,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-law-71",
@@ -26569,7 +32689,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-law-72",
@@ -26586,7 +32711,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-law-74",
@@ -26603,7 +32733,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-law-75",
@@ -26620,7 +32755,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-law-76",
@@ -26637,7 +32777,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-law-77",
@@ -26654,7 +32799,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-law-78",
@@ -26671,7 +32821,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-law-79",
@@ -26688,7 +32843,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-law-8",
@@ -26705,7 +32865,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-law-80",
@@ -26722,7 +32887,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-law-9",
@@ -26739,7 +32909,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_營建法規與實務"
+    "source": "108_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2019-law-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-structure-1",
@@ -26756,7 +32931,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "108-structure-10",
@@ -26773,7 +32953,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-structure-11",
@@ -26790,7 +32975,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-structure-12",
@@ -26807,7 +32997,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-structure-13",
@@ -26824,7 +33019,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-structure-14",
@@ -26841,7 +33041,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-structure-15",
@@ -26858,7 +33063,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-structure-16",
@@ -26875,7 +33085,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-structure-17",
@@ -26892,7 +33107,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "108-structure-18",
@@ -26909,7 +33129,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-structure-19",
@@ -26926,7 +33151,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-structure-2",
@@ -26943,7 +33173,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-structure-20",
@@ -26960,7 +33195,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-structure-21",
@@ -26977,7 +33217,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-structure-22",
@@ -26994,7 +33239,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-structure-23",
@@ -27011,7 +33261,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-structure-24",
@@ -27028,7 +33283,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-structure-25",
@@ -27045,7 +33305,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "108-structure-26",
@@ -27062,7 +33327,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "108-structure-27",
@@ -27079,7 +33349,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "108-structure-28",
@@ -27096,7 +33371,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "108-structure-29",
@@ -27113,7 +33393,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "108-structure-3",
@@ -27130,7 +33415,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-structure-30",
@@ -27147,7 +33437,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "108-structure-31",
@@ -27164,7 +33459,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-structure-32",
@@ -27181,7 +33481,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-structure-33",
@@ -27198,7 +33503,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-structure-34",
@@ -27215,7 +33525,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-structure-35",
@@ -27232,7 +33547,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "108-structure-36",
@@ -27249,7 +33569,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-structure-37",
@@ -27266,7 +33591,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-structure-38",
@@ -27283,7 +33613,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-structure-39",
@@ -27300,7 +33635,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-structure-4",
@@ -27317,7 +33657,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-structure-40",
@@ -27334,7 +33679,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "108-structure-5",
@@ -27351,7 +33701,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-structure-6",
@@ -27368,7 +33723,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "108-structure-7",
@@ -27385,7 +33745,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-structure-8",
@@ -27402,7 +33767,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "108-structure-9",
@@ -27419,7 +33789,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "108_建築結構"
+    "source": "108_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2019-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "107-construction-1",
@@ -27436,7 +33811,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "107-construction-10",
@@ -27453,7 +33833,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-construction-11",
@@ -27470,7 +33855,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-construction-12",
@@ -27487,7 +33877,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-construction-13",
@@ -27504,7 +33899,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-construction-14",
@@ -27521,7 +33921,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-construction-15",
@@ -27538,7 +33943,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-construction-16",
@@ -27555,7 +33965,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-construction-17",
@@ -27572,7 +33987,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-construction-18",
@@ -27589,7 +34009,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "107-construction-19",
@@ -27606,7 +34031,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "107-construction-2",
@@ -27623,7 +34053,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "107-construction-20",
@@ -27640,7 +34075,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "107-construction-21",
@@ -27657,7 +34097,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "107-construction-22",
@@ -27674,7 +34119,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "107-construction-23",
@@ -27691,7 +34141,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "107-construction-24",
@@ -27708,7 +34163,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "107-construction-26",
@@ -27725,7 +34185,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "107-construction-27",
@@ -27742,7 +34207,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "107-construction-28",
@@ -27759,7 +34229,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "107-construction-29",
@@ -27776,7 +34251,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "107-construction-3",
@@ -27793,7 +34273,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "107-construction-30",
@@ -27810,7 +34295,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "107-construction-31",
@@ -27827,7 +34317,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-construction-32",
@@ -27844,7 +34339,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-construction-33",
@@ -27861,7 +34361,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-construction-34",
@@ -27878,7 +34383,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-construction-35",
@@ -27895,7 +34405,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-construction-36",
@@ -27912,7 +34427,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-construction-37",
@@ -27929,7 +34449,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-construction-38",
@@ -27946,7 +34471,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-construction-39",
@@ -27963,7 +34493,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-construction-4",
@@ -27980,7 +34515,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "107-construction-40",
@@ -27997,7 +34537,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "107-construction-41",
@@ -28014,7 +34559,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "107-construction-42",
@@ -28031,7 +34581,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "107-construction-43",
@@ -28048,7 +34603,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "107-construction-45",
@@ -28065,7 +34625,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "107-construction-46",
@@ -28082,7 +34647,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "107-construction-48",
@@ -28099,7 +34669,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "107-construction-49",
@@ -28116,7 +34691,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "107-construction-5",
@@ -28133,7 +34713,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "107-construction-51",
@@ -28150,7 +34735,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "107-construction-52",
@@ -28167,7 +34757,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "107-construction-55",
@@ -28184,7 +34779,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "107-construction-56",
@@ -28201,7 +34801,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "107-construction-57",
@@ -28218,7 +34823,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "107-construction-58",
@@ -28235,7 +34845,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "107-construction-61",
@@ -28252,7 +34867,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "107-construction-62",
@@ -28269,7 +34889,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "107-construction-63",
@@ -28286,7 +34911,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "107-construction-64",
@@ -28303,7 +34933,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "107-construction-65",
@@ -28320,7 +34955,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "107-construction-7",
@@ -28337,7 +34977,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-construction-70",
@@ -28354,7 +34999,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "107-construction-71",
@@ -28371,7 +35021,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "107-construction-72",
@@ -28388,7 +35043,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "107-construction-73",
@@ -28405,7 +35065,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "107-construction-74",
@@ -28422,7 +35087,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "107-construction-75",
@@ -28439,7 +35109,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "107-construction-76",
@@ -28456,7 +35131,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "107-construction-77",
@@ -28473,7 +35153,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "107-construction-78",
@@ -28490,7 +35175,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "107-construction-8",
@@ -28507,7 +35197,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-construction-80",
@@ -28524,7 +35219,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "107-construction-9",
@@ -28541,7 +35241,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築構造與施工"
+    "source": "107_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2018-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-environment-1",
@@ -28558,7 +35263,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "107-environment-10",
@@ -28575,7 +35285,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-environment-11",
@@ -28592,7 +35307,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-environment-12",
@@ -28609,7 +35329,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-environment-13",
@@ -28626,7 +35351,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-environment-14",
@@ -28643,7 +35373,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-environment-15",
@@ -28660,7 +35395,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-environment-16",
@@ -28677,7 +35417,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-environment-17",
@@ -28694,7 +35439,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-environment-18",
@@ -28728,7 +35478,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "107-environment-20",
@@ -28915,7 +35670,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "107-environment-30",
@@ -28966,7 +35726,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "107-environment-33",
@@ -28983,7 +35748,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "107-environment-34",
@@ -29000,7 +35770,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "107-environment-35",
@@ -29017,7 +35792,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "107-environment-37",
@@ -29034,7 +35814,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "107-environment-38",
@@ -29051,7 +35836,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "107-environment-39",
@@ -29068,7 +35858,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "107-environment-4",
@@ -29085,7 +35880,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "107-environment-40",
@@ -29102,7 +35902,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "107-environment-5",
@@ -29119,7 +35924,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-environment-8",
@@ -29136,7 +35946,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築環境控制"
+    "source": "107_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2018-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-law-1",
@@ -29306,7 +36121,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "107-law-2",
@@ -29340,7 +36160,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "107-law-21",
@@ -29357,7 +36182,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "107-law-22",
@@ -29374,7 +36204,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "107-law-23",
@@ -29391,7 +36226,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "107-law-24",
@@ -29408,7 +36248,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "107-law-25",
@@ -29425,7 +36270,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "107-law-26",
@@ -29595,7 +36445,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-law-35",
@@ -29612,7 +36467,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-law-36",
@@ -29629,7 +36489,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-law-37",
@@ -29646,7 +36511,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-law-38",
@@ -29663,7 +36533,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-law-39",
@@ -29680,7 +36555,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-law-4",
@@ -29714,7 +36594,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-law-41",
@@ -29731,7 +36616,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-law-42",
@@ -29748,7 +36638,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-law-43",
@@ -29765,7 +36660,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-law-44",
@@ -29782,7 +36682,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-law-45",
@@ -29799,7 +36704,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-law-46",
@@ -29816,7 +36726,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-law-48",
@@ -29833,7 +36748,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "107-law-49",
@@ -29850,7 +36770,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "107-law-5",
@@ -29884,7 +36809,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "107-law-51",
@@ -29901,7 +36831,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "107-law-52",
@@ -29918,7 +36853,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "107-law-53",
@@ -29935,7 +36875,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "107-law-54",
@@ -29952,7 +36897,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "107-law-55",
@@ -29969,7 +36919,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "107-law-56",
@@ -29986,7 +36941,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "107-law-57",
@@ -30003,7 +36963,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "107-law-58",
@@ -30020,7 +36985,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "107-law-59",
@@ -30037,7 +37007,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "107-law-6",
@@ -30071,7 +37046,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "107-law-61",
@@ -30088,7 +37068,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "107-law-62",
@@ -30105,7 +37090,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "107-law-63",
@@ -30122,7 +37112,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "107-law-64",
@@ -30139,7 +37134,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "107-law-65",
@@ -30156,7 +37156,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "107-law-66",
@@ -30173,7 +37178,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_營建法規與實務"
+    "source": "107_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2018-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "107-law-67",
@@ -30479,7 +37489,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "107-structure-19",
@@ -30496,7 +37511,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "107-structure-2",
@@ -30513,7 +37533,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "107-structure-20",
@@ -30530,7 +37555,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "107-structure-21",
@@ -30547,7 +37577,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "107-structure-23",
@@ -30564,7 +37599,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-structure-24",
@@ -30581,7 +37621,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-structure-25",
@@ -30598,7 +37643,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "107-structure-28",
@@ -30615,7 +37665,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "107-structure-30",
@@ -30632,7 +37687,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "107-structure-31",
@@ -30649,7 +37709,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "107-structure-33",
@@ -30666,7 +37731,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "107-structure-35",
@@ -30683,7 +37753,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "107-structure-36",
@@ -30700,7 +37775,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "107-structure-37",
@@ -30717,7 +37797,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "107-structure-38",
@@ -30734,7 +37819,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "107-structure-40",
@@ -30751,7 +37841,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "107-structure-5",
@@ -30768,7 +37863,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-structure-7",
@@ -30785,7 +37885,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-structure-8",
@@ -30802,7 +37907,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "107-structure-9",
@@ -30819,7 +37929,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "107_建築結構"
+    "source": "107_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2018-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-construction-1",
@@ -30836,7 +37951,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-construction-10",
@@ -30870,7 +37990,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-construction-13",
@@ -30887,7 +38012,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-construction-14",
@@ -30904,7 +38034,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-construction-15",
@@ -30921,7 +38056,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-construction-16",
@@ -30938,7 +38078,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-construction-17",
@@ -30955,7 +38100,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-construction-19",
@@ -30972,7 +38122,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-construction-2",
@@ -30989,7 +38144,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-construction-20",
@@ -31006,7 +38166,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-construction-21",
@@ -31023,7 +38188,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-construction-22",
@@ -31040,7 +38210,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-construction-23",
@@ -31057,7 +38232,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-construction-24",
@@ -31074,7 +38254,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-construction-25",
@@ -31091,7 +38276,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-construction-27",
@@ -31108,7 +38298,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-construction-28",
@@ -31125,7 +38320,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-construction-3",
@@ -31142,7 +38342,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-construction-30",
@@ -31159,7 +38364,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-construction-31",
@@ -31176,7 +38386,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-construction-32",
@@ -31193,7 +38408,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-construction-35",
@@ -31210,7 +38430,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-construction-37",
@@ -31227,7 +38452,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-construction-38",
@@ -31244,7 +38474,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-construction-39",
@@ -31261,7 +38496,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-construction-4",
@@ -31295,7 +38535,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-construction-41",
@@ -31312,7 +38557,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-construction-42",
@@ -31329,7 +38579,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-construction-43",
@@ -31346,7 +38601,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-construction-44",
@@ -31363,7 +38623,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-construction-45",
@@ -31380,7 +38645,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-construction-47",
@@ -31397,7 +38667,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-construction-49",
@@ -31414,7 +38689,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-construction-50",
@@ -31431,7 +38711,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-construction-51",
@@ -31448,7 +38733,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-construction-52",
@@ -31465,7 +38755,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-construction-53",
@@ -31482,7 +38777,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-construction-54",
@@ -31499,7 +38799,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-construction-55",
@@ -31516,7 +38821,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-construction-57",
@@ -31533,7 +38843,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "106-construction-6",
@@ -31550,7 +38865,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-construction-61",
@@ -31567,7 +38887,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "106-construction-62",
@@ -31584,7 +38909,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "106-construction-63",
@@ -31601,7 +38931,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "106-construction-64",
@@ -31618,7 +38953,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "106-construction-66",
@@ -31635,7 +38975,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "106-construction-67",
@@ -31652,7 +38997,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "106-construction-68",
@@ -31669,7 +39019,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-construction-69",
@@ -31686,7 +39041,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-construction-7",
@@ -31720,7 +39080,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-construction-72",
@@ -31737,7 +39102,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-construction-73",
@@ -31754,7 +39124,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-construction-74",
@@ -31771,7 +39146,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-construction-76",
@@ -31788,7 +39168,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-construction-77",
@@ -31805,7 +39190,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-construction-78",
@@ -31822,7 +39212,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-construction-79",
@@ -31839,7 +39234,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-construction-8",
@@ -31873,7 +39273,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築構造與施工"
+    "source": "106_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2017-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-construction-9",
@@ -31907,7 +39312,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "106-environment-11",
@@ -31924,7 +39334,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-environment-12",
@@ -31941,7 +39356,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-environment-14",
@@ -31958,7 +39378,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-environment-15",
@@ -31975,7 +39400,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-environment-17",
@@ -31992,7 +39422,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-environment-18",
@@ -32009,7 +39444,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-environment-19",
@@ -32026,7 +39466,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-environment-2",
@@ -32043,7 +39488,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "106-environment-20",
@@ -32060,7 +39510,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-environment-21",
@@ -32077,7 +39532,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-environment-22",
@@ -32094,7 +39554,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-environment-23",
@@ -32111,7 +39576,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-environment-24",
@@ -32128,7 +39598,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-environment-27",
@@ -32145,7 +39620,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-environment-28",
@@ -32162,7 +39642,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-environment-29",
@@ -32179,7 +39664,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-environment-3",
@@ -32196,7 +39686,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "106-environment-30",
@@ -32213,7 +39708,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-environment-31",
@@ -32230,7 +39730,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-environment-32",
@@ -32247,7 +39752,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-environment-33",
@@ -32264,7 +39774,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-environment-35",
@@ -32281,7 +39796,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-environment-36",
@@ -32298,7 +39818,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-environment-37",
@@ -32315,7 +39840,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-environment-38",
@@ -32332,7 +39862,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-environment-39",
@@ -32349,7 +39884,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-environment-4",
@@ -32366,7 +39906,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "106-environment-40",
@@ -32383,7 +39928,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-environment-5",
@@ -32400,7 +39950,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "106-environment-6",
@@ -32417,7 +39972,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "106-environment-8",
@@ -32434,7 +39994,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-environment-9",
@@ -32451,7 +40016,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築環境控制"
+    "source": "106_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2017-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-law-1",
@@ -32468,7 +40038,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "106-law-12",
@@ -32485,7 +40060,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-law-13",
@@ -32502,7 +40082,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-law-14",
@@ -32519,7 +40104,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-law-15",
@@ -32536,7 +40126,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-law-16",
@@ -32553,7 +40148,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-law-19",
@@ -32570,7 +40170,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-law-20",
@@ -32587,7 +40192,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-law-21",
@@ -32604,7 +40214,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-law-22",
@@ -32621,7 +40236,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-law-25",
@@ -32638,7 +40258,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-law-26",
@@ -32655,7 +40280,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-law-27",
@@ -32672,7 +40302,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-law-28",
@@ -32689,7 +40324,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-law-29",
@@ -32706,7 +40346,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-law-30",
@@ -32723,7 +40368,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-law-31",
@@ -32740,7 +40390,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-law-32",
@@ -32757,7 +40412,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-law-33",
@@ -32774,7 +40434,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-law-35",
@@ -32791,7 +40456,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-law-36",
@@ -32808,7 +40478,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-law-37",
@@ -32825,7 +40500,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-law-39",
@@ -32859,7 +40539,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "106-law-41",
@@ -33012,7 +40697,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "106-law-50",
@@ -33063,7 +40753,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-law-55",
@@ -33080,7 +40775,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-law-56",
@@ -33097,7 +40797,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-law-58",
@@ -33114,7 +40819,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-law-59",
@@ -33131,7 +40841,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-law-6",
@@ -33148,7 +40863,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-law-60",
@@ -33165,7 +40885,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-law-61",
@@ -33182,7 +40907,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-law-62",
@@ -33199,7 +40929,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-law-63",
@@ -33216,7 +40951,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-law-64",
@@ -33233,7 +40973,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-law-65",
@@ -33250,7 +40995,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-law-66",
@@ -33267,7 +41017,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-law-67",
@@ -33284,7 +41039,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "106-law-68",
@@ -33301,7 +41061,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "106-law-7",
@@ -33335,7 +41100,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "106-law-71",
@@ -33352,7 +41122,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "106-law-72",
@@ -33369,7 +41144,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "106-law-73",
@@ -33386,7 +41166,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "106-law-74",
@@ -33403,7 +41188,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "106-law-78",
@@ -33420,7 +41210,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "106-law-79",
@@ -33437,7 +41232,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "106-law-8",
@@ -33454,7 +41254,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-law-80",
@@ -33471,7 +41276,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_營建法規與實務"
+    "source": "106_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2017-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "106-structure-1",
@@ -33505,7 +41315,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-structure-11",
@@ -33522,7 +41337,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-structure-12",
@@ -33539,7 +41359,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-structure-13",
@@ -33556,7 +41381,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-structure-14",
@@ -33573,7 +41403,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-structure-15",
@@ -33590,7 +41425,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "106-structure-16",
@@ -33607,7 +41447,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-structure-17",
@@ -33624,7 +41469,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-structure-18",
@@ -33641,7 +41491,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-structure-19",
@@ -33658,7 +41513,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-structure-20",
@@ -33675,7 +41535,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "106-structure-21",
@@ -33692,7 +41557,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-structure-22",
@@ -33709,7 +41579,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-structure-23",
@@ -33726,7 +41601,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-structure-24",
@@ -33743,7 +41623,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-structure-25",
@@ -33760,7 +41645,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "106-structure-26",
@@ -33777,7 +41667,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "106-structure-27",
@@ -33794,7 +41689,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "106-structure-29",
@@ -33811,7 +41711,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "106-structure-3",
@@ -33828,7 +41733,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "106-structure-30",
@@ -33845,7 +41755,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "106-structure-31",
@@ -33862,7 +41777,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "106-structure-33",
@@ -33879,7 +41799,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-structure-34",
@@ -33896,7 +41821,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-structure-35",
@@ -33913,7 +41843,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-structure-36",
@@ -33930,7 +41865,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-structure-37",
@@ -33947,7 +41887,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-structure-38",
@@ -33964,7 +41909,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-structure-39",
@@ -33981,7 +41931,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-structure-4",
@@ -33998,7 +41953,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "106-structure-40",
@@ -34015,7 +41975,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "106-structure-5",
@@ -34100,7 +42065,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "106_建築結構"
+    "source": "106_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2017-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-construction-1",
@@ -34117,7 +42087,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "105-construction-10",
@@ -34134,7 +42109,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-construction-11",
@@ -34151,7 +42131,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-construction-12",
@@ -34168,7 +42153,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-construction-13",
@@ -34185,7 +42175,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-construction-15",
@@ -34202,7 +42197,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-construction-16",
@@ -34219,7 +42219,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-construction-17",
@@ -34236,7 +42241,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-construction-18",
@@ -34253,7 +42263,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-construction-19",
@@ -34270,7 +42285,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-construction-2",
@@ -34287,7 +42307,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "105-construction-20",
@@ -34304,7 +42329,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-construction-21",
@@ -34321,7 +42351,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-construction-22",
@@ -34338,7 +42373,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-construction-23",
@@ -34355,7 +42395,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-construction-26",
@@ -34372,7 +42417,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-construction-27",
@@ -34389,7 +42439,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-construction-3",
@@ -34406,7 +42461,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "105-construction-30",
@@ -34423,7 +42483,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "105-construction-31",
@@ -34440,7 +42505,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "105-construction-32",
@@ -34457,7 +42527,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "105-construction-33",
@@ -34474,7 +42549,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "105-construction-34",
@@ -34491,7 +42571,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "105-construction-35",
@@ -34508,7 +42593,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "105-construction-36",
@@ -34525,7 +42615,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "105-construction-37",
@@ -34542,7 +42637,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "105-construction-38",
@@ -34559,7 +42659,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "105-construction-4",
@@ -34576,7 +42681,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "105-construction-40",
@@ -34593,7 +42703,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "105-construction-41",
@@ -34610,7 +42725,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "105-construction-42",
@@ -34627,7 +42747,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-construction-43",
@@ -34644,7 +42769,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-construction-44",
@@ -34661,7 +42791,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-construction-45",
@@ -34678,7 +42813,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-construction-47",
@@ -34695,7 +42835,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-construction-48",
@@ -34712,7 +42857,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-construction-49",
@@ -34729,7 +42879,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-construction-5",
@@ -34746,7 +42901,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "105-construction-50",
@@ -34763,7 +42923,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-construction-51",
@@ -34780,7 +42945,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-construction-53",
@@ -34797,7 +42967,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "105-construction-55",
@@ -34814,7 +42989,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "105-construction-56",
@@ -34831,7 +43011,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "105-construction-57",
@@ -34848,7 +43033,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "105-construction-58",
@@ -34865,7 +43055,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "105-construction-59",
@@ -34882,7 +43077,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "105-construction-6",
@@ -34899,7 +43099,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "105-construction-60",
@@ -34916,7 +43121,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "105-construction-61",
@@ -34933,7 +43143,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "105-construction-62",
@@ -34950,7 +43165,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "105-construction-63",
@@ -34967,7 +43187,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "105-construction-65",
@@ -34984,7 +43209,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "105-construction-66",
@@ -35001,7 +43231,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "105-construction-67",
@@ -35018,7 +43253,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "105-construction-68",
@@ -35035,7 +43275,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "105-construction-69",
@@ -35052,7 +43297,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "105-construction-7",
@@ -35069,7 +43319,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "105-construction-70",
@@ -35086,7 +43341,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "105-construction-71",
@@ -35103,7 +43363,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "105-construction-72",
@@ -35120,7 +43385,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "105-construction-73",
@@ -35137,7 +43407,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "105-construction-74",
@@ -35154,7 +43429,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "105-construction-75",
@@ -35171,7 +43451,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "105-construction-76",
@@ -35188,7 +43473,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "105-construction-77",
@@ -35205,7 +43495,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "105-construction-78",
@@ -35222,7 +43517,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "105-construction-79",
@@ -35239,7 +43539,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "105-construction-8",
@@ -35256,7 +43561,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "105-construction-80",
@@ -35273,7 +43583,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "105-construction-9",
@@ -35290,7 +43605,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築構造與施工"
+    "source": "105_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2016-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "105-environment-1",
@@ -35307,7 +43627,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "105-environment-10",
@@ -35324,7 +43649,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-environment-11",
@@ -35341,7 +43671,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-environment-12",
@@ -35358,7 +43693,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-environment-13",
@@ -35375,7 +43715,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-environment-14",
@@ -35392,7 +43737,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-environment-15",
@@ -35409,7 +43759,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-environment-16",
@@ -35426,7 +43781,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-environment-17",
@@ -35443,7 +43803,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-environment-18",
@@ -35460,7 +43825,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-environment-19",
@@ -35494,7 +43864,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "105-environment-20",
@@ -35681,7 +44056,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "105-environment-30",
@@ -35732,7 +44112,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-environment-33",
@@ -35749,7 +44134,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-environment-34",
@@ -35766,7 +44156,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-environment-35",
@@ -35783,7 +44178,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-environment-36",
@@ -35800,7 +44200,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-environment-37",
@@ -35817,7 +44222,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-environment-38",
@@ -35834,7 +44244,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-environment-39",
@@ -35851,7 +44266,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-environment-4",
@@ -35868,7 +44288,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "105-environment-40",
@@ -35885,7 +44310,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-environment-5",
@@ -35902,7 +44332,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-environment-6",
@@ -35919,7 +44354,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-environment-7",
@@ -35936,7 +44376,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-environment-8",
@@ -35953,7 +44398,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-environment-9",
@@ -35970,7 +44420,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築環境控制"
+    "source": "105_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2016-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-law-1",
@@ -35987,7 +44442,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-law-12",
@@ -36021,7 +44481,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-law-16",
@@ -36106,7 +44571,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-law-21",
@@ -36140,7 +44610,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-law-23",
@@ -36157,7 +44632,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-law-25",
@@ -36174,7 +44654,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-law-26",
@@ -36191,7 +44676,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-law-27",
@@ -36208,7 +44698,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-law-28",
@@ -36225,7 +44720,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-law-29",
@@ -36242,7 +44742,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-law-30",
@@ -36259,7 +44764,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-law-31",
@@ -36276,7 +44786,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-law-34",
@@ -36293,7 +44808,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-law-35",
@@ -36310,7 +44830,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-law-36",
@@ -36327,7 +44852,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-law-37",
@@ -36344,7 +44874,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-law-38",
@@ -36361,7 +44896,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-law-41",
@@ -36378,7 +44918,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-law-43",
@@ -36395,7 +44940,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "105-law-44",
@@ -36412,7 +44962,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "105-law-45",
@@ -36429,7 +44984,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "105-law-46",
@@ -36446,7 +45006,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "105-law-47",
@@ -36463,7 +45028,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "105-law-48",
@@ -36480,7 +45050,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "105-law-49",
@@ -36497,7 +45072,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "105-law-5",
@@ -36514,7 +45094,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-law-50",
@@ -36650,7 +45235,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-law-60",
@@ -36667,7 +45257,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-law-61",
@@ -36684,7 +45279,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-law-62",
@@ -36701,7 +45301,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-law-63",
@@ -36718,7 +45323,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-law-64",
@@ -36735,7 +45345,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-law-65",
@@ -36752,7 +45367,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-law-66",
@@ -36769,7 +45389,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-law-67",
@@ -36786,7 +45411,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-law-68",
@@ -36803,7 +45433,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-law-69",
@@ -36820,7 +45455,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-law-7",
@@ -36854,7 +45494,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-law-71",
@@ -36871,7 +45516,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "105-law-73",
@@ -36888,7 +45538,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "105-law-76",
@@ -36905,7 +45560,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "105-law-77",
@@ -36922,7 +45582,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "105-law-78",
@@ -36939,7 +45604,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "105-law-79",
@@ -36956,7 +45626,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "105-law-8",
@@ -36973,7 +45648,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-law-80",
@@ -36990,7 +45670,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_營建法規與實務"
+    "source": "105_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2016-law-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "105-structure-1",
@@ -37007,7 +45692,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "105-structure-10",
@@ -37024,7 +45714,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-structure-11",
@@ -37041,7 +45736,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-structure-12",
@@ -37058,7 +45758,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-structure-13",
@@ -37075,7 +45780,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-structure-14",
@@ -37092,7 +45802,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-structure-16",
@@ -37109,7 +45824,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-structure-17",
@@ -37126,7 +45846,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "105-structure-18",
@@ -37143,7 +45868,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-structure-19",
@@ -37160,7 +45890,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-structure-2",
@@ -37177,7 +45912,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "105-structure-20",
@@ -37194,7 +45934,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-structure-21",
@@ -37211,7 +45956,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-structure-22",
@@ -37228,7 +45978,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "105-structure-23",
@@ -37245,7 +46000,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "105-structure-24",
@@ -37262,7 +46022,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "105-structure-25",
@@ -37279,7 +46044,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "105-structure-26",
@@ -37296,7 +46066,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "105-structure-28",
@@ -37313,7 +46088,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "105-structure-3",
@@ -37330,7 +46110,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-structure-30",
@@ -37347,7 +46132,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-structure-31",
@@ -37364,7 +46154,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-structure-32",
@@ -37381,7 +46176,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-structure-33",
@@ -37398,7 +46198,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-structure-34",
@@ -37415,7 +46220,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-structure-35",
@@ -37432,7 +46242,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-structure-36",
@@ -37449,7 +46264,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-structure-37",
@@ -37466,7 +46286,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-structure-38",
@@ -37483,7 +46308,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-structure-39",
@@ -37500,7 +46330,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-structure-4",
@@ -37517,7 +46352,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-structure-40",
@@ -37534,7 +46374,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "105-structure-5",
@@ -37551,7 +46396,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-structure-6",
@@ -37568,7 +46418,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-structure-7",
@@ -37585,7 +46440,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-structure-8",
@@ -37602,7 +46462,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "105-structure-9",
@@ -37619,7 +46484,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "105_建築結構"
+    "source": "105_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2016-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-construction-1",
@@ -37636,7 +46506,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "104-construction-10",
@@ -37653,7 +46528,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "104-construction-11",
@@ -37670,7 +46550,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "104-construction-12",
@@ -37687,7 +46572,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-construction-13",
@@ -37704,7 +46594,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-construction-14",
@@ -37721,7 +46616,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-construction-15",
@@ -37738,7 +46638,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-construction-16",
@@ -37755,7 +46660,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-construction-17",
@@ -37772,7 +46682,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-construction-18",
@@ -37789,7 +46704,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-construction-2",
@@ -37806,7 +46726,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "104-construction-20",
@@ -37823,7 +46748,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-construction-21",
@@ -37840,7 +46770,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-construction-23",
@@ -37857,7 +46792,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-construction-24",
@@ -37874,7 +46814,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-construction-25",
@@ -37891,7 +46836,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-construction-26",
@@ -37908,7 +46858,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-construction-27",
@@ -37925,7 +46880,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-construction-28",
@@ -37942,7 +46902,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-construction-29",
@@ -37959,7 +46924,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-construction-3",
@@ -37976,7 +46946,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "104-construction-30",
@@ -37993,7 +46968,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-construction-31",
@@ -38010,7 +46990,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-construction-32",
@@ -38027,7 +47012,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-construction-34",
@@ -38044,7 +47034,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-construction-35",
@@ -38061,7 +47056,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-construction-36",
@@ -38078,7 +47078,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-construction-37",
@@ -38095,7 +47100,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-construction-38",
@@ -38112,7 +47122,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-construction-39",
@@ -38129,7 +47144,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-construction-4",
@@ -38146,7 +47166,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "104-construction-40",
@@ -38163,7 +47188,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-construction-41",
@@ -38180,7 +47210,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-construction-42",
@@ -38197,7 +47232,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "104-construction-44",
@@ -38214,7 +47254,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "104-construction-45",
@@ -38231,7 +47276,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "104-construction-46",
@@ -38248,7 +47298,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "104-construction-47",
@@ -38265,7 +47320,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "104-construction-48",
@@ -38282,7 +47342,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "104-construction-49",
@@ -38299,7 +47364,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "104-construction-5",
@@ -38316,7 +47386,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "104-construction-50",
@@ -38333,7 +47408,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "104-construction-51",
@@ -38350,7 +47430,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "104-construction-53",
@@ -38367,7 +47452,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "104-construction-54",
@@ -38384,7 +47474,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p9.jpg",
+      "alt": "原始試題圖說或表格，第 9 頁",
+      "page": 9
+    }
   },
   {
     "id": "104-construction-55",
@@ -38401,7 +47496,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "104-construction-56",
@@ -38418,7 +47518,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "104-construction-57",
@@ -38435,7 +47540,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "104-construction-58",
@@ -38452,7 +47562,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "104-construction-59",
@@ -38469,7 +47584,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "104-construction-6",
@@ -38486,7 +47606,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "104-construction-60",
@@ -38503,7 +47628,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "104-construction-61",
@@ -38520,7 +47650,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "104-construction-62",
@@ -38537,7 +47672,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p10.jpg",
+      "alt": "原始試題圖說或表格，第 10 頁",
+      "page": 10
+    }
   },
   {
     "id": "104-construction-64",
@@ -38554,7 +47694,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "104-construction-65",
@@ -38571,7 +47716,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "104-construction-66",
@@ -38588,7 +47738,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "104-construction-67",
@@ -38605,7 +47760,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "104-construction-68",
@@ -38622,7 +47782,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "104-construction-69",
@@ -38639,7 +47804,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "104-construction-7",
@@ -38656,7 +47826,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "104-construction-70",
@@ -38673,7 +47848,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "104-construction-71",
@@ -38690,7 +47870,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "104-construction-72",
@@ -38707,7 +47892,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p11.jpg",
+      "alt": "原始試題圖說或表格，第 11 頁",
+      "page": 11
+    }
   },
   {
     "id": "104-construction-73",
@@ -38724,7 +47914,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "104-construction-74",
@@ -38741,7 +47936,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "104-construction-75",
@@ -38758,7 +47958,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "104-construction-76",
@@ -38775,7 +47980,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "104-construction-77",
@@ -38792,7 +48002,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "104-construction-78",
@@ -38809,7 +48024,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "104-construction-79",
@@ -38826,7 +48046,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "104-construction-8",
@@ -38843,7 +48068,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "104-construction-80",
@@ -38860,7 +48090,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p12.jpg",
+      "alt": "原始試題圖說或表格，第 12 頁",
+      "page": 12
+    }
   },
   {
     "id": "104-construction-9",
@@ -38877,7 +48112,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築構造與施工"
+    "source": "104_建築構造與施工",
+    "visual": {
+      "src": "assets/question-pages/2015-construction-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "104-environment-1",
@@ -38894,7 +48134,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "104-environment-10",
@@ -38911,7 +48156,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-environment-11",
@@ -38928,7 +48178,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-environment-12",
@@ -38945,7 +48200,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-environment-13",
@@ -38962,7 +48222,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-environment-14",
@@ -38979,7 +48244,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-environment-15",
@@ -38996,7 +48266,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-environment-16",
@@ -39013,7 +48288,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-environment-17",
@@ -39030,7 +48310,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-environment-18",
@@ -39047,7 +48332,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-environment-19",
@@ -39064,7 +48354,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-environment-2",
@@ -39081,7 +48376,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "104-environment-20",
@@ -39098,7 +48398,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-environment-21",
@@ -39115,7 +48420,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-environment-22",
@@ -39132,7 +48442,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-environment-23",
@@ -39149,7 +48464,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-environment-24",
@@ -39166,7 +48486,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-environment-25",
@@ -39183,7 +48508,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-environment-26",
@@ -39200,7 +48530,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-environment-27",
@@ -39217,7 +48552,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-environment-29",
@@ -39234,7 +48574,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-environment-3",
@@ -39251,7 +48596,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "104-environment-30",
@@ -39268,7 +48618,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-environment-31",
@@ -39285,7 +48640,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-environment-32",
@@ -39302,7 +48662,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-environment-33",
@@ -39319,7 +48684,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-environment-34",
@@ -39336,7 +48706,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-environment-35",
@@ -39353,7 +48728,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-environment-36",
@@ -39370,7 +48750,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-environment-37",
@@ -39387,7 +48772,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-environment-38",
@@ -39404,7 +48794,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-environment-39",
@@ -39421,7 +48816,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-environment-4",
@@ -39438,7 +48838,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p1.jpg",
+      "alt": "原始試題圖說或表格，第 1 頁",
+      "page": 1
+    }
   },
   {
     "id": "104-environment-40",
@@ -39455,7 +48860,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-environment-5",
@@ -39472,7 +48882,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-environment-6",
@@ -39489,7 +48904,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-environment-7",
@@ -39506,7 +48926,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-environment-8",
@@ -39523,7 +48948,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-environment-9",
@@ -39540,7 +48970,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築環境控制"
+    "source": "104_建築環境控制",
+    "visual": {
+      "src": "assets/question-pages/2015-environment-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-law-1",
@@ -39574,7 +49009,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-law-11",
@@ -39591,7 +49031,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-law-12",
@@ -39608,7 +49053,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-law-13",
@@ -39625,7 +49075,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-law-14",
@@ -39642,7 +49097,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-law-15",
@@ -39659,7 +49119,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-law-16",
@@ -39676,7 +49141,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-law-17",
@@ -39693,7 +49163,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-law-18",
@@ -39710,7 +49185,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-law-19",
@@ -39727,7 +49207,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-law-2",
@@ -39761,7 +49246,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-law-21",
@@ -39778,7 +49268,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-law-22",
@@ -39795,7 +49290,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-law-23",
@@ -39812,7 +49312,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-law-24",
@@ -39829,7 +49334,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-law-25",
@@ -39846,7 +49356,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-law-26",
@@ -39863,7 +49378,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-law-27",
@@ -39880,7 +49400,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-law-28",
@@ -39897,7 +49422,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-law-29",
@@ -39914,7 +49444,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-law-3",
@@ -39948,7 +49483,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-law-31",
@@ -39965,7 +49505,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-law-32",
@@ -39982,7 +49527,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-law-33",
@@ -39999,7 +49549,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-law-34",
@@ -40016,7 +49571,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-law-35",
@@ -40033,7 +49593,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-law-36",
@@ -40050,7 +49615,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-law-37",
@@ -40067,7 +49637,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-law-38",
@@ -40084,7 +49659,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-law-39",
@@ -40101,7 +49681,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-law-4",
@@ -40135,7 +49720,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-law-41",
@@ -40152,7 +49742,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-law-42",
@@ -40169,7 +49764,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-law-43",
@@ -40186,7 +49786,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-law-44",
@@ -40203,7 +49808,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-law-45",
@@ -40220,7 +49830,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-law-46",
@@ -40237,7 +49852,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-law-47",
@@ -40254,7 +49874,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-law-48",
@@ -40271,7 +49896,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-law-49",
@@ -40288,7 +49918,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-law-5",
@@ -40322,7 +49957,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-law-51",
@@ -40339,7 +49979,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-law-52",
@@ -40356,7 +50001,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-law-53",
@@ -40373,7 +50023,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-law-54",
@@ -40390,7 +50045,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-law-55",
@@ -40407,7 +50067,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-law-56",
@@ -40424,7 +50089,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-law-57",
@@ -40441,7 +50111,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-law-58",
@@ -40458,7 +50133,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-law-59",
@@ -40475,7 +50155,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-law-6",
@@ -40509,7 +50194,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-law-61",
@@ -40526,7 +50216,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-law-62",
@@ -40543,7 +50238,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-law-63",
@@ -40900,7 +50600,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_營建法規與實務"
+    "source": "104_營建法規與實務",
+    "visual": {
+      "src": "assets/question-pages/2015-law-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-structure-1",
@@ -40917,7 +50622,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-structure-10",
@@ -40934,7 +50644,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-structure-11",
@@ -40951,7 +50666,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-structure-12",
@@ -40968,7 +50688,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-structure-13",
@@ -40985,7 +50710,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-structure-14",
@@ -41002,7 +50732,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-structure-15",
@@ -41019,7 +50754,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   },
   {
     "id": "104-structure-16",
@@ -41036,7 +50776,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-structure-17",
@@ -41053,7 +50798,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-structure-18",
@@ -41070,7 +50820,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-structure-19",
@@ -41087,7 +50842,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-structure-2",
@@ -41104,7 +50864,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-structure-20",
@@ -41121,7 +50886,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p4.jpg",
+      "alt": "原始試題圖說或表格，第 4 頁",
+      "page": 4
+    }
   },
   {
     "id": "104-structure-21",
@@ -41138,7 +50908,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-structure-22",
@@ -41155,7 +50930,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-structure-23",
@@ -41172,7 +50952,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-structure-24",
@@ -41189,7 +50974,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-structure-25",
@@ -41206,7 +50996,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p5.jpg",
+      "alt": "原始試題圖說或表格，第 5 頁",
+      "page": 5
+    }
   },
   {
     "id": "104-structure-26",
@@ -41223,7 +51018,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-structure-28",
@@ -41240,7 +51040,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p6.jpg",
+      "alt": "原始試題圖說或表格，第 6 頁",
+      "page": 6
+    }
   },
   {
     "id": "104-structure-3",
@@ -41257,7 +51062,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-structure-31",
@@ -41274,7 +51084,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "104-structure-32",
@@ -41291,7 +51106,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p7.jpg",
+      "alt": "原始試題圖說或表格，第 7 頁",
+      "page": 7
+    }
   },
   {
     "id": "104-structure-34",
@@ -41308,7 +51128,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "104-structure-35",
@@ -41325,7 +51150,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "104-structure-36",
@@ -41342,7 +51172,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "104-structure-37",
@@ -41359,7 +51194,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "104-structure-38",
@@ -41376,7 +51216,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "104-structure-39",
@@ -41393,7 +51238,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "104-structure-4",
@@ -41410,7 +51260,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-structure-40",
@@ -41427,7 +51282,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p8.jpg",
+      "alt": "原始試題圖說或表格，第 8 頁",
+      "page": 8
+    }
   },
   {
     "id": "104-structure-5",
@@ -41444,7 +51304,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-structure-6",
@@ -41461,7 +51326,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-structure-7",
@@ -41478,7 +51348,12 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p2.jpg",
+      "alt": "原始試題圖說或表格，第 2 頁",
+      "page": 2
+    }
   },
   {
     "id": "104-structure-9",
@@ -41495,6 +51370,11 @@ window.MOEX_QUESTIONS = [
     "answerSource": "official",
     "answerSourceLabel": "考選部標準答案",
     "explain": "考選部官方歷屆試題；請以原始試題及更正答案為準。",
-    "source": "104_建築結構"
+    "source": "104_建築結構",
+    "visual": {
+      "src": "assets/question-pages/2015-structure-p3.jpg",
+      "alt": "原始試題圖說或表格，第 3 頁",
+      "page": 3
+    }
   }
 ];
